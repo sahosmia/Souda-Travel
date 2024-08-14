@@ -1,0 +1,212 @@
+[
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de670"
+    },
+    "name": "Cox's Bazar",
+    "slug": "coxs-bazar",
+    "about": "Cox's Bazar is the longest natural sea beach in the world, located in southeastern Bangladesh.",
+    "location": "Chittagong",
+    "image": "coxs-bazar.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      },
+      {
+        "$oid": "66bc1771e063176c465de681"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de671"
+    },
+    "name": "Sundarbans",
+    "slug": "sundarbans",
+    "about": "The Sundarbans is the largest mangrove forest in the world, home to the Royal Bengal Tiger.",
+    "location": "Khulna",
+    "image": "sundarbans.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      },
+      {
+        "$oid": "66bc1771e063176c465de681"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de672"
+    },
+    "name": "Saint Martin's Island",
+    "slug": "saint-martins-island",
+    "about": "Saint Martin's Island is a small island in the northeastern part of the Bay of Bengal, known for its natural beauty.",
+    "location": "Cox's Bazar",
+    "image": "saint-martins-island.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      },
+      {
+        "$oid": "66bc1771e063176c465de681"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de673"
+    },
+    "name": "Sajek Valley",
+    "slug": "sajek-valley",
+    "about": "Sajek Valley is a popular tourist destination in the Chittagong Hill Tracts, known for its scenic beauty and cloud-covered hills.",
+    "location": "Rangamati",
+    "image": "sajek-valley.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      },
+      {
+        "$oid": "66bc1771e063176c465de682"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de674"
+    },
+    "name": "Paharpur Buddhist Monastery",
+    "slug": "paharpur-buddhist-monastery",
+    "about": "Paharpur Buddhist Monastery, also known as Somapura Mahavihara, is a UNESCO World Heritage Site and one of the most important archaeological sites in South Asia.",
+    "location": "Naogaon",
+    "image": "paharpur-buddhist-monastery.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de682"
+      },
+      {
+        "$oid": "66bc1771e063176c465de68c"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de675"
+    },
+    "name": "Lalbagh Fort",
+    "slug": "lalbagh-fort",
+    "about": "Lalbagh Fort is an incomplete 17th-century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh.",
+    "location": "Dhaka",
+    "image": "lalbagh-fort.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de683"
+      },
+      {
+        "$oid": "66bc1771e063176c465de68a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de676"
+    },
+    "name": "Mahasthangarh",
+    "slug": "mahasthangarh",
+    "about": "Mahasthangarh is one of the earliest urban archaeological sites in Bangladesh, dating back to at least the 3rd century BC.",
+    "location": "Bogra",
+    "image": "mahasthangarh.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de685"
+      },
+      {
+        "$oid": "66bc1771e063176c465de68b"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de677"
+    },
+    "name": "Sonargaon",
+    "slug": "sonargaon",
+    "about": "Sonargaon was a historic administrative, commercial, and maritime center in Bengal, now known for its rich history and heritage sites.",
+    "location": "Narayanganj",
+    "image": "sonargaon.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de684"
+      },
+      {
+        "$oid": "66bc1771e063176c465de685"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de678"
+    },
+    "name": "Jatiyo Sangsad Bhaban",
+    "slug": "jatiyo-sangsad-bhaban",
+    "about": "Jatiyo Sangsad Bhaban is the National Parliament House of Bangladesh, an architectural masterpiece designed by Louis Kahn.",
+    "location": "Dhaka",
+    "image": "jatiyo-sangsad-bhaban.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de683"
+      },
+      {
+        "$oid": "66bc1771e063176c465de68d"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de679"
+    },
+    "name": "Ahsan Manzil",
+    "slug": "ahsan-manzil",
+    "about": "Ahsan Manzil is a historic palace located on the banks of the Buriganga River in Dhaka, now a museum showcasing the history of Dhaka Nawabs.",
+    "location": "Dhaka",
+    "image": "ahsan-manzil.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      },
+      {
+        "$oid": "66bc1771e063176c465de681"
+      }
+    ]
+  }
+]

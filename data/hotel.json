@@ -1,0 +1,159 @@
+[
+  {
+    "_id": { "$oid": "66bc1771e063176c465de680" },
+    "name": "Pan Pacific Sonargaon Dhaka",
+    "slug": "pan-pacific-sonargaon-dhaka",
+    "about": "A luxury hotel located in the heart of Dhaka, offering premium services and amenities.",
+    "location": "Dhaka",
+    "image": "pan-pacific-sonargaon.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [
+      { "$oid": "64bc1671e063176c465de670" },
+      { "$oid": "64bc1671e063176c465de671" }
+    ],
+    "contact": "0195827840"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de681" },
+    "name": "The Westin Dhaka",
+    "slug": "the-westin-dhaka",
+    "about": "A luxurious hotel in Dhaka, known for its high-end amenities and central location.",
+    "location": "Dhaka",
+    "image": "the-westin-dhaka.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de670" }],
+    "contact": "0185827932"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de682" },
+    "name": "Radisson Blu Chattogram Bay View",
+    "slug": "radisson-blu-chattogram-bay-view",
+    "about": "A five-star hotel located in the port city of Chattogram, offering stunning views of the bay.",
+    "location": "Chattogram",
+    "image": "radisson-blu-chattogram.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de672" }],
+    "contact": "0175827940"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de683" },
+    "name": "Hotel Agrabad",
+    "slug": "hotel-agrabad",
+    "about": "A historic hotel in Chattogram, known for its hospitality and rich heritage.",
+    "location": "Chattogram",
+    "image": "hotel-agrabad.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de672" }],
+    "contact": "0165827960"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de684" },
+    "name": "Royal Tulip Sea Pearl Beach Resort",
+    "slug": "royal-tulip-sea-pearl-beach-resort",
+    "about": "A luxurious beachfront resort in Cox's Bazar, offering stunning views of the Bay of Bengal.",
+    "location": "Cox's Bazar",
+    "image": "royal-tulip-sea-pearl.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "contact": "0155827980"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de685" },
+    "name": "Sayeman Beach Resort",
+    "slug": "sayeman-beach-resort",
+    "about": "A luxurious beach resort in Cox's Bazar, known for its stunning location and premium services.",
+    "location": "Cox's Bazar",
+    "image": "sayeman-beach-resort.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "contact": "0165827990"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de686" },
+    "name": "InterContinental Dhaka",
+    "slug": "intercontinental-dhaka",
+    "about": "A five-star hotel offering sophisticated accommodations and excellent service.",
+    "location": "Dhaka",
+    "image": "intercontinental-dhaka.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de670" }],
+    "contact": "0195827888"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de687" },
+    "name": "Hotel Sarina",
+    "slug": "hotel-sarina",
+    "about": "A modern hotel offering comfortable stay and fine dining in Dhaka.",
+    "location": "Dhaka",
+    "image": "hotel-sarina.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de671" }],
+    "contact": "0185827998"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de688" },
+    "name": "Chandana Hotel",
+    "slug": "chandana-hotel",
+    "about": "A well-known hotel providing comfort and convenience in Chattogram.",
+    "location": "Chattogram",
+    "image": "chandana-hotel.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de672" }],
+    "contact": "0175827970"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de689" },
+    "name": "Hotel Ocean Paradise",
+    "slug": "hotel-ocean-paradise",
+    "about": "A beachfront hotel offering beautiful views and a relaxing stay in Chattogram.",
+    "location": "Chattogram",
+    "image": "hotel-ocean-paradise.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "contact": "0185827900"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de68a" },
+    "name": "Hotel The Cox Today",
+    "slug": "hotel-the-cox-today",
+    "about": "A popular hotel in Cox's Bazar with beautiful views of the sea and comfortable accommodations.",
+    "location": "Cox's Bazar",
+    "image": "hotel-the-cox-today.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "contact": "0155827910"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de68b" },
+    "name": "Long Beach Hotel",
+    "slug": "long-beach-hotel",
+    "about": "A well-known hotel in Cox's Bazar offering good facilities and beach access.",
+    "location": "Cox's Bazar",
+    "image": "long-beach-hotel.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "contact": "0175827985"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de68c" },
+    "name": "Hotel Noorjahan Grand",
+    "slug": "hotel-noorjahan-grand",
+    "about": "A luxurious hotel in Sylhet offering elegant rooms and fine dining.",
+    "location": "Sylhet",
+    "image": "hotel-noorjahan-grand.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de674" }],
+    "contact": "0175827999"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de68d" },
+    "name": "Jaintia Hills Hotel",
+    "slug": "jaintia-hills-hotel",
+    "about": "Known for its beautiful views and comfortable stay in Sylhet.",
+    "location": "Sylhet",
+    "image": "jaintia-hills-hotel.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de674" }],
+    "contact": "0185827955"
+  }
+]

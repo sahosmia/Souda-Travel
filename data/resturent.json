@@ -1,0 +1,730 @@
+[{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d437e"
+  },
+  "name": "La Pergola",
+  "slug": "la-pergola",
+  "about": "A Michelin-starred restaurant in Rome, offering gourmet Italian cuisine with a stunning view of the city.",
+  "location": "Rome",
+  "image": "la-pergola.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d437f"
+  },
+  "name": "Narisawa",
+  "slug": "narisawa",
+  "about": "An innovative dining experience in Tokyo, blending traditional Japanese ingredients with modern culinary techniques.",
+  "location": "Tokyo",
+  "image": "narisawa.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4380"
+  },
+  "name": "Le Bernardin",
+  "slug": "le-bernardin",
+  "about": "A renowned seafood restaurant in New York City, known for its elegant dining and exquisite dishes.",
+  "location": "New York",
+  "image": "le-bernardin.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4381"
+  },
+  "name": "Gaggan",
+  "slug": "gaggan",
+  "about": "A progressive Indian restaurant in Bangkok, offering a unique and playful tasting menu.",
+  "location": "Bangkok",
+  "image": "gaggan.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4382"
+  },
+  "name": "El Celler de Can Roca",
+  "slug": "el-celler-de-can-roca",
+  "about": "A family-run restaurant in Girona, Spain, known for its innovative and artfully presented dishes.",
+  "location": "Girona",
+  "image": "el-celler-de-can-roca.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4383"
+  },
+  "name": "Central",
+  "slug": "central",
+  "about": "A top-ranked restaurant in Lima, Peru, celebrating the diverse ecosystems of Peru through its unique tasting menu.",
+  "location": "Lima",
+  "image": "central.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4384"
+  },
+  "name": "Osteria Francescana",
+  "slug": "osteria-francescana",
+  "about": "A three-Michelin-starred restaurant in Modena, Italy, blending traditional Italian flavors with modern art.",
+  "location": "Modena",
+  "image": "osteria-francescana.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4385"
+  },
+  "name": "Eleven Madison Park",
+  "slug": "eleven-madison-park",
+  "about": "A luxurious restaurant in New York City, offering a seasonal tasting menu that highlights local ingredients.",
+  "location": "New York",
+  "image": "eleven-madison-park.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4386"
+  },
+  "name": "Mugaritz",
+  "slug": "mugaritz",
+  "about": "A cutting-edge restaurant in San Sebastián, Spain, known for its avant-garde approach to Basque cuisine.",
+  "location": "San Sebastián",
+  "image": "mugaritz.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4387"
+  },
+  "name": "Quintonil",
+  "slug": "quintonil",
+  "about": "A celebrated restaurant in Mexico City, offering a modern take on traditional Mexican flavors.",
+  "location": "Mexico City",
+  "image": "quintonil.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4388"
+  },
+  "name": "D.O.M.",
+  "slug": "dom",
+  "about": "A restaurant in São Paulo, Brazil, known for its use of indigenous Brazilian ingredients in creative dishes.",
+  "location": "São Paulo",
+  "image": "dom.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4389"
+  },
+  "name": "Pujol",
+  "slug": "pujol",
+  "about": "A top-tier restaurant in Mexico City, known for its modern interpretation of traditional Mexican dishes.",
+  "location": "Mexico City",
+  "image": "pujol.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d438a"
+  },
+  "name": "Geranium",
+  "slug": "geranium",
+  "about": "A three-Michelin-starred restaurant in Copenhagen, offering a seasonal tasting menu with a focus on Scandinavian flavors.",
+  "location": "Copenhagen",
+  "image": "geranium.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d438b"
+  },
+  "name": "Blue Hill at Stone Barns",
+  "slug": "blue-hill-at-stone-barns",
+  "about": "A farm-to-table restaurant in New York, known for its sustainable approach to fine dining.",
+  "location": "New York",
+  "image": "blue-hill-at-stone-barns.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d438c"
+  },
+  "name": "Noma",
+  "slug": "noma",
+  "about": "A world-famous restaurant in Copenhagen, known for its innovative approach to Nordic cuisine.",
+  "location": "Copenhagen",
+  "image": "noma.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d438d"
+  },
+  "name": "Azurmendi",
+  "slug": "azurmendi",
+  "about": "A three-Michelin-starred restaurant in Larrabetzu, Spain, known for its focus on sustainability and avant-garde Basque cuisine.",
+  "location": "Larrabetzu",
+  "image": "azurmendi.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d438e"
+  },
+  "name": "The Ledbury",
+  "slug": "the-ledbury",
+  "about": "A two-Michelin-starred restaurant in London, offering modern European cuisine with a focus on seasonal ingredients.",
+  "location": "London",
+  "image": "the-ledbury.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d438f"
+  },
+  "name": "Alinea",
+  "slug": "alinea",
+  "about": "A three-Michelin-starred restaurant in Chicago, known for its cutting-edge molecular gastronomy.",
+  "location": "Chicago",
+  "image": "alinea.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4390"
+  },
+  "name": "Sukiyabashi Jiro",
+  "slug": "sukiyabashi-jiro",
+  "about": "A world-renowned sushi restaurant in Tokyo, offering an unforgettable omakase experience.",
+  "location": "Tokyo",
+  "image": "sukiyabashi-jiro.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4391"
+  },
+  "name": "The French Laundry",
+  "slug": "the-french-laundry",
+  "about": "A three-Michelin-starred restaurant in Napa Valley, California, offering a refined tasting menu with French influences.",
+  "location": "Napa Valley",
+  "image": "the-french-laundry.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4392"
+  },
+  "name": "Arpège",
+  "slug": "arpege",
+  "about": "A three-Michelin-starred restaurant in Paris, known for its focus on vegetable-centric dishes.",
+  "location": "Paris",
+  "image": "arpege.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4393"
+  },
+  "name": "Steirereck",
+  "slug": "steirereck",
+  "about": "A two-Michelin-starred restaurant in Vienna, Austria, offering modern Austrian cuisine with a focus on local ingredients.",
+  "location": "Vienna",
+  "image": "steirereck.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4394"
+  },
+  "name": "Asador Etxebarri",
+  "slug": "asador-etxebarri",
+  "about": "A unique restaurant in the Basque Country, Spain, known for its mastery of grilling techniques.",
+  "location": "Axpe, Spain",
+  "image": "asador-etxebarri.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4395"
+  },
+  "name": "Le Calandre",
+  "slug": "le-calandre",
+  "about": "A three-Michelin-starred restaurant in Padua, Italy, offering an innovative take on traditional Italian cuisine.",
+  "location": "Padua",
+  "image": "le-calandre.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4396"
+  },
+  "name": "La Colombe",
+  "slug": "la-colombe",
+  "about": "A top-rated restaurant in Cape Town, South Africa, offering a modern fusion of French and Asian cuisine.",
+  "location": "Cape Town",
+  "image": "la-colombe.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4397"
+  },
+  "name": "Attica",
+  "slug": "attica",
+  "about": "A celebrated restaurant in Melbourne, Australia, known for its innovative and locally inspired dishes.",
+  "location": "Melbourne",
+  "image": "attica.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4398"
+  },
+  "name": "Odette",
+  "slug": "odette",
+  "about": "A three-Michelin-starred restaurant in Singapore, offering a refined and artistic approach to modern French cuisine.",
+  "location": "Singapore",
+  "image": "odette.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d4399"
+  },
+  "name": "Maido",
+  "slug": "maido",
+  "about": "A top-ranked restaurant in Lima, Peru, known for its unique fusion of Japanese and Peruvian flavors.",
+  "location": "Lima",
+  "image": "maido.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d439a"
+  },
+  "name": "Le Gavroche",
+  "slug": "le-gavroche",
+  "about": "A historic restaurant in London, offering classic French cuisine in an elegant setting.",
+  "location": "London",
+  "image": "le-gavroche.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d439b"
+  },
+  "name": "Dinner by Heston Blumenthal",
+  "slug": "dinner-by-heston-blumenthal",
+  "about": "A Michelin-starred restaurant in London, offering a modern twist on historical British dishes.",
+  "location": "London",
+  "image": "dinner-by-heston-blumenthal.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d439c"
+  },
+  "name": "Quay",
+  "slug": "quay",
+  "about": "A top-rated restaurant in Sydney, Australia, offering a modern take on Australian cuisine with stunning views of the Sydney Opera House.",
+  "location": "Sydney",
+  "image": "quay.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d439d"
+  },
+  "name": "Cosme",
+  "slug": "cosme",
+  "about": "A contemporary Mexican restaurant in New York City, offering a vibrant menu inspired by traditional flavors.",
+  "location": "New York",
+  "image": "cosme.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d439e"
+  },
+  "name": "Ultraviolet",
+  "slug": "ultraviolet",
+  "about": "A unique dining experience in Shanghai, combining cutting-edge technology with avant-garde cuisine.",
+  "location": "Shanghai",
+  "image": "ultraviolet.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d439f"
+  },
+  "name": "Osteria Mozza",
+  "slug": "osteria-mozza",
+  "about": "A celebrated Italian restaurant in Los Angeles, known for its fresh pasta and creative dishes.",
+  "location": "Los Angeles",
+  "image": "osteria-mozza.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a0"
+  },
+  "name": "El Club Allard",
+  "slug": "el-club-allard",
+  "about": "A two-Michelin-starred restaurant in Madrid, offering a creative and artistic approach to modern Spanish cuisine.",
+  "location": "Madrid",
+  "image": "el-club-allard.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a1"
+  },
+  "name": "The Test Kitchen",
+  "slug": "the-test-kitchen",
+  "about": "A top-rated restaurant in Cape Town, South Africa, known for its innovative and locally inspired dishes.",
+  "location": "Cape Town",
+  "image": "the-test-kitchen.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a2"
+  },
+  "name": "Per Se",
+  "slug": "per-se",
+  "about": "A three-Michelin-starred restaurant in New York City, offering an elegant tasting menu with French influences.",
+  "location": "New York",
+  "image": "per-se.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a3"
+  },
+  "name": "Momofuku Ko",
+  "slug": "momofuku-ko",
+  "about": "A modern American restaurant in New York City, offering a seasonal tasting menu with a focus on local ingredients.",
+  "location": "New York",
+  "image": "momofuku-ko.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a4"
+  },
+  "name": "The Fat Duck",
+  "slug": "the-fat-duck",
+  "about": "A three-Michelin-starred restaurant in Bray, England, known for its experimental approach to modern British cuisine.",
+  "location": "Bray",
+  "image": "the-fat-duck.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a5"
+  },
+  "name": "Ginza Kojyu",
+  "slug": "ginza-kojyu",
+  "about": "A Michelin-starred restaurant in Tokyo, offering a traditional kaiseki dining experience.",
+  "location": "Tokyo",
+  "image": "ginza-kojyu.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a6"
+  },
+  "name": "Aqua",
+  "slug": "aqua",
+  "about": "A three-Michelin-starred restaurant in Wolfsburg, Germany, offering modern European cuisine in an elegant setting.",
+  "location": "Wolfsburg",
+  "image": "aqua.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a7"
+  },
+  "name": "The Jane",
+  "slug": "the-jane",
+  "about": "A top-rated restaurant in Antwerp, Belgium, offering a modern and artistic approach to European cuisine.",
+  "location": "Antwerp",
+  "image": "the-jane.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a8"
+  },
+  "name": "Frantzén",
+  "slug": "frantzen",
+  "about": "A three-Michelin-starred restaurant in Stockholm, Sweden, offering an innovative and artistic tasting menu.",
+  "location": "Stockholm",
+  "image": "frantzen.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43a9"
+  },
+  "name": "Amass",
+  "slug": "amass",
+  "about": "A modern restaurant in Copenhagen, offering a creative and sustainable approach to fine dining.",
+  "location": "Copenhagen",
+  "image": "amass.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43aa"
+  },
+  "name": "L'Atelier de Joël Robuchon",
+  "slug": "latelier-de-joel-robuchon",
+  "about": "A renowned restaurant in Paris, offering a modern and artistic take on classic French cuisine.",
+  "location": "Paris",
+  "image": "latelier-de-joel-robuchon.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43ab"
+  },
+  "name": "Vendôme",
+  "slug": "vendome",
+  "about": "A three-Michelin-starred restaurant in Bergisch Gladbach, Germany, offering modern European cuisine in an elegant setting.",
+  "location": "Bergisch Gladbach",
+  "image": "vendome.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43ac"
+  },
+  "name": "Le Chateaubriand",
+  "slug": "le-chateaubriand",
+  "about": "A modern French restaurant in Paris, known for its innovative and ever-changing menu.",
+  "location": "Paris",
+  "image": "le-chateaubriand.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43ad"
+  },
+  "name": "Mikla",
+  "slug": "mikla",
+  "about": "A top-rated restaurant in Istanbul, Turkey, offering a modern take on traditional Turkish cuisine.",
+  "location": "Istanbul",
+  "image": "mikla.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43ae"
+  },
+  "name": "The Clove Club",
+  "slug": "the-clove-club",
+  "about": "A Michelin-starred restaurant in London, offering a modern and innovative approach to British cuisine.",
+  "location": "London",
+  "image": "the-clove-club.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43af"
+  },
+  "name": "Restaurant Tim Raue",
+  "slug": "restaurant-tim-raue",
+  "about": "A two-Michelin-starred restaurant in Berlin, Germany, offering a modern and artistic take on Asian cuisine.",
+  "location": "Berlin",
+  "image": "restaurant-tim-raue.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b0"
+  },
+  "name": "Zuma",
+  "slug": "zuma",
+  "about": "A contemporary Japanese restaurant in London, offering a stylish and vibrant dining experience.",
+  "location": "London",
+  "image": "zuma.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b1"
+  },
+  "name": "Hof van Cleve",
+  "slug": "hof-van-cleve",
+  "about": "A three-Michelin-starred restaurant in Kruishoutem, Belgium, offering a modern and artistic take on Belgian cuisine.",
+  "location": "Kruishoutem",
+  "image": "hof-van-cleve.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b2"
+  },
+  "name": "Sühring",
+  "slug": "suhring",
+  "about": "A top-rated restaurant in Bangkok, Thailand, offering a modern take on traditional German cuisine.",
+  "location": "Bangkok",
+  "image": "suhring.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b3"
+  },
+  "name": "Belcanto",
+  "slug": "belcanto",
+  "about": "A two-Michelin-starred restaurant in Lisbon, Portugal, offering a modern and artistic take on traditional Portuguese cuisine.",
+  "location": "Lisbon",
+  "image": "belcanto.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b5"
+  },
+  "name": "Coi",
+  "slug": "coi",
+  "about": "A two-Michelin-starred restaurant in San Francisco, California, offering a modern and artistic take on Californian cuisine.",
+  "location": "San Francisco",
+  "image": "coi.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b6"
+  },
+  "name": "Matsuhisa",
+  "slug": "matsuhisa",
+  "about": "A contemporary Japanese restaurant in Los Angeles, offering a stylish and vibrant dining experience.",
+  "location": "Los Angeles",
+  "image": "matsuhisa.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b7"
+  },
+  "name": "Ristorante Cracco",
+  "slug": "ristorante-cracco",
+  "about": "A Michelin-starred restaurant in Milan, Italy, offering a modern and artistic take on Italian cuisine.",
+  "location": "Milan",
+  "image": "ristorante-cracco.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b8"
+  },
+  "name": "RyuGin",
+  "slug": "ryugin",
+  "about": "A three-Michelin-starred restaurant in Tokyo, offering a modern and artistic take on traditional Japanese cuisine.",
+  "location": "Tokyo",
+  "image": "ryugin.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43b9"
+  },
+  "name": "The Restaurant at Meadowood",
+  "slug": "the-restaurant-at-meadowood",
+  "about": "A three-Michelin-starred restaurant in Napa Valley, California, offering a modern and artistic take on Californian cuisine.",
+  "location": "Napa Valley",
+  "image": "the-restaurant-at-meadowood.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43ba"
+  },
+  "name": "Le Meurice",
+  "slug": "le-meurice",
+  "about": "A two-Michelin-starred restaurant in Paris, offering a modern and artistic take on classic French cuisine.",
+  "location": "Paris",
+  "image": "le-meurice.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43bb"
+  },
+  "name": "The Grill",
+  "slug": "the-grill",
+  "about": "A top-rated restaurant in New York City, offering a modern take on classic American cuisine.",
+  "location": "New York",
+  "image": "the-grill.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43bc"
+  },
+  "name": "La Dame de Pic",
+  "slug": "la-dame-de-pic",
+  "about": "A Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
+  "location": "Paris",
+  "image": "la-dame-de-pic.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43bd"
+  },
+  "name": "Restaurant André",
+  "slug": "restaurant-andre",
+  "about": "A Michelin-starred restaurant in Singapore, offering a modern and artistic take on French cuisine.",
+  "location": "Singapore",
+  "image": "restaurant-andre.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43be"
+  },
+  "name": "The Modern",
+  "slug": "the-modern",
+  "about": "A two-Michelin-starred restaurant in New York City, offering a modern and artistic take on American cuisine.",
+  "location": "New York",
+  "image": "the-modern.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43bf"
+  },
+  "name": "Pierre Gagnaire",
+  "slug": "pierre-gagnaire",
+  "about": "A three-Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
+  "location": "Paris",
+  "image": "pierre-gagnaire.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43c0"
+  },
+  "name": "Restaurant Gordon Ramsay",
+  "slug": "restaurant-gordon-ramsay",
+  "about": "A three-Michelin-starred restaurant in London, offering a modern and artistic take on British cuisine.",
+  "location": "London",
+  "image": "restaurant-gordon-ramsay.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43c1"
+  },
+  "name": "The River Café",
+  "slug": "the-river-cafe",
+  "about": "A Michelin-starred restaurant in London, offering a modern and artistic take on Italian cuisine.",
+  "location": "London",
+  "image": "the-river-cafe.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43c2"
+  },
+  "name": "Robuchon au Dôme",
+  "slug": "robuchon-au-dome",
+  "about": "A three-Michelin-starred restaurant in Macau, offering a modern and artistic take on French cuisine.",
+  "location": "Macau",
+  "image": "robuchon-au-dome.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43c3"
+  },
+  "name": "Il Ristorante - Niko Romito",
+  "slug": "il-ristorante-niko-romito",
+  "about": "A Michelin-starred restaurant in Dubai, offering a modern and artistic take on Italian cuisine.",
+  "location": "Dubai",
+  "image": "il-ristorante-niko-romito.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43c4"
+  },
+  "name": "Tetsuya's",
+  "slug": "tetsuyas",
+  "about": "A top-rated restaurant in Sydney, Australia, offering a modern and artistic take on Japanese cuisine.",
+  "location": "Sydney",
+  "image": "tetsuyas.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43c5"
+  },
+  "name": "Guy Savoy",
+  "slug": "guy-savoy",
+  "about": "A three-Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
+  "location": "Paris",
+  "image": "guy-savoy.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43c6"
+  },
+  "name": "Epicure",
+  "slug": "epicure",
+  "about": "A three-Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
+  "location": "Paris",
+  "image": "epicure.jpg"
+},
+{
+  "_id": {
+    "$oid": "66bb899a3b76361b7f2d43c7"
+  },
+  "name": "Joël Robuchon",
+  "slug": "joel-robuchon",
+  "about": "A three-Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
+  "location": "Paris",
+  "image": "joel-robuchon.jpg"
+}]

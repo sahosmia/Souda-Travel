@@ -3,7 +3,6 @@ import { getDestination } from "@/controller/destinationController";
 
 const Resturents = async () => {
   const destinations = await getDestination();
-  // console.log(destinations);
 
   return (
     <section className="container">

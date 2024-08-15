@@ -6,6 +6,10 @@ const DestinationSchema = new mongoose.Schema({
   image: { type: String, required: true },
   about: { type: String, required: true },
   location: { type: String, required: true },
+  map: { type: String, required: true },
+  food: { type: String, required: true },
+  thumbnail: { type: String, required: true },
+  sliders: [{ type: String }],
   country: { type: mongoose.Schema.Types.ObjectId, ref: "Country" },
   hotels: [{ type: mongoose.Schema.Types.ObjectId, ref: "Hotel" }],
 });

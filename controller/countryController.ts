@@ -3,10 +3,24 @@ import Country from "@/models/Country";
 import Destination from "@/models/Destination";
 import Hotel from "@/models/Hotel";
 
-export const getCountry = async () => {
-  await dbConnect();
-  const countries = await Country.find();
-  return countries;
+export const getCountry = async (search?: string) => {
+  try {
+    await dbConnect();
+    let countries;
+
+    if (search) {
+      // Case-insensitive search using regex
+      countries = await Country.find({
+        name: { $regex: new RegExp(search, "i") },
+      }).exec();
+    } else {
+      countries = await Country.find().exec();
+    }
+    return countries;
+  } catch (error) {
+    console.error("Error fetching countries:", error);
+    throw new Error("Failed to fetch countries");
+  }
 };
 
 export const getCountryItem = async (slug: string) => {
@@ -21,13 +35,7 @@ export const getCountryItem = async (slug: string) => {
       model: Hotel,
     })
     .exec();
-  // .populate("hotels")
-  // .populate("resturents")
-  // .populate("foods");
-  // const destinations = await Destination.find({ country_id: country._id });
-  // country.destinations = destinations;
-  // console.log(destinations);
-  console.log(country);
+
 
   return country;
 };

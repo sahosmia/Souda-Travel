@@ -8,6 +8,14 @@
     "about": "Cox's Bazar is the longest natural sea beach in the world, located in southeastern Bangladesh.",
     "location": "Chittagong",
     "image": "coxs-bazar.jpg",
+    "thumbnail": "coxs-bazar-thumbnail.jpg",
+    "sliders": [
+      "coxs-bazar-slider-1.jpg",
+      "coxs-bazar-slider-2.jpg",
+      "coxs-bazar-slider-3.jpg"
+    ],
+    "food": "Fried Fish, Ruti with Shutki Bhorta, and fresh seafood, especially prawns and lobsters.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.741089281741!2d91.96547941493258!3d21.4272160857746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc865d620ccc5%3A0x8e947f4c6f244d0!2sCox's%20Bazar!5e0!3m2!1sen!2sbd!4v1692126822768!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
@@ -29,6 +37,14 @@
     "about": "The Sundarbans is the largest mangrove forest in the world, home to the Royal Bengal Tiger.",
     "location": "Khulna",
     "image": "sundarbans.jpg",
+    "thumbnail": "sundarbans-thumbnail.jpg",
+    "sliders": [
+      "sundarbans-slider-1.jpg",
+      "sundarbans-slider-2.jpg",
+      "sundarbans-slider-3.jpg"
+    ],
+    "food": "Bhapa Ilish (Steamed Hilsa), Chingri Malai Curry (Prawn in Coconut Milk), and various fish preparations.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14737.940818462513!2d89.31248701498142!3d22.13655458579165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a000b56777360d7%3A0x32f7a10c9b2398d4!2sSundarbans%20Mangrove%20Forest!5e0!3m2!1sen!2sbd!4v1692353230129!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
@@ -50,6 +66,14 @@
     "about": "Saint Martin's Island is a small island in the northeastern part of the Bay of Bengal, known for its natural beauty.",
     "location": "Cox's Bazar",
     "image": "saint-martins-island.jpg",
+    "thumbnail": "saint-martins-island-thumbnail.jpg",
+    "sliders": [
+      "saint-martins-island-slider-1.jpg",
+      "saint-martins-island-slider-2.jpg",
+      "saint-martins-island-slider-3.jpg"
+    ],
+    "food": "Seafood platters including crabs and prawns, and coconut water.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28808.292128112574!2d92.31964236899496!3d20.627846420730154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adf00f63b8e109%3A0x54570c5cf7688b1a!2sSaint%20Martin's%20Island!5e0!3m2!1sen!2sbd!4v1692127006430!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
@@ -71,6 +95,14 @@
     "about": "Sajek Valley is a popular tourist destination in the Chittagong Hill Tracts, known for its scenic beauty and cloud-covered hills.",
     "location": "Rangamati",
     "image": "sajek-valley.jpg",
+    "thumbnail": "sajek-valley-thumbnail.jpg",
+    "sliders": [
+      "sajek-valley-slider-1.jpg",
+      "sajek-valley-slider-2.jpg",
+      "sajek-valley-slider-3.jpg"
+    ],
+    "food": "Bamboo Chicken, Hill Tracts style Shutki Bhorta, and various indigenous dishes made from fresh local ingredients.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115758.53013676195!2d92.27959640780822!3d23.383869292354254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374e7d0912ac647b%3A0x79863a8980a0be6c!2sSajek%20Valley!5e0!3m2!1sen!2sbd!4v1692353351727!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
@@ -92,15 +124,20 @@
     "about": "Paharpur Buddhist Monastery, also known as Somapura Mahavihara, is a UNESCO World Heritage Site and one of the most important archaeological sites in South Asia.",
     "location": "Naogaon",
     "image": "paharpur-buddhist-monastery.jpg",
+    "thumbnail": "paharpur-buddhist-monastery-thumbnail.jpg",
+    "sliders": [
+      "paharpur-buddhist-monastery-slider-1.jpg",
+      "paharpur-buddhist-monastery-slider-2.jpg",
+      "paharpur-buddhist-monastery-slider-3.jpg"
+    ],
+    "food": "Marma-style chicken, sticky rice, and various indigenous dishes including bamboo shoot curry.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.501472580814!2d88.97611491498311!3d25.03104718397633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fbd693dc196fd7%3A0xc0a3edc01672dce7!2sPaharpur%20Buddhist%20Monastery!5e0!3m2!1sen!2sbd!4v1692353413657!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
     "hotels": [
       {
-        "$oid": "66bc1771e063176c465de682"
-      },
-      {
-        "$oid": "66bc1771e063176c465de68c"
+        "$oid": "66bc1771e063176c465de680"
       }
     ]
   },
@@ -110,18 +147,23 @@
     },
     "name": "Lalbagh Fort",
     "slug": "lalbagh-fort",
-    "about": "Lalbagh Fort is an incomplete 17th-century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh.",
+    "about": "Lalbagh Fort is an incomplete Mughal fort complex that stands as one of the most important monuments in Dhaka, Bangladesh.",
     "location": "Dhaka",
     "image": "lalbagh-fort.jpg",
+    "thumbnail": "lalbagh-fort-thumbnail.jpg",
+    "sliders": [
+      "lalbagh-fort-slider-1.jpg",
+      "lalbagh-fort-slider-2.jpg",
+      "lalbagh-fort-slider-3.jpg"
+    ],
+    "food": "Mughlai Paratha, Kacchi Biryani, and various traditional Bengali sweets.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.6771441519867!2d90.3982883149825!3d23.71973848460211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b90b7e4d9a87%3A0xd2c4f57af0a62bcb!2sLalbagh%20Fort!5e0!3m2!1sen!2sbd!4v1692353473988!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
     "hotels": [
       {
-        "$oid": "66bc1771e063176c465de683"
-      },
-      {
-        "$oid": "66bc1771e063176c465de68a"
+        "$oid": "66bc1771e063176c465de680"
       }
     ]
   },
@@ -131,18 +173,23 @@
     },
     "name": "Mahasthangarh",
     "slug": "mahasthangarh",
-    "about": "Mahasthangarh is one of the earliest urban archaeological sites in Bangladesh, dating back to at least the 3rd century BC.",
+    "about": "Mahasthangarh is one of the earliest urban archaeological sites in Bangladesh, located in the Bogra district.",
     "location": "Bogra",
     "image": "mahasthangarh.jpg",
+    "thumbnail": "mahasthangarh-thumbnail.jpg",
+    "sliders": [
+      "mahasthangarh-slider-1.jpg",
+      "mahasthangarh-slider-2.jpg",
+      "mahasthangarh-slider-3.jpg"
+    ],
+    "food": "Bogurar Doi (Bogra's famous yogurt), various pithas, and traditional Bengali rice and fish dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14727.45661532168!2d89.3434357149825!3d24.9635104844145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fdab3e1243e2fb%3A0xd8da1221b618599b!2sMahasthangarh!5e0!3m2!1sen!2sbd!4v1692353553549!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
     "hotels": [
       {
-        "$oid": "66bc1771e063176c465de685"
-      },
-      {
-        "$oid": "66bc1771e063176c465de68b"
+        "$oid": "66bc1771e063176c465de680"
       }
     ]
   },
@@ -152,18 +199,23 @@
     },
     "name": "Sonargaon",
     "slug": "sonargaon",
-    "about": "Sonargaon was a historic administrative, commercial, and maritime center in Bengal, now known for its rich history and heritage sites.",
+    "about": "Sonargaon was the capital of ancient Bengal and is now a historical and cultural hub, housing many remnants of its past glory.",
     "location": "Narayanganj",
     "image": "sonargaon.jpg",
+    "thumbnail": "sonargaon-thumbnail.jpg",
+    "sliders": [
+      "sonargaon-slider-1.jpg",
+      "sonargaon-slider-2.jpg",
+      "sonargaon-slider-3.jpg"
+    ],
+    "food": "Traditional Bengali rice and curry dishes, Panta Ilish (fermented rice with Hilsa fish), and various sweetmeats.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.5683014644686!2d90.60872571498259!3d23.722585684600783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755ad321340a89d%3A0x8777b0e77a176caf!2sSonargaon!5e0!3m2!1sen!2sbd!4v1692353613579!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
     "hotels": [
       {
-        "$oid": "66bc1771e063176c465de684"
-      },
-      {
-        "$oid": "66bc1771e063176c465de685"
+        "$oid": "66bc1771e063176c465de680"
       }
     ]
   },
@@ -173,18 +225,23 @@
     },
     "name": "Jatiyo Sangsad Bhaban",
     "slug": "jatiyo-sangsad-bhaban",
-    "about": "Jatiyo Sangsad Bhaban is the National Parliament House of Bangladesh, an architectural masterpiece designed by Louis Kahn.",
+    "about": "The National Parliament House, Jatiyo Sangsad Bhaban, is a majestic architectural marvel designed by Louis I. Kahn.",
     "location": "Dhaka",
     "image": "jatiyo-sangsad-bhaban.jpg",
+    "thumbnail": "jatiyo-sangsad-bhaban-thumbnail.jpg",
+    "sliders": [
+      "jatiyo-sangsad-bhaban-slider-1.jpg",
+      "jatiyo-sangsad-bhaban-slider-2.jpg",
+      "jatiyo-sangsad-bhaban-slider-3.jpg"
+    ],
+    "food": "Traditional Bengali dishes including Bhuna Khichuri, Tehari, and various sweets like Roshogolla.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.4204668207897!2d90.3842460149825!3d23.726340884598265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b854b41b9d25%3A0xdfed3151d9168d9e!2sNational%20Parliament%20House!5e0!3m2!1sen!2sbd!4v1692353675442!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
     "hotels": [
       {
-        "$oid": "66bc1771e063176c465de683"
-      },
-      {
-        "$oid": "66bc1771e063176c465de68d"
+        "$oid": "66bc1771e063176c465de680"
       }
     ]
   },
@@ -194,18 +251,179 @@
     },
     "name": "Ahsan Manzil",
     "slug": "ahsan-manzil",
-    "about": "Ahsan Manzil is a historic palace located on the banks of the Buriganga River in Dhaka, now a museum showcasing the history of Dhaka Nawabs.",
+    "about": "Ahsan Manzil was the official residential palace and seat of the Nawab of Dhaka.",
     "location": "Dhaka",
     "image": "ahsan-manzil.jpg",
+    "thumbnail": "ahsan-manzil-thumbnail.jpg",
+    "sliders": [
+      "ahsan-manzil-slider-1.jpg",
+      "ahsan-manzil-slider-2.jpg",
+      "ahsan-manzil-slider-3.jpg"
+    ],
+    "food": "Traditional Bengali dishes including Kacchi Biryani, various fish dishes, and traditional sweets.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.5547490589365!2d90.35777851498256!3d23.72552038460128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b83d09b6fc77%3A0x9f2c9b93e1e5da5!2sAhsan%20Manzil!5e0!3m2!1sen!2sbd!4v1692353748145!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
     "hotels": [
       {
         "$oid": "66bc1771e063176c465de680"
-      },
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de680"
+    },
+    "name": "Kuakata",
+    "slug": "kuakata",
+    "about": "Kuakata is known for its wide sandy beach and beautiful sunrise and sunset views.",
+    "location": "Patuakhali",
+    "image": "kuakata.jpg",
+    "thumbnail": "kuakata-thumbnail.jpg",
+    "sliders": [
+      "kuakata-slider-1.jpg",
+      "kuakata-slider-2.jpg",
+      "kuakata-slider-3.jpg"
+    ],
+    "food": "Fresh seafood, Panta Bhat (fermented rice), and various local Bengali dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.0151358026607!2d90.23308961498258!3d21.537673583974504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ab4b9b3fc8bd17%3A0x4c9b7a2c7a56f85!2sKuakata!5e0!3m2!1sen!2sbd!4v1692353812178!5m2!1sen!2sbd",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
       {
-        "$oid": "66bc1771e063176c465de681"
+        "$oid": "66bc1771e063176c465de680"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de681"
+    },
+    "name": "Rangamati",
+    "slug": "rangamati",
+    "about": "Rangamati is renowned for its scenic beauty and its location around the Kaptai Lake.",
+    "location": "Rangamati",
+    "image": "rangamati.jpg",
+    "thumbnail": "rangamati-thumbnail.jpg",
+    "sliders": [
+      "rangamati-slider-1.jpg",
+      "rangamati-slider-2.jpg",
+      "rangamati-slider-3.jpg"
+    ],
+    "food": "Bamboo Chicken, fish curry, and various indigenous dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115930.57271005237!2d92.20668931498256!3d23.424654184371516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374e7e2b4f6a1b8b%3A0x74d7bfc91a7a4e8b!2sRangamati!5e0!3m2!1sen!2sbd!4v1692353876714!5m2!1sen!2sbd",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de682"
+    },
+    "name": "Bandarban",
+    "slug": "bandarban",
+    "about": "Bandarban is a hilly district known for its beautiful landscapes and indigenous communities.",
+    "location": "Bandarban",
+    "image": "bandarban.jpg",
+    "thumbnail": "bandarban-thumbnail.jpg",
+    "sliders": [
+      "bandarban-slider-1.jpg",
+      "bandarban-slider-2.jpg",
+      "bandarban-slider-3.jpg"
+    ],
+    "food": "Bamboo Chicken, fish curry, and various traditional hill tract dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115835.29454705872!2d92.26651231498257!3d23.21267628430845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374e4c918c11f4b5%3A0x4998a1aa1e0c5a4b!2sBandarban!5e0!3m2!1sen!2sbd!4v1692353942872!5m2!1sen!2sbd",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de683"
+    },
+    "name": "Jaflong",
+    "slug": "jaflong",
+    "about": "Jaflong is a picturesque area known for its stone collection activities and beautiful landscapes.",
+    "location": "Sylhet",
+    "image": "jaflong.jpg",
+    "thumbnail": "jaflong-thumbnail.jpg",
+    "sliders": [
+      "jaflong-slider-1.jpg",
+      "jaflong-slider-2.jpg",
+      "jaflong-slider-3.jpg"
+    ],
+    "food": "Local dishes including fresh fish, bamboo shoots, and traditional Sylheti sweets.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d140673.47016910627!2d91.52164031498256!3d25.018932184088557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37595a678c6b4d5f%3A0x1234567890abcdef!2sJaflong!5e0!3m2!1sen!2sbd!4v1692354002610!5m2!1sen!2sbd",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de684"
+    },
+    "name": "Sylhet",
+    "slug": "sylhet",
+    "about": "Sylhet is a popular hill district known for its tea gardens, natural beauty, and cultural heritage.",
+    "location": "Sylhet",
+    "image": "sylhet.jpg",
+    "thumbnail": "sylhet-thumbnail.jpg",
+    "sliders": [
+      "sylhet-slider-1.jpg",
+      "sylhet-slider-2.jpg",
+      "sylhet-slider-3.jpg"
+    ],
+    "food": "Tea-based dishes, traditional Sylheti food including Bhuna Khichuri and various rice dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365572.89206275465!2d91.7978210149825!3d24.88065748455457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37599a0b8b8e8f91%3A0x9f9f7f90823857ff!2sSylhet!5e0!3m2!1sen!2sbd!4v1692354079171!5m2!1sen!2sbd",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64bc1671e063176c465de685"
+    },
+    "name": "Srimangal",
+    "slug": "srimangal",
+    "about": "Srimangal is famous for its tea gardens and lush green landscapes.",
+    "location": "Moulvibazar",
+    "image": "srimangal.jpg",
+    "thumbnail": "srimangal-thumbnail.jpg",
+    "sliders": [
+      "srimangal-slider-1.jpg",
+      "srimangal-slider-2.jpg",
+      "srimangal-slider-3.jpg"
+    ],
+    "food": "Tea-based dishes and local Bengali snacks.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d137942.4189732141!2d91.7196651149826!3d24.313268684290355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37594f418ee0e905%3A0x1234567890abcdef!2sSrimangal!5e0!3m2!1sen!2sbd!4v1692354144737!5m2!1sen!2sbd",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de680"
       }
     ]
   }

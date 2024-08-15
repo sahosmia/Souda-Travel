@@ -21,6 +21,16 @@ const Navber = () => {
                 <Link href="/country">Country</Link>
               </Button>
             </li>
+            <li>
+              <Button variant="link">
+                <Link href="/destinations">Destination</Link>
+              </Button>
+            </li>
+            <li>
+              <Button variant="link">
+                <Link href="/hotels">Hotel</Link>
+              </Button>
+            </li>
           </ul>
         </div>
       </nav>

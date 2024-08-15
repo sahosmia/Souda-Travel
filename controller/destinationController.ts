@@ -1,6 +1,7 @@
 import dbConnect from "@/lib/dbConnect";
 import Country from "@/models/Country";
 import Destination from "@/models/Destination";
+import Hotel from "@/models/Hotel";
 
 export const getDestination = async () => {
   await dbConnect();
@@ -15,14 +16,12 @@ export const getDestinationItem = async (slug: string) => {
       path: "country",
       model: Country,
     })
+    .populate({
+      path: "hotels",
+      model: Hotel,
+    })
     .exec();
-  // .populate("hotels")
-  // .populate("resturents")
-  // .populate("foods");
-  // const destinations = await Destination.find({ country_id: country._id });
-  // country.destinations = destinations;
-  // console.log(destinations);
-  console.log(destination);
+  
 
   return destination;
 };

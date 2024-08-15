@@ -4,7 +4,6 @@ import React from "react";
 
 const Country = async () => {
   const countries = await getCountry();
-  // console.log(countries);
 
   return (
     <section className="container">

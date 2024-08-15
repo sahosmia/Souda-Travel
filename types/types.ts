@@ -3,6 +3,10 @@ export type CountryItemType = {
   slug: string;
   image: string;
   show?: number;
+  map: string;
+  destinations: string[];
+  hotels: string[];
+  resturents?: string[];
 };
 
 export type HotelItemType = {
@@ -26,4 +30,5 @@ export type DestinationItemType = {
   about: string;
   location: string;
   image: string;
+  thumbnail: string;
 };

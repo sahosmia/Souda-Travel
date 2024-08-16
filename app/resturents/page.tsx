@@ -1,7 +1,10 @@
 import ResturentItem from "@/components/items/ResturentItem";
 import { getRestaurant } from "@/controller/resturantController";
 import React from "react";
-
+import { Metadata } from "next";
+export const metadata: Metadata = {
+  title: `Resturents | ${process.env.SITE_TITLE}`,
+};
 const Resturents = async () => {
   const resturents = await getRestaurant();
 

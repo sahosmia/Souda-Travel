@@ -1,6 +1,10 @@
 import { CountryItem } from "@/components/items/CountryItem";
 import { getCountry } from "@/controller/countryController";
-import React from "react";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: `Country | ${process.env.SITE_TITLE}`,
+};
 
 const Country = async () => {
   const countries = await getCountry();

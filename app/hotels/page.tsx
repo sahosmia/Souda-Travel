@@ -1,7 +1,10 @@
 import HotelItem from "@/components/items/HotelItem";
 import { getHotel } from "@/controller/hotelsController";
 import React from "react";
-
+import { Metadata } from "next";
+export const metadata: Metadata = {
+  title: `Hotels | ${process.env.SITE_TITLE}`,
+};
 const Hotels = async () => {
   const hotels = await getHotel();
 

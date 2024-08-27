@@ -70,8 +70,8 @@ const HomeHero: React.FC = () => {
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    console.log("sahos");
-    router.push("/search");
+    console.log(search);
+    router.push(`/search?search=${search}`);
   };
 
   return (

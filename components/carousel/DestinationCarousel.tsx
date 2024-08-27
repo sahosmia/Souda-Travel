@@ -16,7 +16,12 @@ const DestinationCarousel = ({
   showItemClass: string;
 }) => {
   return (
-    <Carousel>
+    <Carousel
+      opts={{
+        align: "start",
+        loop: true,
+      }}
+    >
       <CarouselContent>
         {destinations.map((item) => (
           <CarouselItem key={item.slug} className={showItemClass}>

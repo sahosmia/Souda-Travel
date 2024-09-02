@@ -6,6 +6,7 @@ import {
   getDestinationItem,
 } from "@/controller/destinationController";
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 
 export async function generateMetadata({
   params,
@@ -14,7 +15,11 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const slug = params.slug;
   const destination = await getDestinationItem(slug);
-
+  if (!destination) {
+    return {
+      title: "Destination Not Found | " + process.env.SITE_TITLE,
+    };
+  }
   return {
     title: `${destination.name} - Destination | ${process.env.SITE_TITLE}`,
   };
@@ -30,7 +35,9 @@ export async function generateStaticParams() {
 
 const DestinationDetails = async ({ params }: { params: { slug: string } }) => {
   const destination = await getDestinationItem(params.slug);
-
+  if (!destination) {
+    notFound();
+  }
   return (
     <>
       <DestinationBenner destination={destination} />

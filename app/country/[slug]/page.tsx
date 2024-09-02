@@ -4,6 +4,7 @@ import DestinationListSection from "@/components/lists/DestinationListSection";
 import HotelListSection from "@/components/lists/HotelListSection";
 import { getCountry, getCountryItem } from "@/controller/countryController";
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 
 export async function generateMetadata({
   params,
@@ -12,15 +13,18 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const slug = params.slug;
   const country = await getCountryItem(slug);
-
+  if (!country) {
+    return {
+      title: "Country Not Found | " + process.env.SITE_TITLE,
+    };
+  }
   return {
     title: `${country.name} - Country | ${process.env.SITE_TITLE}`,
   };
 }
 
-
 export async function generateStaticParams() {
- const countries = await getCountry();
+  const countries = await getCountry();
 
   return countries.map((country) => ({
     slug: country.slug,
@@ -30,6 +34,11 @@ export async function generateStaticParams() {
 const CountryDetails = async ({ params }: { params: { slug: string } }) => {
   const { slug } = params;
   const country = await getCountryItem(slug);
+  if (!country) {
+    notFound();
+  }
+  console.log(country);
+
   const { destinations, hotels, map } = country;
 
   return (

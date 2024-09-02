@@ -19,7 +19,7 @@ const NotFoundItem = ({
           {title} Not Found
         </h2>{" "}
         <p className="text-lg text-gray-600 mb-8">
-          The {title.toLocaleLowerCase()} you're looking for doesn't exist.
+          The {title.toLocaleLowerCase()} you are looking for does not exist.
         </p>
         <div className="flex gap-2">
           <button

@@ -2,7 +2,7 @@ import CountryBanner from "@/components/banner/CountryBanner";
 import MapIframe from "@/components/core/MapIframe";
 import DestinationListSection from "@/components/lists/DestinationListSection";
 import HotelListSection from "@/components/lists/HotelListSection";
-import { getCountryItem } from "@/controller/countryController";
+import { getCountry, getCountryItem } from "@/controller/countryController";
 import type { Metadata } from "next";
 
 export async function generateMetadata({
@@ -16,6 +16,15 @@ export async function generateMetadata({
   return {
     title: `${country.name} - Country | ${process.env.SITE_TITLE}`,
   };
+}
+
+
+export async function generateStaticParams() {
+ const countries = await getCountry();
+
+  return countries.map((country) => ({
+    slug: country.slug,
+  }));
 }
 
 const CountryDetails = async ({ params }: { params: { slug: string } }) => {

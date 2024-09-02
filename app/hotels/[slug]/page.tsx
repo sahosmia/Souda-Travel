@@ -1,7 +1,7 @@
 import React from "react";
 
 import type { Metadata } from "next";
-import { getDestinationItem } from "@/controller/destinationController";
+import { getDestination, getDestinationItem } from "@/controller/destinationController";
 
 export async function generateMetadata({
   params,
@@ -15,6 +15,15 @@ export async function generateMetadata({
     title: `${hotel.name} - Hotel | ${process.env.SITE_TITLE}`,
   };
 }
+
+export async function generateStaticParams() {
+  const destnations = await getDestination();
+
+  return destnations.map((destination) => ({
+    slug: destination.slug,
+  }));
+}
+
 
 const HotelDetails = ({ params }: { params: { slug: string } }) => {
   return <div>{params.slug}</div>;

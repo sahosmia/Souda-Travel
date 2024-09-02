@@ -1,7 +1,10 @@
 import DestinationBenner from "@/components/banner/DestinationBenner";
 import MapIframe from "@/components/core/MapIframe";
 import HotelListSection from "@/components/lists/HotelListSection";
-import { getDestinationItem } from "@/controller/destinationController";
+import {
+  getDestination,
+  getDestinationItem,
+} from "@/controller/destinationController";
 import type { Metadata } from "next";
 
 export async function generateMetadata({
@@ -15,6 +18,14 @@ export async function generateMetadata({
   return {
     title: `${destination.name} - Destination | ${process.env.SITE_TITLE}`,
   };
+}
+
+export async function generateStaticParams() {
+  const destnations = await getDestination();
+
+  return destnations.map((destination) => ({
+    slug: destination.slug,
+  }));
 }
 
 const DestinationDetails = async ({ params }: { params: { slug: string } }) => {

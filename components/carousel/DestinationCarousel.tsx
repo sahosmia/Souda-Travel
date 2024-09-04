@@ -7,6 +7,7 @@ import {
 } from "@/components/ui/carousel";
 import { DestinationItemType } from "@/types/types";
 import DestinationItem from "../items/DestinationItem";
+import { memo } from "react";
 
 const DestinationCarousel = ({
   destinations,
@@ -35,4 +36,4 @@ const DestinationCarousel = ({
   );
 };
 
-export default DestinationCarousel;
+export default memo(DestinationCarousel);

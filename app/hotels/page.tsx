@@ -3,7 +3,7 @@ import { getHotel } from "@/controller/hotelsController";
 import React from "react";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: `Hotels | ${process.env.SITE_TITLE}`,
+  title: `Hotels`,
 };
 const Hotels = async () => {
   const hotels = await getHotel();

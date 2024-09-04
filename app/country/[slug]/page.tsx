@@ -1,4 +1,4 @@
-import CountryBanner from "@/components/banner/CountryBanner";
+import CountryItemBanner from "@/components/banner/CountryItemBanner";
 import MapIframe from "@/components/core/MapIframe";
 import DestinationListSection from "@/components/lists/DestinationListSection";
 import HotelListSection from "@/components/lists/HotelListSection";
@@ -15,11 +15,11 @@ export async function generateMetadata({
   const country = await getCountryItem(slug);
   if (!country) {
     return {
-      title: "Country Not Found | " + process.env.SITE_TITLE,
+      title: "Country Not Found",
     };
   }
   return {
-    title: `${country.name} - Country | ${process.env.SITE_TITLE}`,
+    title: `${country.name} - Country`,
   };
 }
 
@@ -43,7 +43,7 @@ const CountryDetails = async ({ params }: { params: { slug: string } }) => {
 
   return (
     <>
-      <CountryBanner country={country}></CountryBanner>
+      <CountryItemBanner country={country}></CountryItemBanner>
       <DestinationListSection destinations={destinations} />
       <HotelListSection hotels={hotels} />
 

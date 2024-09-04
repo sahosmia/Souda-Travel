@@ -1,8 +1,6 @@
 import { getCountry } from "@/controller/countryController";
-import React from "react";
+import React, { memo } from "react";
 import SectionHeading from "../core/SectionHeading";
-import Image from "next/image";
-import Link from "next/link";
 import { CountryItem } from "../items/CountryItem";
 
 const MostCountry = async () => {
@@ -27,4 +25,4 @@ const MostCountry = async () => {
   );
 };
 
-export default MostCountry;
+export default memo(MostCountry);

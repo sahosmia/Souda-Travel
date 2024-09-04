@@ -1,4 +1,4 @@
-import DestinationBenner from "@/components/banner/DestinationBenner";
+import DestinationItemBenner from "@/components/banner/DestinationItemBenner";
 import MapIframe from "@/components/core/MapIframe";
 import HotelListSection from "@/components/lists/HotelListSection";
 import {
@@ -17,11 +17,11 @@ export async function generateMetadata({
   const destination = await getDestinationItem(slug);
   if (!destination) {
     return {
-      title: "Destination Not Found | " + process.env.SITE_TITLE,
+      title: "Destination Not Found",
     };
   }
   return {
-    title: `${destination.name} - Destination | ${process.env.SITE_TITLE}`,
+    title: `${destination.name} - Destination`,
   };
 }
 
@@ -40,7 +40,7 @@ const DestinationDetails = async ({ params }: { params: { slug: string } }) => {
   }
   return (
     <>
-      <DestinationBenner destination={destination} />
+      <DestinationItemBenner destination={destination} />
       <HotelListSection hotels={destination.hotels} />
 
       <MapIframe

@@ -7,6 +7,7 @@ import {
 } from "@/components/ui/carousel";
 import { HotelItemType } from "@/types/types";
 import HotelItem from "../items/HotelItem";
+import { memo } from "react";
 
 const HotelCarousel = ({
   hotels,
@@ -30,4 +31,4 @@ const HotelCarousel = ({
   );
 };
 
-export default HotelCarousel;
+export default memo(HotelCarousel);

@@ -14,7 +14,7 @@ const DestinationItemBenner = ({
       style={{ backgroundImage: `url("/destination/thumbnail/${thumbnail}")` }}
     >
       {/* Overlay */}
-      <div className="absolute inset-0 bg-black/50"></div>
+      <div className="absolute inset-0 bg-black/80"></div>
 
       <div className="relative container mx-auto h-full flex flex-col justify-center items-center text-center px-4 md:px-8 lg:px-12">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4">

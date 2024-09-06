@@ -1,4 +1,4 @@
-import CountryBanner from "@/components/banner/CountryBanner";
+import SmallPgeBanner from "@/components/banner/SmallPgeBanner";
 import { CountryItem } from "@/components/items/CountryItem";
 import { getCountry } from "@/controller/countryController";
 import { Metadata } from "next";
@@ -12,7 +12,12 @@ const Country = async () => {
 
   return (
     <>
-      <CountryBanner />
+      <SmallPgeBanner
+        title="Explore Countries"
+        description="Discover diverse countries and their unique cultures. Find out more
+          about top travel destinations around the world."
+        image="/banner/country.jpg"
+      />
 
       <section className="py-10">
         <div className=" container grid grid-cols-4 gap-4">

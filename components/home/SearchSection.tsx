@@ -1,8 +1,10 @@
+"use client";
 import { ArrowRight } from "lucide-react";
 import SearchItem from "./SearchItem";
 import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { CountryItemType } from "@/types/types";
+import { motion } from "framer-motion";
 
 type DataType = { populerCountry: CountryItemType[] };
 
@@ -64,7 +66,7 @@ export function SearchSection() {
     >
       <div
         className={`relative max-w-[90%] lg:w-[500px] m-auto ${
-          isClicked ? "bg-white rounded z-50" : ""
+          isClicked ? "bg-white rounded z-10" : ""
         }`}
         ref={box}
         onClick={handleClick}

@@ -426,5 +426,728 @@
         "$oid": "66bc1771e063176c465de680"
       }
     ]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de690" },
+    "name": "Beijing",
+    "slug": "beijing",
+    "about": "The capital city of China, known for its historic sites like the Great Wall and the Forbidden City.",
+    "location": "Beijing",
+    "image": "beijing.jpg",
+    "thumbnail": "beijing-thumbnail.jpg",
+    "sliders": [
+      "beijing-slider-1.jpg",
+      "beijing-slider-2.jpg",
+      "beijing-slider-3.jpg"
+    ],
+    "food": "Peking duck and other traditional Chinese dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.900545844312!2d116.3973876!3d39.9041999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f0681d3e7f25e1%3A0x4de5c34fc9c8e7!2sBeijing!5e0!3m2!1sen!2sbd!4v1681547923432!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de690"
+      }
+    ],
+    "restaurants": [
+      {
+        "$oid": "66bb899a3b76361b7f2d4385"
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de691" },
+    "name": "Shanghai",
+    "slug": "shanghai",
+    "about": "China's largest city, known for its modern skyline, historic Bund, and vibrant culture.",
+    "location": "Shanghai",
+    "image": "shanghai.jpg",
+    "thumbnail": "shanghai-thumbnail.jpg",
+    "sliders": [
+      "shanghai-slider-1.jpg",
+      "shanghai-slider-2.jpg",
+      "shanghai-slider-3.jpg"
+    ],
+    "food": "Shanghai dumplings and seafood.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.1345418919157!2d121.4737046!3d31.230416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b27c32b53916df%3A0xb7f9e2a1c5d0e6!2sShanghai!5e0!3m2!1sen!2sbd!4v1681548239632!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de691"
+      }
+    ],
+    "restaurants": [
+      {
+        "$oid": "66bb899a3b76361b7f2d4386"
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de692" },
+    "name": "Guangzhou",
+    "slug": "guangzhou",
+    "about": "Known for its Cantonese cuisine, historic temples, and vibrant markets.",
+    "location": "Guangdong",
+    "image": "guangzhou.jpg",
+    "thumbnail": "guangzhou-thumbnail.jpg",
+    "sliders": [
+      "guangzhou-slider-1.jpg",
+      "guangzhou-slider-2.jpg",
+      "guangzhou-slider-3.jpg"
+    ],
+    "food": "Cantonese cuisine, dim sum.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d146690.26517440602!2d113.2806376!3d23.12911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3402e1f8d2d223ff%3A0xf7f5be3e7748b9!2sGuangzhou!5e0!3m2!1sen!2sbd!4v1681548537547!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de692"
+      }
+    ],
+    "restaurants": [
+      {
+        "$oid": "66bb899a3b76361b7f2d4387"
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de693" },
+    "name": "Chengdu",
+    "slug": "chengdu",
+    "about": "Famous for its spicy Sichuan cuisine and the Chengdu Research Base of Giant Panda Breeding.",
+    "location": "Sichuan",
+    "image": "chengdu.jpg",
+    "thumbnail": "chengdu-thumbnail.jpg",
+    "sliders": [
+      "chengdu-slider-1.jpg",
+      "chengdu-slider-2.jpg",
+      "chengdu-slider-3.jpg"
+    ],
+    "food": "Sichuan hotpot and spicy dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d148848.25403620736!2d104.0657354!3d30.6594629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36b1c3f6f6226b53%3A0x220084d6d04cbd!2sChengdu!5e0!3m2!1sen!2sbd!4v1681548887831!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de693"
+      }
+    ],
+    "restaurants": [
+      {
+        "$oid": "66bb899a3b76361b7f2d4388"
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de694" },
+    "name": "Xi'an",
+    "slug": "xian",
+    "about": "Known for the Terracotta Army and its ancient city wall.",
+    "location": "Shaanxi",
+    "image": "xian.jpg",
+    "thumbnail": "xian-thumbnail.jpg",
+    "sliders": ["xian-slider-1.jpg", "xian-slider-2.jpg", "xian-slider-3.jpg"],
+    "food": "Roujiamo (Chinese burger) and biangbiang noodles.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d146073.69734704527!2d108.9490132!3d34.3415685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366209bd43493b1d%3A0x6e50b7d9f9d2d0!2sXi%27an!5e0!3m2!1sen!2sbd!4v1681549129238!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "hotels": [
+      {
+        "$oid": "66bc1771e063176c465de694"
+      }
+    ],
+    "restaurants": [
+      {
+        "$oid": "66bb899a3b76361b7f2d4389"
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de700" },
+    "name": "New Delhi",
+    "slug": "new-delhi",
+    "about": "The capital city of India, known for its historical landmarks and vibrant culture.",
+    "location": "Delhi",
+    "image": "new-delhi.jpg",
+    "thumbnail": "new-delhi-thumbnail.jpg",
+    "sliders": [
+      "new-delhi-slider-1.jpg",
+      "new-delhi-slider-2.jpg",
+      "new-delhi-slider-3.jpg"
+    ],
+    "food": "North Indian cuisine, including biryanis, kebabs, and street food.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d135223.08086603217!2d77.06860448820716!3d28.613939134769754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8f3f27c8af%3A0x13d95a9b9cf773f8!2sNew%20Delhi!5e0!3m2!1sen!2sin!4v1682827521604!5m2!1sen!2sin",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "hotels": [{ "$oid": "64bc1771e063176c465de700" }],
+    "restaurants": [{ "$oid": "64bb899a3b76361b7f2d4380" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de701" },
+    "name": "Mumbai",
+    "slug": "mumbai",
+    "about": "India's financial capital, famous for its Bollywood film industry and vibrant nightlife.",
+    "location": "Maharashtra",
+    "image": "mumbai.jpg",
+    "thumbnail": "mumbai-thumbnail.jpg",
+    "sliders": [
+      "mumbai-slider-1.jpg",
+      "mumbai-slider-2.jpg",
+      "mumbai-slider-3.jpg"
+    ],
+    "food": "Mumbai street food like vada pav, pav bhaji, and seafood.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d138847.51420858665!2d72.85554628245912!3d19.07609037184649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c80b8e8f8b5d%3A0x10c1c6b008b68d6f!2sMumbai!5e0!3m2!1sen!2sin!4v1682827522928!5m2!1sen!2sin",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "hotels": [{ "$oid": "64bc1771e063176c465de701" }],
+    "restaurants": [{ "$oid": "64bb899a3b76361b7f2d4381" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de702" },
+    "name": "Goa",
+    "slug": "goa",
+    "about": "Known for its beaches, Portuguese heritage, and vibrant nightlife.",
+    "location": "Goa",
+    "image": "goa.jpg",
+    "thumbnail": "goa-thumbnail.jpg",
+    "sliders": ["goa-slider-1.jpg", "goa-slider-2.jpg", "goa-slider-3.jpg"],
+    "food": "Goan seafood, including fish curry and vindaloo.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d897379.1196786269!2d73.81281455183583!3d15.299326620489315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfba09e3f74aef%3A0x1d5ed38c4b35b4e!2sGoa!5e0!3m2!1sen!2sin!4v1682827524323!5m2!1sen!2sin",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "hotels": [{ "$oid": "64bc1771e063176c465de702" }],
+    "restaurants": [{ "$oid": "64bb899a3b76361b7f2d4382" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de703" },
+    "name": "Jaipur",
+    "slug": "jaipur",
+    "about": "Known as the Pink City, famous for its palaces, forts, and vibrant culture.",
+    "location": "Rajasthan",
+    "image": "jaipur.jpg",
+    "thumbnail": "jaipur-thumbnail.jpg",
+    "sliders": [
+      "jaipur-slider-1.jpg",
+      "jaipur-slider-2.jpg",
+      "jaipur-slider-3.jpg"
+    ],
+    "food": "Rajasthani cuisine, including dal bati churma and ghevar.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d140008.49385309793!2d75.80078189368263!3d26.912433643176253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db68d2afc82a7%3A0x72e49734b17d1e5e!2sJaipur!5e0!3m2!1sen!2sin!4v1682827525601!5m2!1sen!2sin",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "hotels": [{ "$oid": "64bc1771e063176c465de703" }],
+    "restaurants": [{ "$oid": "64bb899a3b76361b7f2d4383" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de704" },
+    "name": "Kolkata",
+    "slug": "kolkata",
+    "about": "Known for its colonial architecture, arts, and vibrant street food scene.",
+    "location": "West Bengal",
+    "image": "kolkata.jpg",
+    "thumbnail": "kolkata-thumbnail.jpg",
+    "sliders": [
+      "kolkata-slider-1.jpg",
+      "kolkata-slider-2.jpg",
+      "kolkata-slider-3.jpg"
+    ],
+    "food": "Bengali cuisine, including fish curry, rasgulla, and puchka.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d142979.92541714534!2d88.3465656!3d22.572646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027747e290a591%3A0x54dd832f0f8c4b57!2sKolkata!5e0!3m2!1sen!2sin!4v1682827526820!5m2!1sen!2sin",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "hotels": [{ "$oid": "64bc1771e063176c465de704" }],
+    "restaurants": [{ "$oid": "64bb899a3b76361b7f2d4384" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de710" },
+    "name": "Colombo",
+    "slug": "colombo",
+    "about": "The bustling capital city of Sri Lanka, known for its colonial architecture, modern skyscrapers, and vibrant markets.",
+    "location": "Western Province",
+    "image": "colombo.jpg",
+    "thumbnail": "colombo-thumbnail.jpg",
+    "sliders": [
+      "colombo-slider-1.jpg",
+      "colombo-slider-2.jpg",
+      "colombo-slider-3.jpg"
+    ],
+    "food": "Rice and curry, kottu roti, and seafood dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835252735946!2d79.84778551531742!3d6.927079795221634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259b9b160e1e5%3A0x5b8e9fce1f556e6b!2sColombo!5e0!3m2!1sen!2sbd!4v1604399631566!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de710" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4391" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de711" },
+    "name": "Kandy",
+    "slug": "kandy",
+    "about": "A major city in the Central Province, known for the Temple of the Tooth Relic and its scenic surroundings.",
+    "location": "Central Province",
+    "image": "kandy.jpg",
+    "thumbnail": "kandy-thumbnail.jpg",
+    "sliders": [
+      "kandy-slider-1.jpg",
+      "kandy-slider-2.jpg",
+      "kandy-slider-3.jpg"
+    ],
+    "food": "Hoppers, rice and curry, and tropical fruits.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31711.04124357584!2d80.63629277592272!3d7.293634695252573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25aa1271c2c57%3A0xa1e4b4cbb3f84d61!2sKandy!5e0!3m2!1sen!2sbd!4v1604399695642!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de711" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4392" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de712" },
+    "name": "Galle",
+    "slug": "galle",
+    "about": "A coastal city famous for its fort, a UNESCO World Heritage site, and stunning beaches.",
+    "location": "Southern Province",
+    "image": "galle.jpg",
+    "thumbnail": "galle-thumbnail.jpg",
+    "sliders": [
+      "galle-slider-1.jpg",
+      "galle-slider-2.jpg",
+      "galle-slider-3.jpg"
+    ],
+    "food": "Seafood specialties, including prawns and fish curry.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.6341546608584!2d80.21555451531824!3d6.032039695359371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259a5b072943f%3A0x9b34ad1298cc736!2sGalle!5e0!3m2!1sen!2sbd!4v1604399756436!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de712" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4393" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de713" },
+    "name": "Ella",
+    "slug": "ella",
+    "about": "A small town known for its hiking trails, tea plantations, and scenic views of waterfalls.",
+    "location": "Uva Province",
+    "image": "ella.jpg",
+    "thumbnail": "ella-thumbnail.jpg",
+    "sliders": ["ella-slider-1.jpg", "ella-slider-2.jpg", "ella-slider-3.jpg"],
+    "food": "Local Sri Lankan dishes and fresh tropical fruits.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.923180345632!2d81.04532801531595!3d6.872744695467132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25aa1201c2a9f%3A0xb7e343c70e89ad6!2sElla!5e0!3m2!1sen!2sbd!4v1604399824436!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de713" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4394" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de714" },
+    "name": "Sigiriya",
+    "slug": "sigiriya",
+    "about": "Famous for the Sigiriya Rock Fortress, an ancient royal palace complex atop a massive rock.",
+    "location": "Central Province",
+    "image": "sigiriya.jpg",
+    "thumbnail": "sigiriya-thumbnail.jpg",
+    "sliders": [
+      "sigiriya-slider-1.jpg",
+      "sigiriya-slider-2.jpg",
+      "sigiriya-slider-3.jpg"
+    ],
+    "food": "Traditional Sri Lankan rice and curry.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3178.9641546608355!2d80.76413157592526!3d7.956412795145372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25aa1221c1b4d%3A0xf34b4a77e3a8d00f!2sSigiriya!5e0!3m2!1sen!2sbd!4v1604399897458!5m2!1sen!2sbd",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de714" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4395" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de720" },
+    "name": "Paris",
+    "slug": "paris",
+    "about": "Known for iconic landmarks like the Eiffel Tower, Louvre Museum, and its rich art and history.",
+    "location": "Île-de-France",
+    "image": "paris.jpg",
+    "thumbnail": "paris-thumbnail.jpg",
+    "sliders": [
+      "paris-slider-1.jpg",
+      "paris-slider-2.jpg",
+      "paris-slider-3.jpg"
+    ],
+    "food": "French pastries, baguettes, and gourmet cuisine.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999303080087!2d2.3522219!3d48.856614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e291e1%3A0xdeadbeef12345678!2sParis!5e0!3m2!1sen!2sfr!4v1604399421234!5m2!1sen!2sfr",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de720" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4396" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de721" },
+    "name": "Nice",
+    "slug": "nice",
+    "about": "A stunning city on the French Riviera known for its beaches and Promenade des Anglais.",
+    "location": "Provence-Alpes-Côte d'Azur",
+    "image": "nice.jpg",
+    "thumbnail": "nice-thumbnail.jpg",
+    "sliders": ["nice-slider-1.jpg", "nice-slider-2.jpg", "nice-slider-3.jpg"],
+    "food": "Niçoise salad and Mediterranean cuisine.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.1445664878554!2d7.268391!3d43.710172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1234567890abcdef%3A0xdeadbeef12345678!2sNice!5e0!3m2!1sen!2sfr!4v1604399432345!5m2!1sen!2sfr",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de721" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4397" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de722" },
+    "name": "Lyon",
+    "slug": "lyon",
+    "about": "A historic city known for its cuisine, Renaissance architecture, and Roman amphitheaters.",
+    "location": "Auvergne-Rhône-Alpes",
+    "image": "lyon.jpg",
+    "thumbnail": "lyon-thumbnail.jpg",
+    "sliders": ["lyon-slider-1.jpg", "lyon-slider-2.jpg", "lyon-slider-3.jpg"],
+    "food": "Traditional Lyonnais bouchons and French cuisine.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2903.455634948534!2d4.835659!3d45.764043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1234567890abcdef%3A0xdeadbeef12345678!2sLyon!5e0!3m2!1sen!2sfr!4v1604399443456!5m2!1sen!2sfr",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de722" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4398" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de723" },
+    "name": "Marseille",
+    "slug": "marseille",
+    "about": "A port city known for its maritime heritage and multicultural atmosphere.",
+    "location": "Provence-Alpes-Côte d'Azur",
+    "image": "marseille.jpg",
+    "thumbnail": "marseille-thumbnail.jpg",
+    "sliders": [
+      "marseille-slider-1.jpg",
+      "marseille-slider-2.jpg",
+      "marseille-slider-3.jpg"
+    ],
+    "food": "Bouillabaisse and Provençal dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.1445664878554!2d5.3764!3d43.296482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1234567890abcdef%3A0xdeadbeef12345678!2sMarseille!5e0!3m2!1sen!2sfr!4v1604399454567!5m2!1sen!2sfr",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de723" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4399" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de724" },
+    "name": "Bordeaux",
+    "slug": "bordeaux",
+    "about": "World-famous for its wine and stunning 18th-century architecture.",
+    "location": "Nouvelle-Aquitaine",
+    "image": "bordeaux.jpg",
+    "thumbnail": "bordeaux-thumbnail.jpg",
+    "sliders": [
+      "bordeaux-slider-1.jpg",
+      "bordeaux-slider-2.jpg",
+      "bordeaux-slider-3.jpg"
+    ],
+    "food": "Wine, seafood, and traditional French dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2906.4565654878554!2d-0.57918!3d44.837789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1234567890abcdef%3A0xdeadbeef12345678!2sBordeaux!5e0!3m2!1sen!2sfr!4v1604399465678!5m2!1sen!2sfr",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de724" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4400" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de730" },
+    "name": "Berlin",
+    "slug": "berlin",
+    "about": "The capital of Germany, known for its history, culture, and vibrant arts scene.",
+    "location": "Berlin",
+    "image": "berlin.jpg",
+    "thumbnail": "berlin-thumbnail.jpg",
+    "sliders": [
+      "berlin-slider-1.jpg",
+      "berlin-slider-2.jpg",
+      "berlin-slider-3.jpg"
+    ],
+    "food": "Currywurst, kebabs, and traditional German dishes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999303080087!2d13.4050!3d52.5200!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sBerlin!5e0!3m2!1sen!2sde!4v1604399476789!5m2!1sen!2sde",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de730" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4410" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de731" },
+    "name": "Munich",
+    "slug": "munich",
+    "about": "Home to Oktoberfest and a mix of modern and traditional Bavarian culture.",
+    "location": "Bavaria",
+    "image": "munich.jpg",
+    "thumbnail": "munich-thumbnail.jpg",
+    "sliders": [
+      "munich-slider-1.jpg",
+      "munich-slider-2.jpg",
+      "munich-slider-3.jpg"
+    ],
+    "food": "Weisswurst, pretzels, and Bavarian beer.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2904.999303080087!2d11.5819!3d48.1351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sMunich!5e0!3m2!1sen!2sde!4v1604399487890!5m2!1sen!2sde",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de731" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4411" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de732" },
+    "name": "Frankfurt",
+    "slug": "frankfurt",
+    "about": "Germany’s financial hub, known for its modern skyline and historical sites.",
+    "location": "Hesse",
+    "image": "frankfurt.jpg",
+    "thumbnail": "frankfurt-thumbnail.jpg",
+    "sliders": [
+      "frankfurt-slider-1.jpg",
+      "frankfurt-slider-2.jpg",
+      "frankfurt-slider-3.jpg"
+    ],
+    "food": "Frankfurter sausages and apple wine.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2901.999303080087!2d8.6821!3d50.1109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sFrankfurt!5e0!3m2!1sen!2sde!4v1604399498901!5m2!1sen!2sde",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de732" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4412" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de733" },
+    "name": "Hamburg",
+    "slug": "hamburg",
+    "about": "A major port city with a maritime history and vibrant nightlife.",
+    "location": "Hamburg",
+    "image": "hamburg.jpg",
+    "thumbnail": "hamburg-thumbnail.jpg",
+    "sliders": [
+      "hamburg-slider-1.jpg",
+      "hamburg-slider-2.jpg",
+      "hamburg-slider-3.jpg"
+    ],
+    "food": "Fischbrötchen and North German cuisine.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.999303080087!2d9.9937!3d53.5511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sHamburg!5e0!3m2!1sen!2sde!4v1604399509012!5m2!1sen!2sde",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de733" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4413" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de734" },
+    "name": "Cologne",
+    "slug": "cologne",
+    "about": "Famous for its Gothic cathedral and vibrant arts scene.",
+    "location": "North Rhine-Westphalia",
+    "image": "cologne.jpg",
+    "thumbnail": "cologne-thumbnail.jpg",
+    "sliders": [
+      "cologne-slider-1.jpg",
+      "cologne-slider-2.jpg",
+      "cologne-slider-3.jpg"
+    ],
+    "food": "Kölsch beer and Rhenish cuisine.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2903.999303080087!2d6.9603!3d50.9375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sCologne!5e0!3m2!1sen!2sde!4v1604399519013!5m2!1sen!2sde",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de734" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4414" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de740" },
+    "name": "Kathmandu",
+    "slug": "kathmandu",
+    "about": "The capital city of Nepal, known for its temples, historical sites, and vibrant culture.",
+    "location": "Kathmandu Valley",
+    "image": "kathmandu.jpg",
+    "thumbnail": "kathmandu-thumbnail.jpg",
+    "sliders": [
+      "kathmandu-slider-1.jpg",
+      "kathmandu-slider-2.jpg",
+      "kathmandu-slider-3.jpg"
+    ],
+    "food": "Momo, dal bhat, and Newari cuisine.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.999303080087!2d85.3240!3d27.7172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sKathmandu!5e0!3m2!1sen!2snp!4v1604399476789!5m2!1sen!2snp",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de740" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4420" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de741" },
+    "name": "Pokhara",
+    "slug": "pokhara",
+    "about": "Known for its beautiful lakes, panoramic views of the Himalayas, and adventure tourism.",
+    "location": "Gandaki Province",
+    "image": "pokhara.jpg",
+    "thumbnail": "pokhara-thumbnail.jpg",
+    "sliders": [
+      "pokhara-slider-1.jpg",
+      "pokhara-slider-2.jpg",
+      "pokhara-slider-3.jpg"
+    ],
+    "food": "Thakali cuisine, momos, and fish from the lakes.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999303080087!2d83.9810!3d28.2096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sPokhara!5e0!3m2!1sen!2snp!4v1604399487890!5m2!1sen!2snp",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de741" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4421" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de742" },
+    "name": "Chitwan",
+    "slug": "chitwan",
+    "about": "Home to Chitwan National Park, a UNESCO World Heritage site known for its wildlife.",
+    "location": "Chitwan District",
+    "image": "chitwan.jpg",
+    "thumbnail": "chitwan-thumbnail.jpg",
+    "sliders": [
+      "chitwan-slider-1.jpg",
+      "chitwan-slider-2.jpg",
+      "chitwan-slider-3.jpg"
+    ],
+    "food": "Traditional Tharu dishes and Nepali cuisine.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2901.999303080087!2d84.4401!3d27.5294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sChitwan!5e0!3m2!1sen!2snp!4v1604399498901!5m2!1sen!2snp",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de742" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4422" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de743" },
+    "name": "Lumbini",
+    "slug": "lumbini",
+    "about": "The birthplace of Buddha, a UNESCO World Heritage site and pilgrimage destination.",
+    "location": "Rupandehi District",
+    "image": "lumbini.jpg",
+    "thumbnail": "lumbini-thumbnail.jpg",
+    "sliders": [
+      "lumbini-slider-1.jpg",
+      "lumbini-slider-2.jpg",
+      "lumbini-slider-3.jpg"
+    ],
+    "food": "Newari cuisine and local specialties.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.999303080087!2d83.2762!3d27.6795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sLumbini!5e0!3m2!1sen!2snp!4v1604399509012!5m2!1sen!2snp",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de743" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4423" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de750" },
+    "name": "Bangkok",
+    "slug": "bangkok",
+    "about": "The capital city of Thailand, famous for its vibrant street life and cultural landmarks.",
+    "location": "Central Thailand",
+    "image": "bangkok.jpg",
+    "thumbnail": "bangkok-thumbnail.jpg",
+    "sliders": [
+      "bangkok-slider-1.jpg",
+      "bangkok-slider-2.jpg",
+      "bangkok-slider-3.jpg"
+    ],
+    "food": "Pad Thai, Som Tum, and Tom Yum Goong.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3874.999303080087!2d100.5010!3d13.7563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sBangkok!5e0!3m2!1sen!2sth!4v1604399529232!5m2!1sen!2sth",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de750" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4430" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de751" },
+    "name": "Chiang Mai",
+    "slug": "chiang-mai",
+    "about": "A city in Northern Thailand known for its temples, markets, and cultural experiences.",
+    "location": "Northern Thailand",
+    "image": "chiang-mai.jpg",
+    "thumbnail": "chiang-mai-thumbnail.jpg",
+    "sliders": [
+      "chiang-mai-slider-1.jpg",
+      "chiang-mai-slider-2.jpg",
+      "chiang-mai-slider-3.jpg"
+    ],
+    "food": "Khao Soi, Sai Ua, and Nam Prik Ong.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.999303080087!2d99.0080!3d18.7877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sChiang%20Mai!5e0!3m2!1sen!2sth!4v1604399540123!5m2!1sen!2sth",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de751" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4431" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de752" },
+    "name": "Phuket",
+    "slug": "phuket",
+    "about": "Thailand’s largest island, known for its beaches, nightlife, and resorts.",
+    "location": "Southern Thailand",
+    "image": "phuket.jpg",
+    "thumbnail": "phuket-thumbnail.jpg",
+    "sliders": [
+      "phuket-slider-1.jpg",
+      "phuket-slider-2.jpg",
+      "phuket-slider-3.jpg"
+    ],
+    "food": "Seafood, Gaeng Som, and Mee Hokkien.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.999303080087!2d98.3881!3d7.8804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sPhuket!5e0!3m2!1sen!2sth!4v1604399551234!5m2!1sen!2sth",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de752" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4432" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de753" },
+    "name": "Ayutthaya",
+    "slug": "ayutthaya",
+    "about": "A UNESCO World Heritage site, known for its ancient temples and historical significance.",
+    "location": "Central Thailand",
+    "image": "ayutthaya.jpg",
+    "thumbnail": "ayutthaya-thumbnail.jpg",
+    "sliders": [
+      "ayutthaya-slider-1.jpg",
+      "ayutthaya-slider-2.jpg",
+      "ayutthaya-slider-3.jpg"
+    ],
+    "food": "Boat noodles, Roti Sai Mai, and Ayutthaya-style river prawns.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3882.999303080087!2d100.5685!3d14.3542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sAyutthaya!5e0!3m2!1sen!2sth!4v1604399562345!5m2!1sen!2sth",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de753" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4433" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de754" },
+    "name": "Zurich",
+    "slug": "zurich",
+    "about": "Switzerland’s largest city, known for its financial district, shopping, and vibrant cultural scene.",
+    "location": "Central Switzerland",
+    "image": "zurich.jpg",
+    "thumbnail": "zurich-thumbnail.jpg",
+    "sliders": [
+      "zurich-slider-1.jpg",
+      "zurich-slider-2.jpg",
+      "zurich-slider-3.jpg"
+    ],
+    "food": "Zürcher Geschnetzeltes, Fondue, and Rösti.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2648.000203080087!2d8.5417!3d47.3769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sZurich!5e0!3m2!1sen!2sch!4v1604399623456!5m2!1sen!2sch",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de754" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4434" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de755" },
+    "name": "Geneva",
+    "slug": "geneva",
+    "about": "Known for its Red Cross headquarters, United Nations office, and a wealth of luxury shopping and dining.",
+    "location": "Western Switzerland",
+    "image": "geneva.jpg",
+    "thumbnail": "geneva-thumbnail.jpg",
+    "sliders": [
+      "geneva-slider-1.jpg",
+      "geneva-slider-2.jpg",
+      "geneva-slider-3.jpg"
+    ],
+    "food": "Filets de Perche, Longeole, and Papet Vaudois.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2652.999303080087!2d6.1432!3d46.2044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sGeneva!5e0!3m2!1sen!2sch!4v1604399645678!5m2!1sen!2sch",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de755" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4435" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de756" },
+    "name": "Interlaken",
+    "slug": "interlaken",
+    "about": "A scenic resort town, nestled between two lakes and known for its adventure sports and alpine scenery.",
+    "location": "Bernese Oberland",
+    "image": "interlaken.jpg",
+    "thumbnail": "interlaken-thumbnail.jpg",
+    "sliders": [
+      "interlaken-slider-1.jpg",
+      "interlaken-slider-2.jpg",
+      "interlaken-slider-3.jpg"
+    ],
+    "food": "Alpine cheese fondue, Raclette, and Birchermüesli.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2651.000303080087!2d7.8501!3d46.6885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sInterlaken!5e0!3m2!1sen!2sch!4v1604399654321!5m2!1sen!2sch",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de756" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4436" }]
+  },
+  {
+    "_id": { "$oid": "64bc1671e063176c465de757" },
+    "name": "Zermatt",
+    "slug": "zermatt",
+    "about": "A car-free town, famous for skiing and the Matterhorn mountain, offering a year-round alpine experience.",
+    "location": "Southern Switzerland",
+    "image": "zermatt.jpg",
+    "thumbnail": "zermatt-thumbnail.jpg",
+    "sliders": [
+      "zermatt-slider-1.jpg",
+      "zermatt-slider-2.jpg",
+      "zermatt-slider-3.jpg"
+    ],
+    "food": "Raclette, Älplermagronen, and Rösti.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.999303080087!2d7.7489!3d46.0207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sZermatt!5e0!3m2!1sen!2sch!4v1604399667890!5m2!1sen!2sch",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
+    "hotels": [{ "$oid": "66bc1771e063176c465de757" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4437" }]
   }
 ]

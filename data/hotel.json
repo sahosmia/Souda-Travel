@@ -1,159 +1,925 @@
 [
   {
-    "_id": { "$oid": "66bc1771e063176c465de680" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de680"
+    },
     "name": "Pan Pacific Sonargaon Dhaka",
     "slug": "pan-pacific-sonargaon-dhaka",
     "about": "A luxury hotel located in the heart of Dhaka, offering premium services and amenities.",
     "location": "Dhaka",
     "image": "pan-pacific-sonargaon.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
     "destinations": [
-      { "$oid": "64bc1671e063176c465de670" },
-      { "$oid": "64bc1671e063176c465de671" }
+      {
+        "$oid": "64bc1671e063176c465de670"
+      },
+      {
+        "$oid": "64bc1671e063176c465de671"
+      }
     ],
     "contact": "0195827840"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de681" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de681"
+    },
     "name": "The Westin Dhaka",
     "slug": "the-westin-dhaka",
     "about": "A luxurious hotel in Dhaka, known for its high-end amenities and central location.",
     "location": "Dhaka",
     "image": "the-westin-dhaka.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de670" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de670"
+      }
+    ],
     "contact": "0185827932"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de682" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de682"
+    },
     "name": "Radisson Blu Chattogram Bay View",
     "slug": "radisson-blu-chattogram-bay-view",
     "about": "A five-star hotel located in the port city of Chattogram, offering stunning views of the bay.",
     "location": "Chattogram",
     "image": "radisson-blu-chattogram.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de672" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de672"
+      }
+    ],
     "contact": "0175827940"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de683" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de683"
+    },
     "name": "Hotel Agrabad",
     "slug": "hotel-agrabad",
     "about": "A historic hotel in Chattogram, known for its hospitality and rich heritage.",
     "location": "Chattogram",
     "image": "hotel-agrabad.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de672" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de672"
+      }
+    ],
     "contact": "0165827960"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de684" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de684"
+    },
     "name": "Royal Tulip Sea Pearl Beach Resort",
     "slug": "royal-tulip-sea-pearl-beach-resort",
     "about": "A luxurious beachfront resort in Cox's Bazar, offering stunning views of the Bay of Bengal.",
     "location": "Cox's Bazar",
     "image": "royal-tulip-sea-pearl.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de673"
+      }
+    ],
     "contact": "0155827980"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de685" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de685"
+    },
     "name": "Sayeman Beach Resort",
     "slug": "sayeman-beach-resort",
     "about": "A luxurious beach resort in Cox's Bazar, known for its stunning location and premium services.",
     "location": "Cox's Bazar",
     "image": "sayeman-beach-resort.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de673"
+      }
+    ],
     "contact": "0165827990"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de686" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de686"
+    },
     "name": "InterContinental Dhaka",
     "slug": "intercontinental-dhaka",
     "about": "A five-star hotel offering sophisticated accommodations and excellent service.",
     "location": "Dhaka",
     "image": "intercontinental-dhaka.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de670" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de670"
+      }
+    ],
     "contact": "0195827888"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de687" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de687"
+    },
     "name": "Hotel Sarina",
     "slug": "hotel-sarina",
     "about": "A modern hotel offering comfortable stay and fine dining in Dhaka.",
     "location": "Dhaka",
     "image": "hotel-sarina.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de671" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de671"
+      }
+    ],
     "contact": "0185827998"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de688" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de688"
+    },
     "name": "Chandana Hotel",
     "slug": "chandana-hotel",
     "about": "A well-known hotel providing comfort and convenience in Chattogram.",
     "location": "Chattogram",
     "image": "chandana-hotel.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de672" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de672"
+      }
+    ],
     "contact": "0175827970"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de689" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de689"
+    },
     "name": "Hotel Ocean Paradise",
     "slug": "hotel-ocean-paradise",
     "about": "A beachfront hotel offering beautiful views and a relaxing stay in Chattogram.",
     "location": "Chattogram",
     "image": "hotel-ocean-paradise.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de673"
+      }
+    ],
     "contact": "0185827900"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de68a" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de68a"
+    },
     "name": "Hotel The Cox Today",
     "slug": "hotel-the-cox-today",
     "about": "A popular hotel in Cox's Bazar with beautiful views of the sea and comfortable accommodations.",
     "location": "Cox's Bazar",
     "image": "hotel-the-cox-today.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de673"
+      }
+    ],
     "contact": "0155827910"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de68b" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de68b"
+    },
     "name": "Long Beach Hotel",
     "slug": "long-beach-hotel",
     "about": "A well-known hotel in Cox's Bazar offering good facilities and beach access.",
     "location": "Cox's Bazar",
     "image": "long-beach-hotel.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de673" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de673"
+      }
+    ],
     "contact": "0175827985"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de68c" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de68c"
+    },
     "name": "Hotel Noorjahan Grand",
     "slug": "hotel-noorjahan-grand",
     "about": "A luxurious hotel in Sylhet offering elegant rooms and fine dining.",
     "location": "Sylhet",
     "image": "hotel-noorjahan-grand.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de674" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de674"
+      }
+    ],
     "contact": "0175827999"
   },
   {
-    "_id": { "$oid": "66bc1771e063176c465de68d" },
+    "_id": {
+      "$oid": "66bc1771e063176c465de68d"
+    },
     "name": "Jaintia Hills Hotel",
     "slug": "jaintia-hills-hotel",
     "about": "Known for its beautiful views and comfortable stay in Sylhet.",
     "location": "Sylhet",
     "image": "jaintia-hills-hotel.jpg",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" },
-    "destinations": [{ "$oid": "64bc1671e063176c465de674" }],
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de674"
+      }
+    ],
     "contact": "0185827955"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa80b"
+    },
+    "name": "The Leela Palace",
+    "slug": "the-leela-palace",
+    "about": "A luxurious palace with exceptional services, opulent interiors, and fine dining options.",
+    "location": "Chanakyapuri, Delhi",
+    "image": "the-leela-palace.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de674"
+      }
+    ],
+    "contact": "011-26112222"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa80c"
+    },
+    "name": "The Oberoi, New Delhi",
+    "slug": "the-oberoi-new-delhi",
+    "about": "Offers luxurious accommodations with views of the Delhi Golf Course and excellent dining options.",
+    "location": "Dr. Zakir Hussain Marg, Delhi",
+    "image": "the-oberoi-new-delhi.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de674"
+      }
+    ],
+    "contact": "011-23322222"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa80d"
+    },
+    "name": "ITC Maurya",
+    "slug": "itc-maurya",
+    "about": "Known for its elegant rooms and world-class dining experiences.",
+    "location": "Diplomatic Enclave, Delhi",
+    "image": "itc-maurya.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de674"
+      }
+    ],
+    "contact": "011-26112233"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa80e"
+    },
+    "name": "The Taj Mahal Palace",
+    "slug": "the-taj-mahal-palace",
+    "about": "An iconic hotel offering luxurious rooms with views of the Arabian Sea and impeccable service.",
+    "location": "Apollo Bandar, Colaba, Mumbai",
+    "image": "the-taj-mahal-palace.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de675"
+      }
+    ],
+    "contact": "022-66653366"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa80f"
+    },
+    "name": "The Oberoi Mumbai",
+    "slug": "the-oberoi-mumbai",
+    "about": "Offers contemporary luxury with stunning views of the Arabian Sea and Mumbai skyline.",
+    "location": "Nariman Point, Mumbai",
+    "image": "the-oberoi-mumbai.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de675"
+      }
+    ],
+    "contact": "022-66322222"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa810"
+    },
+    "name": "Four Seasons Hotel Mumbai",
+    "slug": "four-seasons-hotel-mumbai",
+    "about": "Features modern amenities, excellent dining options, and panoramic views of the city.",
+    "location": "Worli, Mumbai",
+    "image": "four-seasons-hotel-mumbai.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de675"
+      }
+    ],
+    "contact": "022-24815050"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa811"
+    },
+    "name": "The Oberoi Udaivilas",
+    "slug": "the-oberoi-udaivilas",
+    "about": "A luxurious resort set on the banks of Lake Pichola, known for its grand architecture and scenic views.",
+    "location": "Udaipur, Rajasthan",
+    "image": "the-oberoi-udaivilas.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de676"
+      }
+    ],
+    "contact": "0294-2428800"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa812"
+    },
+    "name": "Taj Lake Palace",
+    "slug": "taj-lake-palace",
+    "about": "Located on an island in Lake Pichola, this palace offers a unique and opulent experience.",
+    "location": "Udaipur, Rajasthan",
+    "image": "taj-lake-palace.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de676"
+      }
+    ],
+    "contact": "0294-2428800"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa813"
+    },
+    "name": "The Westin Mumbai Garden City",
+    "slug": "the-westin-mumbai-garden-city",
+    "about": "Combines modern luxury with an array of amenities including a spa and fine dining options.",
+    "location": "Mumbai, Maharashtra",
+    "image": "the-westin-mumbai-garden-city.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de675"
+      }
+    ],
+    "contact": "022-42333333"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa814"
+    },
+    "name": "Rambagh Palace",
+    "slug": "rambagh-palace",
+    "about": "A regal palace offering a glimpse into Jaipur’s royal past with exquisite accommodations and dining.",
+    "location": "Jaipur, Rajasthan",
+    "image": "rambagh-palace.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de677"
+      }
+    ],
+    "contact": "0141-2385700"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa815"
+    },
+    "name": "The Taj Mahal Palace",
+    "slug": "the-taj-mahal-palace-jaipur",
+    "about": "A historic hotel with opulent rooms and a blend of traditional Rajasthani architecture and modern amenities.",
+    "location": "Jaipur, Rajasthan",
+    "image": "the-taj-mahal-palace-jaipur.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de677"
+      }
+    ],
+    "contact": "0141-2385700"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa816"
+    },
+    "name": "Radisson Blu Plaza",
+    "slug": "radisson-blu-plaza",
+    "about": "Provides modern luxury with well-appointed rooms and amenities for both business and leisure travelers.",
+    "location": "Mysore, Karnataka",
+    "image": "radisson-blu-plaza.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de678"
+      }
+    ],
+    "contact": "0821-2412222"
+  },
+  {
+    "_id": {
+      "$oid": "66d9aed84724f3303f7fa817"
+    },
+    "name": "The Oberoi Rajvilas",
+    "slug": "the-oberoi-rajvilas",
+    "about": "A luxury resort offering a blend of modern comfort and traditional Rajasthani architecture.",
+    "location": "Jaipur, Rajasthan",
+    "image": "the-oberoi-rajvilas.jpg",
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    },
+    "destinations": [
+      {
+        "$oid": "64bc1671e063176c465de677"
+      }
+    ],
+    "contact": "0141-2680101"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de690" },
+    "name": "The Peninsula Beijing",
+    "slug": "the-peninsula-beijing",
+    "about": "A luxury hotel offering sophisticated accommodations and world-class service.",
+    "location": "Beijing",
+    "image": "the-peninsula-beijing.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de690" }],
+    "contact": "+86 10 6510 2266"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de691" },
+    "name": "The Langham Shanghai",
+    "slug": "the-langham-shanghai",
+    "about": "A premium hotel with elegant rooms and excellent dining options.",
+    "location": "Shanghai",
+    "image": "the-langham-shanghai.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de691" }],
+    "contact": "+86 21 6247 1888"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de692" },
+    "name": "The Ritz-Carlton Guangzhou",
+    "slug": "the-ritz-carlton-guangzhou",
+    "about": "A luxury hotel known for its elegant design and superior service.",
+    "location": "Guangzhou",
+    "image": "the-ritz-carlton-guangzhou.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de692" }],
+    "contact": "+86 20 3813 8888"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de693" },
+    "name": "Shangri-La Hotel Chengdu",
+    "slug": "shangri-la-hotel-chengdu",
+    "about": "A luxurious hotel offering top-notch amenities and beautiful views.",
+    "location": "Chengdu",
+    "image": "shangri-la-hotel-chengdu.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de693" }],
+    "contact": "+86 28 8888 8888"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de694" },
+    "name": "Hilton Xi'an",
+    "slug": "hilton-xian",
+    "about": "A comfortable hotel offering modern amenities and excellent service.",
+    "location": "Xi'an",
+    "image": "hilton-xian.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de694" }],
+    "contact": "+86 29 8767 8888"
+  },
+  {
+    "_id": { "$oid": "64bc1771e063176c465de700" },
+    "name": "The Leela Palace",
+    "slug": "the-leela-palace",
+    "about": "Luxurious hotel offering exquisite hospitality and modern amenities.",
+    "location": "New Delhi",
+    "image": "the-leela-palace.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de700" }],
+    "contact": "+91 11 3933 1234"
+  },
+  {
+    "_id": { "$oid": "64bc1771e063176c465de701" },
+    "name": "The Taj Mahal Palace",
+    "slug": "the-taj-mahal-palace",
+    "about": "Iconic hotel offering opulent accommodations and historic charm.",
+    "location": "Mumbai",
+    "image": "the-taj-mahal-palace.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de701" }],
+    "contact": "+91 22 6665 3366"
+  },
+  {
+    "_id": { "$oid": "64bc1771e063176c465de702" },
+    "name": "The Leela Goa",
+    "slug": "the-leela-goa",
+    "about": "Luxury resort with beautiful beachside views and world-class amenities.",
+    "location": "Goa",
+    "image": "the-leela-goa.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de702" }],
+    "contact": "+91 832 662 1234"
+  },
+  {
+    "_id": { "$oid": "64bc1771e063176c465de703" },
+    "name": "Rambagh Palace",
+    "slug": "rambagh-palace",
+    "about": "Heritage hotel with royal heritage and luxurious accommodations.",
+    "location": "Jaipur",
+    "image": "rambagh-palace.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de703" }],
+    "contact": "+91 141 255 3333"
+  },
+  {
+    "_id": { "$oid": "64bc1771e063176c465de704" },
+    "name": "The Oberoi Grand",
+    "slug": "the-oberoi-grand",
+    "about": "Elegant hotel known for its classic charm and modern amenities.",
+    "location": "Kolkata",
+    "image": "the-oberoi-grand.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de704" }],
+    "contact": "+91 33 2249 2323"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de710" },
+    "name": "Galle Face Hotel",
+    "slug": "galle-face-hotel",
+    "about": "A luxurious heritage hotel located along the Galle Face Green promenade.",
+    "location": "Colombo",
+    "image": "galle-face-hotel.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de710" }],
+    "contact": "+94 11 254 1010"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de711" },
+    "name": "Earl's Regency Hotel",
+    "slug": "earls-regency-hotel",
+    "about": "A 5-star hotel offering views of the lush countryside and easy access to Kandy's cultural attractions.",
+    "location": "Kandy",
+    "image": "earls-regency-hotel.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de711" }],
+    "contact": "+94 81 242 2122"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de712" },
+    "name": "Jetwing Lighthouse",
+    "slug": "jetwing-lighthouse",
+    "about": "A boutique hotel offering stunning ocean views in Galle.",
+    "location": "Galle",
+    "image": "jetwing-lighthouse.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de712" }],
+    "contact": "+94 91 223 0000"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de713" },
+    "name": "98 Acres Resort & Spa",
+    "slug": "98-acres-resort-spa",
+    "about": "An eco-friendly luxury resort nestled in the hills of Ella.",
+    "location": "Ella",
+    "image": "98-acres-resort-spa.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de713" }],
+    "contact": "+94 57 222 8900"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de714" },
+    "name": "Hotel Sigiriya",
+    "slug": "hotel-sigiriya",
+    "about": "A resort offering views of the Sigiriya Rock and surrounded by lush forests.",
+    "location": "Sigiriya",
+    "image": "hotel-sigiriya.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de714" }],
+    "contact": "+94 66 228 6950"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de720" },
+    "name": "Hotel Ritz Paris",
+    "slug": "hotel-ritz-paris",
+    "about": "A luxury hotel offering an iconic Parisian experience.",
+    "location": "Paris",
+    "image": "hotel-ritz-paris.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de720" }],
+    "contact": "+33 1 43 16 30 30"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de721" },
+    "name": "Hyatt Regency Nice Palais",
+    "slug": "hyatt-regency-nice-palais",
+    "about": "A top-rated hotel on the French Riviera with stunning views.",
+    "location": "Nice",
+    "image": "hyatt-regency-nice-palais.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de721" }],
+    "contact": "+33 4 93 27 12 34"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de722" },
+    "name": "InterContinental Lyon",
+    "slug": "intercontinental-lyon",
+    "about": "Luxurious hotel with breathtaking views of Lyon's architecture.",
+    "location": "Lyon",
+    "image": "intercontinental-lyon.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de722" }],
+    "contact": "+33 4 26 99 23 23"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de723" },
+    "name": "Sofitel Marseille Vieux-Port",
+    "slug": "sofitel-marseille-vieux-port",
+    "about": "A luxurious stay with spectacular views of the old port.",
+    "location": "Marseille",
+    "image": "sofitel-marseille-vieux-port.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de723" }],
+    "contact": "+33 4 91 15 59 00"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de724" },
+    "name": "Le Boutique Hotel Bordeaux",
+    "slug": "le-boutique-hotel-bordeaux",
+    "about": "Charming hotel offering a mix of history and modern luxury.",
+    "location": "Bordeaux",
+    "image": "le-boutique-hotel-bordeaux.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de724" }],
+    "contact": "+33 5 56 48 80 40"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de730" },
+    "name": "Hotel Adlon Kempinski",
+    "slug": "hotel-adlon-kempinski",
+    "about": "Luxury hotel near the Brandenburg Gate offering world-class service.",
+    "location": "Berlin",
+    "image": "hotel-adlon-kempinski.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de730" }],
+    "contact": "+49 30 22610"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de731" },
+    "name": "Bayerischer Hof",
+    "slug": "bayerischer-hof",
+    "about": "Iconic five-star hotel in the heart of Munich.",
+    "location": "Munich",
+    "image": "bayerischer-hof.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de731" }],
+    "contact": "+49 89 21200"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de732" },
+    "name": "Jumeirah Frankfurt",
+    "slug": "jumeirah-frankfurt",
+    "about": "A contemporary hotel with stunning views of the skyline.",
+    "location": "Frankfurt",
+    "image": "jumeirah-frankfurt.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de732" }],
+    "contact": "+49 69 2972370"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de733" },
+    "name": "The Westin Hamburg",
+    "slug": "the-westin-hamburg",
+    "about": "Luxury hotel with a view of the Elbe Philharmonic Hall.",
+    "location": "Hamburg",
+    "image": "the-westin-hamburg.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de733" }],
+    "contact": "+49 40 800010"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de734" },
+    "name": "Excelsior Hotel Ernst",
+    "slug": "excelsior-hotel-ernst",
+    "about": "Historic five-star hotel located near Cologne Cathedral.",
+    "location": "Cologne",
+    "image": "excelsior-hotel-ernst.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de734" }],
+    "contact": "+49 221 2701"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de740" },
+    "name": "Dwarika's Hotel",
+    "slug": "dwarikas-hotel",
+    "about": "A luxury heritage hotel in Kathmandu, known for its traditional Nepali architecture.",
+    "location": "Kathmandu",
+    "image": "dwarikas-hotel.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de740" }],
+    "contact": "+977 1 4479488"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de741" },
+    "name": "Temple Tree Resort & Spa",
+    "slug": "temple-tree-resort-spa",
+    "about": "A boutique hotel located near Phewa Lake in Pokhara.",
+    "location": "Pokhara",
+    "image": "temple-tree-resort-spa.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de741" }],
+    "contact": "+977 61 465819"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de742" },
+    "name": "Meghauli Serai, A Taj Safari",
+    "slug": "meghauli-serai-taj-safari",
+    "about": "A luxury safari lodge in Chitwan National Park.",
+    "location": "Chitwan",
+    "image": "meghauli-serai-taj-safari.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de742" }],
+    "contact": "+977 56 695204"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de743" },
+    "name": "Buddha Maya Garden Hotel",
+    "slug": "buddha-maya-garden-hotel",
+    "about": "A serene hotel located in Lumbini, near the sacred birthplace of Buddha.",
+    "location": "Lumbini",
+    "image": "buddha-maya-garden-hotel.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de743" }],
+    "contact": "+977 71 580101"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de750" },
+    "name": "The Siam",
+    "slug": "the-siam",
+    "about": "A luxury hotel in Bangkok, offering an opulent experience with a blend of traditional and modern design.",
+    "location": "Bangkok",
+    "image": "the-siam.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de750" }],
+    "contact": "+66 2 206 6999"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de751" },
+    "name": "137 Pillars House",
+    "slug": "137-pillars-house",
+    "about": "A boutique hotel in Chiang Mai, featuring a charming blend of history and luxury.",
+    "location": "Chiang Mai",
+    "image": "137-pillars-house.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de751" }],
+    "contact": "+66 53 247 788"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de752" },
+    "name": "The Slate Phuket",
+    "slug": "the-slate-phuket",
+    "about": "A luxurious resort in Phuket, known for its unique design inspired by Phuket’s tin mining past.",
+    "location": "Phuket",
+    "image": "the-slate-phuket.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de752" }],
+    "contact": "+66 76 327 006"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de753" },
+    "name": "Sala Ayutthaya",
+    "slug": "sala-ayutthaya",
+    "about": "A riverside hotel offering a serene retreat in the historical city of Ayutthaya.",
+    "location": "Ayutthaya",
+    "image": "sala-ayutthaya.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de753" }],
+    "contact": "+66 35 242 588"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de754" },
+    "name": "Baur au Lac",
+    "slug": "baur-au-lac",
+    "about": "A luxury hotel located in Zurich, offering opulent accommodations and a rich history.",
+    "location": "Zurich",
+    "image": "baur-au-lac.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de754" }],
+    "contact": "+41 44 220 5000"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de755" },
+    "name": "Hotel d'Angleterre",
+    "slug": "hotel-d-angleterre",
+    "about": "A 5-star hotel in Geneva, known for its elegance, charm, and beautiful lake views.",
+    "location": "Geneva",
+    "image": "hotel-d-angleterre.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de755" }],
+    "contact": "+41 22 906 5510"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de756" },
+    "name": "Victoria Jungfrau Grand Hotel & Spa",
+    "slug": "victoria-jungfrau-grand-hotel-spa",
+    "about": "A luxury hotel in Interlaken, offering stunning views of the Jungfrau mountains and first-class amenities.",
+    "location": "Interlaken",
+    "image": "victoria-jungfrau.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de756" }],
+    "contact": "+41 33 828 2828"
+  },
+  {
+    "_id": { "$oid": "66bc1771e063176c465de757" },
+    "name": "Mont Cervin Palace",
+    "slug": "mont-cervin-palace",
+    "about": "A luxurious resort in Zermatt, famous for its proximity to the Matterhorn and offering top-notch services.",
+    "location": "Zermatt",
+    "image": "mont-cervin-palace.jpg",
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
+    "destinations": [{ "$oid": "64bc1671e063176c465de757" }],
+    "contact": "+41 27 966 8888"
   }
 ]

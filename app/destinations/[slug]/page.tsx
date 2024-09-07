@@ -38,6 +38,9 @@ const DestinationDetails = async ({ params }: { params: { slug: string } }) => {
   if (!destination) {
     notFound();
   }
+
+  // console.log(destination);
+  
   return (
     <>
       <DestinationItemBenner destination={destination} />

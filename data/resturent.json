@@ -1,1028 +1,407 @@
 [
   {
     "_id": {
-      "$oid": "66bb899a3b76361b7f2d437e"
+      "$oid": "66bb899a3b76361b7f2d4470"
     },
-    "name": "La Pergola",
-    "slug": "la-pergola",
-    "about": "A Michelin-starred restaurant in Rome, offering gourmet Italian cuisine with a stunning view of the city.",
-    "location": "Rome",
-    "image": "la-pergola.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d437f"
-    },
-    "name": "Narisawa",
-    "slug": "narisawa",
-    "about": "An innovative dining experience in Tokyo, blending traditional Japanese ingredients with modern culinary techniques.",
-    "location": "Tokyo",
-    "image": "narisawa.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4380"
-    },
-    "name": "Le Bernardin",
-    "slug": "le-bernardin",
-    "about": "A renowned seafood restaurant in New York City, known for its elegant dining and exquisite dishes.",
-    "location": "New York",
-    "image": "le-bernardin.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4381"
-    },
-    "name": "Gaggan",
-    "slug": "gaggan",
-    "about": "A progressive Indian restaurant in Bangkok, offering a unique and playful tasting menu.",
-    "location": "Bangkok",
-    "image": "gaggan.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4382"
-    },
-    "name": "El Celler de Can Roca",
-    "slug": "el-celler-de-can-roca",
-    "about": "A family-run restaurant in Girona, Spain, known for its innovative and artfully presented dishes.",
-    "location": "Girona",
-    "image": "el-celler-de-can-roca.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4383"
-    },
-    "name": "Central",
-    "slug": "central",
-    "about": "A top-ranked restaurant in Lima, Peru, celebrating the diverse ecosystems of Peru through its unique tasting menu.",
-    "location": "Lima",
-    "image": "central.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4384"
-    },
-    "name": "Osteria Francescana",
-    "slug": "osteria-francescana",
-    "about": "A three-Michelin-starred restaurant in Modena, Italy, blending traditional Italian flavors with modern art.",
-    "location": "Modena",
-    "image": "osteria-francescana.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4385"
-    },
-    "name": "Eleven Madison Park",
-    "slug": "eleven-madison-park",
-    "about": "A luxurious restaurant in New York City, offering a seasonal tasting menu that highlights local ingredients.",
-    "location": "New York",
-    "image": "eleven-madison-park.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4386"
-    },
-    "name": "Mugaritz",
-    "slug": "mugaritz",
-    "about": "A cutting-edge restaurant in San Sebastián, Spain, known for its avant-garde approach to Basque cuisine.",
-    "location": "San Sebastián",
-    "image": "mugaritz.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4387"
-    },
-    "name": "Quintonil",
-    "slug": "quintonil",
-    "about": "A celebrated restaurant in Mexico City, offering a modern take on traditional Mexican flavors.",
-    "location": "Mexico City",
-    "image": "quintonil.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4388"
-    },
-    "name": "D.O.M.",
-    "slug": "dom",
-    "about": "A restaurant in São Paulo, Brazil, known for its use of indigenous Brazilian ingredients in creative dishes.",
-    "location": "São Paulo",
-    "image": "dom.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4389"
-    },
-    "name": "Pujol",
-    "slug": "pujol",
-    "about": "A top-tier restaurant in Mexico City, known for its modern interpretation of traditional Mexican dishes.",
-    "location": "Mexico City",
-    "image": "pujol.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d438a"
-    },
-    "name": "Geranium",
-    "slug": "geranium",
-    "about": "A three-Michelin-starred restaurant in Copenhagen, offering a seasonal tasting menu with a focus on Scandinavian flavors.",
-    "location": "Copenhagen",
-    "image": "geranium.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d438b"
-    },
-    "name": "Blue Hill at Stone Barns",
-    "slug": "blue-hill-at-stone-barns",
-    "about": "A farm-to-table restaurant in New York, known for its sustainable approach to fine dining.",
-    "location": "New York",
-    "image": "blue-hill-at-stone-barns.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d438c"
-    },
-    "name": "Noma",
-    "slug": "noma",
-    "about": "A world-famous restaurant in Copenhagen, known for its innovative approach to Nordic cuisine.",
-    "location": "Copenhagen",
-    "image": "noma.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d438d"
-    },
-    "name": "Azurmendi",
-    "slug": "azurmendi",
-    "about": "A three-Michelin-starred restaurant in Larrabetzu, Spain, known for its focus on sustainability and avant-garde Basque cuisine.",
-    "location": "Larrabetzu",
-    "image": "azurmendi.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d438e"
-    },
-    "name": "The Ledbury",
-    "slug": "the-ledbury",
-    "about": "A two-Michelin-starred restaurant in London, offering modern European cuisine with a focus on seasonal ingredients.",
-    "location": "London",
-    "image": "the-ledbury.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d438f"
-    },
-    "name": "Alinea",
-    "slug": "alinea",
-    "about": "A three-Michelin-starred restaurant in Chicago, known for its cutting-edge molecular gastronomy.",
-    "location": "Chicago",
-    "image": "alinea.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4390"
-    },
-    "name": "Sukiyabashi Jiro",
-    "slug": "sukiyabashi-jiro",
-    "about": "A world-renowned sushi restaurant in Tokyo, offering an unforgettable omakase experience.",
-    "location": "Tokyo",
-    "image": "sukiyabashi-jiro.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4391"
-    },
-    "name": "The French Laundry",
-    "slug": "the-french-laundry",
-    "about": "A three-Michelin-starred restaurant in Napa Valley, California, offering a refined tasting menu with French influences.",
-    "location": "Napa Valley",
-    "image": "the-french-laundry.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4392"
-    },
-    "name": "Arpège",
-    "slug": "arpege",
-    "about": "A three-Michelin-starred restaurant in Paris, known for its focus on vegetable-centric dishes.",
-    "location": "Paris",
-    "image": "arpege.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4393"
-    },
-    "name": "Steirereck",
-    "slug": "steirereck",
-    "about": "A two-Michelin-starred restaurant in Vienna, Austria, offering modern Austrian cuisine with a focus on local ingredients.",
-    "location": "Vienna",
-    "image": "steirereck.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4394"
-    },
-    "name": "Asador Etxebarri",
-    "slug": "asador-etxebarri",
-    "about": "A unique restaurant in the Basque Country, Spain, known for its mastery of grilling techniques.",
-    "location": "Axpe, Spain",
-    "image": "asador-etxebarri.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4395"
-    },
-    "name": "Le Calandre",
-    "slug": "le-calandre",
-    "about": "A three-Michelin-starred restaurant in Padua, Italy, offering an innovative take on traditional Italian cuisine.",
-    "location": "Padua",
-    "image": "le-calandre.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4396"
-    },
-    "name": "La Colombe",
-    "slug": "la-colombe",
-    "about": "A top-rated restaurant in Cape Town, South Africa, offering a modern fusion of French and Asian cuisine.",
-    "location": "Cape Town",
-    "image": "la-colombe.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4397"
-    },
-    "name": "Attica",
-    "slug": "attica",
-    "about": "A celebrated restaurant in Melbourne, Australia, known for its innovative and locally inspired dishes.",
-    "location": "Melbourne",
-    "image": "attica.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4398"
-    },
-    "name": "Odette",
-    "slug": "odette",
-    "about": "A three-Michelin-starred restaurant in Singapore, offering a refined and artistic approach to modern French cuisine.",
-    "location": "Singapore",
-    "image": "odette.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d4399"
-    },
-    "name": "Maido",
-    "slug": "maido",
-    "about": "A top-ranked restaurant in Lima, Peru, known for its unique fusion of Japanese and Peruvian flavors.",
-    "location": "Lima",
-    "image": "maido.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d439a"
-    },
-    "name": "Le Gavroche",
-    "slug": "le-gavroche",
-    "about": "A historic restaurant in London, offering classic French cuisine in an elegant setting.",
-    "location": "London",
-    "image": "le-gavroche.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d439b"
-    },
-    "name": "Dinner by Heston Blumenthal",
-    "slug": "dinner-by-heston-blumenthal",
-    "about": "A Michelin-starred restaurant in London, offering a modern twist on historical British dishes.",
-    "location": "London",
-    "image": "dinner-by-heston-blumenthal.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d439c"
-    },
-    "name": "Quay",
-    "slug": "quay",
-    "about": "A top-rated restaurant in Sydney, Australia, offering a modern take on Australian cuisine with stunning views of the Sydney Opera House.",
-    "location": "Sydney",
-    "image": "quay.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d439d"
-    },
-    "name": "Cosme",
-    "slug": "cosme",
-    "about": "A contemporary Mexican restaurant in New York City, offering a vibrant menu inspired by traditional flavors.",
-    "location": "New York",
-    "image": "cosme.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d439e"
-    },
-    "name": "Ultraviolet",
-    "slug": "ultraviolet",
-    "about": "A unique dining experience in Shanghai, combining cutting-edge technology with avant-garde cuisine.",
-    "location": "Shanghai",
-    "image": "ultraviolet.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d439f"
-    },
-    "name": "Osteria Mozza",
-    "slug": "osteria-mozza",
-    "about": "A celebrated Italian restaurant in Los Angeles, known for its fresh pasta and creative dishes.",
-    "location": "Los Angeles",
-    "image": "osteria-mozza.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a0"
-    },
-    "name": "El Club Allard",
-    "slug": "el-club-allard",
-    "about": "A two-Michelin-starred restaurant in Madrid, offering a creative and artistic approach to modern Spanish cuisine.",
-    "location": "Madrid",
-    "image": "el-club-allard.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a1"
-    },
-    "name": "The Test Kitchen",
-    "slug": "the-test-kitchen",
-    "about": "A top-rated restaurant in Cape Town, South Africa, known for its innovative and locally inspired dishes.",
-    "location": "Cape Town",
-    "image": "the-test-kitchen.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a2"
-    },
-    "name": "Per Se",
-    "slug": "per-se",
-    "about": "A three-Michelin-starred restaurant in New York City, offering an elegant tasting menu with French influences.",
-    "location": "New York",
-    "image": "per-se.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a3"
-    },
-    "name": "Momofuku Ko",
-    "slug": "momofuku-ko",
-    "about": "A modern American restaurant in New York City, offering a seasonal tasting menu with a focus on local ingredients.",
-    "location": "New York",
-    "image": "momofuku-ko.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a4"
-    },
-    "name": "The Fat Duck",
-    "slug": "the-fat-duck",
-    "about": "A three-Michelin-starred restaurant in Bray, England, known for its experimental approach to modern British cuisine.",
-    "location": "Bray",
-    "image": "the-fat-duck.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a5"
-    },
-    "name": "Ginza Kojyu",
-    "slug": "ginza-kojyu",
-    "about": "A Michelin-starred restaurant in Tokyo, offering a traditional kaiseki dining experience.",
-    "location": "Tokyo",
-    "image": "ginza-kojyu.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a6"
-    },
-    "name": "Aqua",
-    "slug": "aqua",
-    "about": "A three-Michelin-starred restaurant in Wolfsburg, Germany, offering modern European cuisine in an elegant setting.",
-    "location": "Wolfsburg",
-    "image": "aqua.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a7"
-    },
-    "name": "The Jane",
-    "slug": "the-jane",
-    "about": "A top-rated restaurant in Antwerp, Belgium, offering a modern and artistic approach to European cuisine.",
-    "location": "Antwerp",
-    "image": "the-jane.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a8"
-    },
-    "name": "Frantzén",
-    "slug": "frantzen",
-    "about": "A three-Michelin-starred restaurant in Stockholm, Sweden, offering an innovative and artistic tasting menu.",
-    "location": "Stockholm",
-    "image": "frantzen.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43a9"
-    },
-    "name": "Amass",
-    "slug": "amass",
-    "about": "A modern restaurant in Copenhagen, offering a creative and sustainable approach to fine dining.",
-    "location": "Copenhagen",
-    "image": "amass.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43aa"
-    },
-    "name": "L'Atelier de Joël Robuchon",
-    "slug": "latelier-de-joel-robuchon",
-    "about": "A renowned restaurant in Paris, offering a modern and artistic take on classic French cuisine.",
-    "location": "Paris",
-    "image": "latelier-de-joel-robuchon.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43ab"
-    },
-    "name": "Vendôme",
-    "slug": "vendome",
-    "about": "A three-Michelin-starred restaurant in Bergisch Gladbach, Germany, offering modern European cuisine in an elegant setting.",
-    "location": "Bergisch Gladbach",
-    "image": "vendome.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43ac"
-    },
-    "name": "Le Chateaubriand",
-    "slug": "le-chateaubriand",
-    "about": "A modern French restaurant in Paris, known for its innovative and ever-changing menu.",
-    "location": "Paris",
-    "image": "le-chateaubriand.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43ad"
-    },
-    "name": "Mikla",
-    "slug": "mikla",
-    "about": "A top-rated restaurant in Istanbul, Turkey, offering a modern take on traditional Turkish cuisine.",
-    "location": "Istanbul",
-    "image": "mikla.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43ae"
-    },
-    "name": "The Clove Club",
-    "slug": "the-clove-club",
-    "about": "A Michelin-starred restaurant in London, offering a modern and innovative approach to British cuisine.",
-    "location": "London",
-    "image": "the-clove-club.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43af"
-    },
-    "name": "Restaurant Tim Raue",
-    "slug": "restaurant-tim-raue",
-    "about": "A two-Michelin-starred restaurant in Berlin, Germany, offering a modern and artistic take on Asian cuisine.",
-    "location": "Berlin",
-    "image": "restaurant-tim-raue.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b0"
-    },
-    "name": "Zuma",
-    "slug": "zuma",
-    "about": "A contemporary Japanese restaurant in London, offering a stylish and vibrant dining experience.",
-    "location": "London",
-    "image": "zuma.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b1"
-    },
-    "name": "Hof van Cleve",
-    "slug": "hof-van-cleve",
-    "about": "A three-Michelin-starred restaurant in Kruishoutem, Belgium, offering a modern and artistic take on Belgian cuisine.",
-    "location": "Kruishoutem",
-    "image": "hof-van-cleve.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b2"
-    },
-    "name": "Sühring",
-    "slug": "suhring",
-    "about": "A top-rated restaurant in Bangkok, Thailand, offering a modern take on traditional German cuisine.",
-    "location": "Bangkok",
-    "image": "suhring.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b3"
-    },
-    "name": "Belcanto",
-    "slug": "belcanto",
-    "about": "A two-Michelin-starred restaurant in Lisbon, Portugal, offering a modern and artistic take on traditional Portuguese cuisine.",
-    "location": "Lisbon",
-    "image": "belcanto.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b5"
-    },
-    "name": "Coi",
-    "slug": "coi",
-    "about": "A two-Michelin-starred restaurant in San Francisco, California, offering a modern and artistic take on Californian cuisine.",
-    "location": "San Francisco",
-    "image": "coi.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b6"
-    },
-    "name": "Matsuhisa",
-    "slug": "matsuhisa",
-    "about": "A contemporary Japanese restaurant in Los Angeles, offering a stylish and vibrant dining experience.",
-    "location": "Los Angeles",
-    "image": "matsuhisa.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b7"
-    },
-    "name": "Ristorante Cracco",
-    "slug": "ristorante-cracco",
-    "about": "A Michelin-starred restaurant in Milan, Italy, offering a modern and artistic take on Italian cuisine.",
-    "location": "Milan",
-    "image": "ristorante-cracco.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b8"
-    },
-    "name": "RyuGin",
-    "slug": "ryugin",
-    "about": "A three-Michelin-starred restaurant in Tokyo, offering a modern and artistic take on traditional Japanese cuisine.",
-    "location": "Tokyo",
-    "image": "ryugin.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43b9"
-    },
-    "name": "The Restaurant at Meadowood",
-    "slug": "the-restaurant-at-meadowood",
-    "about": "A three-Michelin-starred restaurant in Napa Valley, California, offering a modern and artistic take on Californian cuisine.",
-    "location": "Napa Valley",
-    "image": "the-restaurant-at-meadowood.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43ba"
-    },
-    "name": "Le Meurice",
-    "slug": "le-meurice",
-    "about": "A two-Michelin-starred restaurant in Paris, offering a modern and artistic take on classic French cuisine.",
-    "location": "Paris",
-    "image": "le-meurice.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43bb"
-    },
-    "name": "The Grill",
-    "slug": "the-grill",
-    "about": "A top-rated restaurant in New York City, offering a modern take on classic American cuisine.",
-    "location": "New York",
-    "image": "the-grill.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43bc"
-    },
-    "name": "La Dame de Pic",
-    "slug": "la-dame-de-pic",
-    "about": "A Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
-    "location": "Paris",
-    "image": "la-dame-de-pic.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43bd"
-    },
-    "name": "Restaurant André",
-    "slug": "restaurant-andre",
-    "about": "A Michelin-starred restaurant in Singapore, offering a modern and artistic take on French cuisine.",
-    "location": "Singapore",
-    "image": "restaurant-andre.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43be"
-    },
-    "name": "The Modern",
-    "slug": "the-modern",
-    "about": "A two-Michelin-starred restaurant in New York City, offering a modern and artistic take on American cuisine.",
-    "location": "New York",
-    "image": "the-modern.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43bf"
-    },
-    "name": "Pierre Gagnaire",
-    "slug": "pierre-gagnaire",
-    "about": "A three-Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
-    "location": "Paris",
-    "image": "pierre-gagnaire.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43c0"
-    },
-    "name": "Restaurant Gordon Ramsay",
-    "slug": "restaurant-gordon-ramsay",
-    "about": "A three-Michelin-starred restaurant in London, offering a modern and artistic take on British cuisine.",
-    "location": "London",
-    "image": "restaurant-gordon-ramsay.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43c1"
-    },
-    "name": "The River Café",
-    "slug": "the-river-cafe",
-    "about": "A Michelin-starred restaurant in London, offering a modern and artistic take on Italian cuisine.",
-    "location": "London",
-    "image": "the-river-cafe.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43c2"
-    },
-    "name": "Robuchon au Dôme",
-    "slug": "robuchon-au-dome",
-    "about": "A three-Michelin-starred restaurant in Macau, offering a modern and artistic take on French cuisine.",
-    "location": "Macau",
-    "image": "robuchon-au-dome.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43c3"
-    },
-    "name": "Il Ristorante - Niko Romito",
-    "slug": "il-ristorante-niko-romito",
-    "about": "A Michelin-starred restaurant in Dubai, offering a modern and artistic take on Italian cuisine.",
-    "location": "Dubai",
-    "image": "il-ristorante-niko-romito.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43c4"
-    },
-    "name": "Tetsuya's",
-    "slug": "tetsuyas",
-    "about": "A top-rated restaurant in Sydney, Australia, offering a modern and artistic take on Japanese cuisine.",
-    "location": "Sydney",
-    "image": "tetsuyas.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43c5"
-    },
-    "name": "Guy Savoy",
-    "slug": "guy-savoy",
-    "about": "A three-Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
-    "location": "Paris",
-    "image": "guy-savoy.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43c6"
-    },
-    "name": "Epicure",
-    "slug": "epicure",
-    "about": "A three-Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
-    "location": "Paris",
-    "image": "epicure.jpg"
-  },
-  {
-    "_id": {
-      "$oid": "66bb899a3b76361b7f2d43c7"
-    },
-    "name": "Joël Robuchon",
-    "slug": "joel-robuchon",
-    "about": "A three-Michelin-starred restaurant in Paris, offering a modern and artistic take on French cuisine.",
-    "location": "Paris",
-    "image": "joel-robuchon.jpg"
+    "name": "Sea Pearl Diner",
+    "slug": "sea-pearl-diner",
+    "about": "A seafood-focused restaurant offering fresh catches and traditional Bangladeshi flavors right at Cox's Bazar beach.",
+    "location": "Cox's Bazar",
+    "image": "sea-pearl-diner.jpg",
+    "thumbnail": "sea-pearl-diner-thumbnail.jpg",
+    "menu": ["Grilled Lobster", "Prawn Curry", "Fried Fish with Salad"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.741089281741!2d91.96547941493258!3d21.4272160857746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc865d620ccc5%3A0x8e947f4c6f244d0!2sCox's%20Bazar!5e0!3m2!1sen!2sbd!4v1692354011234!5m2!1sen!2sbd",
+    "destination": {
+      "$oid": "64bc1671e063176c465de670"
+    },
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66bb899a3b76361b7f2d4471"
+    },
+    "name": "Beachside Grill",
+    "slug": "beachside-grill",
+    "about": "An open-air restaurant offering barbecue and seafood with a view of the sea at Cox's Bazar.",
+    "location": "Cox's Bazar",
+    "image": "beachside-grill.jpg",
+    "thumbnail": "beachside-grill-thumbnail.jpg",
+    "menu": ["Barbecue Ribs", "Grilled Fish", "Seafood Platter"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.741089281741!2d91.96547941493258!3d21.4272160857746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc865d620ccc5%3A0x8e947f4c6f244d0!2sCox's%20Bazar!5e0!3m2!1sen!2sbd!4v1692354011234!5m2!1sen!2sbd",
+    "destination": {
+      "$oid": "64bc1671e063176c465de670"
+    },
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66bb899a3b76361b7f2d4472"
+    },
+    "name": "Mangrove Feast",
+    "slug": "mangrove-feast",
+    "about": "A restaurant offering traditional Bangladeshi dishes with a focus on ingredients from the Sundarbans region.",
+    "location": "Khulna",
+    "image": "mangrove-feast.jpg",
+    "thumbnail": "mangrove-feast-thumbnail.jpg",
+    "menu": ["Bhapa Ilish", "Chingri Malai Curry", "Fish Curry"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14737.940818462513!2d89.31248701498142!3d22.13655458579165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a000b56777360d7%3A0x32f7a10c9b2398d4!2sSundarbans%20Mangrove%20Forest!5e0!3m2!1sen!2sbd!4v1692353230129!5m2!1sen!2sbd",
+    "destination": {
+      "$oid": "64bc1671e063176c465de671"
+    },
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66bb899a3b76361b7f2d4473"
+    },
+    "name": "Tropical Delights",
+    "slug": "tropical-delights",
+    "about": "A casual dining spot on Saint Martin's Island specializing in fresh seafood and tropical drinks.",
+    "location": "Saint Martin's Island",
+    "image": "tropical-delights.jpg",
+    "thumbnail": "tropical-delights-thumbnail.jpg",
+    "menu": ["Seafood Platters", "Crab Curry", "Coconut Water"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28808.292128112574!2d92.31964236899496!3d20.627846420730154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adf00f63b8e109%3A0x54570c5cf7688b1a!2sSaint%20Martin's%20Island!5e0!3m2!1sen!2sbd!4v1692127006430!5m2!1sen!2sbd",
+    "destination": {
+      "$oid": "64bc1671e063176c465de672"
+    },
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66bb899a3b76361b7f2d4474"
+    },
+    "name": "Cloud Nine Eatery",
+    "slug": "cloud-nine-eatery",
+    "about": "An eatery in Sajek Valley offering a mix of local and continental dishes with a breathtaking view of the valley.",
+    "location": "Sajek Valley",
+    "image": "cloud-nine-eatery.jpg",
+    "thumbnail": "cloud-nine-eatery-thumbnail.jpg",
+    "menu": ["Bamboo Chicken", "Hill Tracts Shutki Bhorta", "Local Stews"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115758.53013676195!2d92.27959640780822!3d23.383869292354254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374e7d0912ac647b%3A0x79863a8980a0be6c!2sSajek%20Valley!5e0!3m2!1sen!2sbd!4v1692353351727!5m2!1sen!2sbd",
+    "destination": {
+      "$oid": "64bc1671e063176c465de673"
+    },
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66bb899a3b76361b7f2d4475"
+    },
+    "name": "Sunrise Bistro",
+    "slug": "sunrise-bistro",
+    "about": "A cozy bistro in Kuakata offering a range of Bengali and seafood dishes with a view of the sunrise.",
+    "location": "Kuakata",
+    "image": "sunrise-bistro.jpg",
+    "thumbnail": "sunrise-bistro-thumbnail.jpg",
+    "menu": ["Panta Bhat", "Seafood Specials", "Local Bengali Dishes"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.0151358026607!2d90.23308961498258!3d21.537673583974504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c651c4f3eb5%3A0x8c8ed8fd1e9a8e84!2sKuakata%20Beach!5e0!3m2!1sen!2sbd!4v1692353450866!5m2!1sen!2sbd",
+    "destination": {
+      "$oid": "64bc1671e063176c465de680"
+    },
+    "country": {
+      "$oid": "66bb9a8d3b76361b7f2d4473"
+    }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4385" },
-    "name": "Da Dong Roast Duck",
-    "slug": "da-dong-roast-duck",
-    "about": "Famous for its crispy Peking duck and traditional Beijing cuisine.",
-    "location": "Beijing",
-    "image": "da-dong-roast-duck.jpg"
+    "name": "Sunrise Eatery",
+    "slug": "sunrise-eatery",
+    "about": "A local favorite in Kuakata known for its seafood and Bengali delicacies with a view of the sunrise.",
+    "location": "Kuakata",
+    "image": "sunrise-eatery.jpg",
+    "thumbnail": "sunrise-eatery-thumbnail.jpg",
+    "menu": ["Fish Curry", "Panta Ilish", "Bengali Sweets"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.0151358026607!2d90.23308961498258!3d21.537673583974504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ab4b9b3fc8bd17%3A0x4c9b7a2c7a56f85!2sKuakata!5e0!3m2!1sen!2sbd!4v1692353812178!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de680" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4386" },
-    "name": "Ultraviolet by Paul Pairet",
-    "slug": "ultraviolet-by-paul-pairet",
-    "about": "An innovative restaurant offering a unique dining experience with multi-sensory elements.",
-    "location": "Shanghai",
-    "image": "ultraviolet-by-paul-pairet.jpg"
+    "name": "Ocean's Delight",
+    "slug": "oceans-delight",
+    "about": "A seafood restaurant in Cox's Bazar, famous for its fresh catches and beachfront view.",
+    "location": "Cox's Bazar",
+    "image": "oceans-delight.jpg",
+    "thumbnail": "oceans-delight-thumbnail.jpg",
+    "menu": ["Grilled Lobster", "Prawn Cocktail", "Seafood Paella"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.6033051605725!2d92.01828961498234!3d21.427246383919215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30af67fd45f3e7d5%3A0x5f78b2a8d0bb7c!2sCox%27s+Bazar!5e0!3m2!1sen!2sbd!4v1692353987321!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de681" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4473" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4387" },
-    "name": "Bingsheng Pinwei",
-    "slug": "bingsheng-pinwei",
-    "about": "A well-known restaurant offering authentic Cantonese cuisine.",
+    "name": "Dim Sum Palace",
+    "slug": "dim-sum-palace",
+    "about": "A popular spot in Guangzhou for traditional Cantonese dim sum and tea.",
     "location": "Guangzhou",
-    "image": "bingsheng-pinwei.jpg"
+    "image": "dim-sum-palace.jpg",
+    "thumbnail": "dim-sum-palace-thumbnail.jpg",
+    "menu": ["Pork Dumplings", "Spring Rolls", "Prawn Toast"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d146687.84617446642!2d113.28866541498259!3d23.126297683919325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3402e1f8d6a0e3f1%3A0xa4b1c3d6f914e4!2sGuangzhou!5e0!3m2!1sen!2sbd!4v1692354053212!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de692" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4388" },
-    "name": "Shu Jiu Xiang",
-    "slug": "shu-jiu-xiang",
-    "about": "Famous for its Sichuan hotpot and spicy dishes.",
+    "name": "Chengdu Hotpot Haven",
+    "slug": "chengdu-hotpot-haven",
+    "about": "Known for its spicy hotpot and Sichuan specialties.",
     "location": "Chengdu",
-    "image": "shu-jiu-xiang.jpg"
+    "image": "chengdu-hotpot-haven.jpg",
+    "thumbnail": "chengdu-hotpot-haven-thumbnail.jpg",
+    "menu": ["Spicy Hotpot", "Mapo Tofu", "Kung Pao Chicken"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d148848.25403620736!2d104.0657354!3d30.6594629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36b1c3f6f6226b53%3A0x220084d6d04cbd!2sChengdu!5e0!3m2!1sen!2sbd!4v1692354119228!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de693" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4389" },
-    "name": "Xi'an Famous Foods",
-    "slug": "xian-famous-foods",
-    "about": "Known for its Roujiamo (Chinese burger) and biangbiang noodles.",
+    "name": "Terracotta Eats",
+    "slug": "terracotta-eats",
+    "about": "A restaurant near the Terracotta Army offering traditional Xi'an cuisine.",
     "location": "Xi'an",
-    "image": "xian-famous-foods.jpg"
+    "image": "terracotta-eats.jpg",
+    "thumbnail": "terracotta-eats-thumbnail.jpg",
+    "menu": ["Roujiamo", "Biangbiang Noodles", "Lamb Skewers"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d146073.69734704527!2d108.9490132!3d34.3415685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366209bd43493b1d%3A0x6e50b7d9f9d2d0!2sXi%27an!5e0!3m2!1sen!2sbd!4v1692354186324!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de694" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4477" }
   },
   {
     "_id": { "$oid": "64bb899a3b76361b7f2d4380" },
-    "name": "Bukhara",
-    "slug": "bukhara",
-    "about": "Renowned for its North Indian dishes and traditional tandoori cuisine.",
+    "name": "Biryani House",
+    "slug": "biryani-house",
+    "about": "Famous for its delicious biryanis and other North Indian dishes, offering a variety of spices and flavors.",
     "location": "New Delhi",
-    "image": "bukhara.jpg"
+    "image": "biryani-house.jpg",
+    "thumbnail": "biryani-house-thumbnail.jpg",
+    "menu": ["Chicken Biryani", "Mutton Biryani", "Paneer Tikka"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d135223.08086603217!2d77.06860448820716!3d28.613939134769754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8f3f27c8af%3A0x13d95a9b9cf773f8!2sNew%20Delhi!5e0!3m2!1sen!2sin!4v1682827521604!5m2!1sen!2sin",
+    "destination": { "$oid": "64bc1671e063176c465de700" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" }
   },
   {
     "_id": { "$oid": "64bb899a3b76361b7f2d4381" },
-    "name": "Leopold Cafe",
-    "slug": "leopold-cafe",
-    "about": "Iconic cafe known for its vibrant atmosphere and diverse menu.",
+    "name": "Seafood Delights",
+    "slug": "seafood-delights",
+    "about": "Known for its fresh seafood and vibrant flavors, offering a range of Mumbai’s street food specialties.",
     "location": "Mumbai",
-    "image": "leopold-cafe.jpg"
+    "image": "seafood-delights.jpg",
+    "thumbnail": "seafood-delights-thumbnail.jpg",
+    "menu": ["Vada Pav", "Pav Bhaji", "Bombay Sandwich"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d138847.51420858665!2d72.85554628245912!3d19.07609037184649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c80b8e8f8b5d%3A0x10c1c6b008b68d6f!2sMumbai!5e0!3m2!1sen!2sin!4v1682827522928!5m2!1sen!2sin",
+    "destination": { "$oid": "64bc1671e063176c465de701" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" }
   },
   {
     "_id": { "$oid": "64bb899a3b76361b7f2d4382" },
-    "name": "Gunpowder",
-    "slug": "gunpowder",
-    "about": "Famous for its authentic South Indian dishes and relaxed ambiance.",
+    "name": "Goa Seafood Paradise",
+    "slug": "goa-seafood-paradise",
+    "about": "Offers a variety of Goan seafood dishes with traditional flavors and a great ambiance by the beach.",
     "location": "Goa",
-    "image": "gunpowder.jpg"
+    "image": "goa-seafood-paradise.jpg",
+    "thumbnail": "goa-seafood-paradise-thumbnail.jpg",
+    "menu": ["Goan Fish Curry", "Vindaloo", "Prawn Balchao"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d897379.1196786269!2d73.81281455183583!3d15.299326620489315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfba09e3f74aef%3A0x1d5ed38c4b35b4e!2sGoa!5e0!3m2!1sen!2sin!4v1682827524323!5m2!1sen!2sin",
+    "destination": { "$oid": "64bc1671e063176c465de702" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" }
   },
   {
     "_id": { "$oid": "64bb899a3b76361b7f2d4383" },
-    "name": "Lal Maas",
-    "slug": "lal-maas",
-    "about": "Known for its spicy Rajasthani curry and traditional setting.",
+    "name": "Rajasthani Feast",
+    "slug": "rajasthani-feast",
+    "about": "Specializes in traditional Rajasthani cuisine with a focus on authentic flavors and royal recipes.",
     "location": "Jaipur",
-    "image": "lal-maas.jpg"
+    "image": "rajasthani-feast.jpg",
+    "thumbnail": "rajasthani-feast-thumbnail.jpg",
+    "menu": ["Dal Baati Churma", "Ghevar", "Ker Sangri"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d140008.49385309793!2d75.80078189368263!3d26.912433643176253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db68d2afc82a7%3A0x72e49734b17d1e5e!2sJaipur!5e0!3m2!1sen!2sin!4v1682827525601!5m2!1sen!2sin",
+    "destination": { "$oid": "64bc1671e063176c465de703" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" }
   },
   {
     "_id": { "$oid": "64bb899a3b76361b7f2d4384" },
-    "name": "6 Ballygunge Place",
-    "slug": "6-ballygunge-place",
-    "about": "Famous for its Bengali cuisine and elegant decor.",
+    "name": "Bengali Delights",
+    "slug": "bengali-delights",
+    "about": "Offers a range of traditional Bengali dishes, including sweets and spicy curries, in a cozy setting.",
     "location": "Kolkata",
-    "image": "6-ballygunge-place.jpg"
+    "image": "bengali-delights.jpg",
+    "thumbnail": "bengali-delights-thumbnail.jpg",
+    "menu": ["Fish Curry", "Rasgulla", "Puchka"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d142979.92541714534!2d88.3465656!3d22.572646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027747e290a591%3A0x54dd832f0f8c4b57!2sKolkata!5e0!3m2!1sen!2sin!4v1682827526820!5m2!1sen!2sin",
+    "destination": { "$oid": "64bc1671e063176c465de704" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d447b" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4391" },
-    "name": "Ministry of Crab",
-    "slug": "ministry-of-crab",
-    "about": "A renowned seafood restaurant in Colombo, famous for its giant crabs and fresh seafood.",
+    "name": "Sri Lankan Delight",
+    "slug": "sri-lankan-delight",
+    "about": "Offers authentic Sri Lankan cuisine in a cozy atmosphere.",
     "location": "Colombo",
-    "image": "ministry-of-crab.jpg"
+    "image": "sri-lankan-delight.jpg",
+    "thumbnail": "sri-lankan-delight-thumbnail.jpg",
+    "menu": ["rice-and-curry.jpg", "kottu-roti.jpg", "seafood-dishes.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835252735946!2d79.84778551531742!3d6.927079795221634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259b9b160e1e5%3A0x5b8e9fce1f556e6b!2sSri%20Lankan%20Delight!5e0!3m2!1sen!2sbd!4v1604399631566!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de710" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4392" },
-    "name": "The Empire Cafe",
-    "slug": "the-empire-cafe",
-    "about": "A quaint cafe in Kandy serving local and international cuisine.",
+    "name": "Kandy Kuisine",
+    "slug": "kandy-kuisine",
+    "about": "Specializes in traditional Kandyian dishes and tropical fruits.",
     "location": "Kandy",
-    "image": "the-empire-cafe.jpg"
+    "image": "kandy-kuisine.jpg",
+    "thumbnail": "kandy-kuisine-thumbnail.jpg",
+    "menu": ["hoppers.jpg", "rice-and-curry.jpg", "tropical-fruits.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31711.04124357584!2d80.63629277592272!3d7.293634695252573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25aa1271c2c57%3A0xa1e4b4cbb3f84d61!2sKandy%20Kuisine!5e0!3m2!1sen!2sbd!4v1604399695642!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de711" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4393" },
-    "name": "The Tuna & The Crab",
-    "slug": "the-tuna-the-crab",
-    "about": "A fusion restaurant in Galle combining the best of sushi and Sri Lankan seafood.",
+    "name": "Galle Gourmet",
+    "slug": "galle-gourmet",
+    "about": "Famous for its seafood specialties and beautiful coastal views.",
     "location": "Galle",
-    "image": "the-tuna-the-crab.jpg"
+    "image": "galle-gourmet.jpg",
+    "thumbnail": "galle-gourmet-thumbnail.jpg",
+    "menu": ["prawns.jpg", "fish-curry.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.6341546608584!2d80.21555451531824!3d6.032039695359371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259a5b072943f%3A0x9b34ad1298cc736!2sGalle%20Gourmet!5e0!3m2!1sen!2sbd!4v1604399756436!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de712" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4394" },
-    "name": "Cafe Chill",
-    "slug": "cafe-chill",
-    "about": "A popular spot in Ella for laid-back dining, offering Sri Lankan and international dishes.",
+    "name": "Ella Eats",
+    "slug": "ella-eats",
+    "about": "Offers a range of local dishes with views of the scenic surroundings.",
     "location": "Ella",
-    "image": "cafe-chill.jpg"
+    "image": "ella-eats.jpg",
+    "thumbnail": "ella-eats-thumbnail.jpg",
+    "menu": ["local-dishes.jpg", "tropical-fruits.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.923180345632!2d81.04532801531595!3d6.872744695467132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25aa1201c2a9f%3A0xb7e343c70e89ad6!2sElla%20Eats!5e0!3m2!1sen!2sbd!4v1604399824436!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de713" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4395" },
-    "name": "Rithu Restaurant",
-    "slug": "rithu-restaurant",
-    "about": "A local restaurant near Sigiriya known for its delicious Sri Lankan rice and curry.",
+    "name": "Sigiriya Savor",
+    "slug": "sigiriya-savor",
+    "about": "Known for its traditional rice and curry dishes in a scenic setting.",
     "location": "Sigiriya",
-    "image": "rithu-restaurant.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4396" },
-    "name": "Le Jules Verne",
-    "slug": "le-jules-verne",
-    "about": "Fine dining inside the Eiffel Tower with breathtaking views of Paris.",
-    "location": "Paris",
-    "image": "le-jules-verne.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4397" },
-    "name": "La Petite Maison",
-    "slug": "la-petite-maison",
-    "about": "A famous restaurant serving Mediterranean dishes in Nice.",
-    "location": "Nice",
-    "image": "la-petite-maison.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4398" },
-    "name": "Paul Bocuse",
-    "slug": "paul-bocuse",
-    "about": "Iconic restaurant known for traditional French cuisine in Lyon.",
-    "location": "Lyon",
-    "image": "paul-bocuse.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4399" },
-    "name": "Le Petit Nice",
-    "slug": "le-petit-nice",
-    "about": "Renowned seafood restaurant with views of the Mediterranean in Marseille.",
-    "location": "Marseille",
-    "image": "le-petit-nice.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4400" },
-    "name": "Le Chapon Fin",
-    "slug": "le-chapon-fin",
-    "about": "One of the oldest gourmet restaurants in Bordeaux, known for fine dining.",
-    "location": "Bordeaux",
-    "image": "le-chapon-fin.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4410" },
-    "name": "Restaurant Tim Raue",
-    "slug": "restaurant-tim-raue",
-    "about": "Award-winning fine dining restaurant offering Asian-inspired cuisine.",
-    "location": "Berlin",
-    "image": "restaurant-tim-raue.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4411" },
-    "name": "Tantris",
-    "slug": "tantris",
-    "about": "Michelin-starred restaurant known for its avant-garde cuisine.",
-    "location": "Munich",
-    "image": "tantris.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4412" },
-    "name": "Seven Swans",
-    "slug": "seven-swans",
-    "about": "Vegan fine dining with breathtaking views of the Main River.",
-    "location": "Frankfurt",
-    "image": "seven-swans.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4413" },
-    "name": "Haerlin",
-    "slug": "haerlin",
-    "about": "Two Michelin-star restaurant offering modern European cuisine.",
-    "location": "Hamburg",
-    "image": "haerlin.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4414" },
-    "name": "Ox & Klee",
-    "slug": "ox-and-klee",
-    "about": "Michelin-star restaurant offering innovative German cuisine.",
-    "location": "Cologne",
-    "image": "ox-and-klee.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4420" },
-    "name": "Krishnarpan",
-    "slug": "krishnarpan",
-    "about": "Authentic Nepali dining experience offering multi-course meals.",
-    "location": "Kathmandu",
-    "image": "krishnarpan.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4421" },
-    "name": "Moondance Restaurant",
-    "slug": "moondance-restaurant",
-    "about": "A popular restaurant in Pokhara offering both local and international cuisine.",
-    "location": "Pokhara",
-    "image": "moondance-restaurant.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4422" },
-    "name": "KC's Restaurant & Bar",
-    "slug": "kcs-restaurant-bar",
-    "about": "A cozy spot in Chitwan offering traditional Tharu and Nepali cuisine.",
-    "location": "Chitwan",
-    "image": "kcs-restaurant-bar.jpg"
-  },
-  {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4423" },
-    "name": "Lumbini Kitchen",
-    "slug": "lumbini-kitchen",
-    "about": "A vegetarian restaurant in Lumbini offering local and international dishes.",
-    "location": "Lumbini",
-    "image": "lumbini-kitchen.jpg"
+    "image": "sigiriya-savor.jpg",
+    "thumbnail": "sigiriya-savor-thumbnail.jpg",
+    "menu": ["rice-and-curry.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3178.9641546608355!2d80.76413157592526!3d7.956412795145372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25aa1221c1b4d%3A0xf34b4a77e3a8d00f!2sSigiriya%20Savor!5e0!3m2!1sen!2sbd!4v1604399897458!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de714" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d4488" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4430" },
-    "name": "Nahm",
-    "slug": "nahm",
-    "about": "A Michelin-starred restaurant in Bangkok, specializing in refined Thai cuisine.",
-    "location": "Bangkok",
-    "image": "nahm.jpg"
+    "name": "Sri Lankan Delight",
+    "slug": "sri-lankan-delight",
+    "about": "Offers authentic Sri Lankan cuisine in a cozy atmosphere.",
+    "location": "Colombo",
+    "image": "sri-lankan-delight.jpg",
+    "thumbnail": "sri-lankan-delight-thumbnail.jpg",
+    "menu": ["rice-and-curry.jpg", "kottu-roti.jpg", "seafood-dishes.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835252735946!2d79.84778551531742!3d6.927079795221634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259b9b160e1e5%3A0x5b8e9fce1f556e6b!2sSri%20Lankan%20Delight!5e0!3m2!1sen!2sbd!4v1604399631566!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de750" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4431" },
-    "name": "David’s Kitchen",
-    "slug": "davids-kitchen",
-    "about": "A fine dining restaurant in Chiang Mai, offering a fusion of French and Thai cuisine.",
-    "location": "Chiang Mai",
-    "image": "davids-kitchen.jpg"
+    "name": "Kandy Kuisine",
+    "slug": "kandy-kuisine",
+    "about": "Specializes in traditional Kandyian dishes and tropical fruits.",
+    "location": "Kandy",
+    "image": "kandy-kuisine.jpg",
+    "thumbnail": "kandy-kuisine-thumbnail.jpg",
+    "menu": ["hoppers.jpg", "rice-and-curry.jpg", "tropical-fruits.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31711.04124357584!2d80.63629277592272!3d7.293634695252573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25aa1271c2c57%3A0xa1e4b4cbb3f84d61!2sKandy%20Kuisine!5e0!3m2!1sen!2sbd!4v1604399695642!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de751" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4432" },
-    "name": "La Gritta",
-    "slug": "la-gritta",
-    "about": "An Italian restaurant in Phuket, known for its scenic beachfront views and delicious pasta.",
-    "location": "Phuket",
-    "image": "la-gritta.jpg"
+    "name": "Galle Gourmet",
+    "slug": "galle-gourmet",
+    "about": "Famous for its seafood specialties and beautiful coastal views.",
+    "location": "Galle",
+    "image": "galle-gourmet.jpg",
+    "thumbnail": "galle-gourmet-thumbnail.jpg",
+    "menu": ["prawns.jpg", "fish-curry.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.6341546608584!2d80.21555451531824!3d6.032039695359371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259a5b072943f%3A0x9b34ad1298cc736!2sGalle%20Gourmet!5e0!3m2!1sen!2sbd!4v1604399756436!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de752" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" }
   },
   {
     "_id": { "$oid": "66bb899a3b76361b7f2d4433" },
-    "name": "Sala Ayutthaya Eatery and Bar",
-    "slug": "sala-ayutthaya-eatery-bar",
-    "about": "A stylish riverside restaurant in Ayutthaya, serving a mix of local and international dishes.",
-    "location": "Ayutthaya",
-    "image": "sala-ayutthaya-eatery-bar.jpg"
+    "name": "Ella Eats",
+    "slug": "ella-eats",
+    "about": "Offers a range of local dishes with views of the scenic surroundings.",
+    "location": "Ella",
+    "image": "ella-eats.jpg",
+    "thumbnail": "ella-eats-thumbnail.jpg",
+    "menu": ["local-dishes.jpg", "tropical-fruits.jpg"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3145.923180345632!2d81.04532801531595!3d6.872744695467132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25aa1201c2a9f%3A0xb7e343c70e89ad6!2sElla%20Eats!5e0!3m2!1sen!2sbd!4v1604399824436!5m2!1sen!2sbd",
+    "destination": { "$oid": "64bc1671e063176c465de753" },
+    "country": { "$oid": "66bb9a8d3b76361b7f2d448a" }
   },
   {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4434" },
-    "name": "Kronenhalle",
-    "slug": "kronenhalle",
-    "about": "A historic restaurant in Zurich, renowned for its art collection and classic Swiss dishes.",
-    "location": "Zurich",
-    "image": "kronenhalle.jpg"
+    "_id": { "$oid": "66bb899a3b76361b7f2d4420" },
+    "name": "Momo Hut",
+    "slug": "momo-hut",
+    "about": "A popular spot in Kathmandu serving a variety of momo (dumplings) and traditional Nepali dishes.",
+    "location": "Kathmandu",
+    "image": "momo-hut.jpg",
+    "thumbnail": "momo-hut-thumbnail.jpg",
+    "menu": ["Momo", "Dal Bhat", "Newari Cuisine"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.999303080087!2d85.3239!3d27.7173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sMomo%20Hut!5e0!3m2!1sen!2snp!4v1604399523456!5m2!1sen!2snp"
   },
   {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4435" },
-    "name": "Bayview",
-    "slug": "bayview",
-    "about": "A Michelin-starred restaurant in Geneva, offering gourmet French cuisine with stunning lake views.",
-    "location": "Geneva",
-    "image": "bayview.jpg"
+    "_id": { "$oid": "66bb899a3b76361b7f2d4421" },
+    "name": "The Fisherman",
+    "slug": "the-fisherman",
+    "about": "Located in Pokhara, this restaurant is known for its fresh fish dishes and serene lakeside views.",
+    "location": "Pokhara",
+    "image": "the-fisherman.jpg",
+    "thumbnail": "the-fisherman-thumbnail.jpg",
+    "menu": ["Thakali Cuisine", "Momos", "Fish from Lakes"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999303080087!2d83.9809!3d28.2097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sThe%20Fisherman!5e0!3m2!1sen!2snp!4v1604399534567!5m2!1sen!2snp"
   },
   {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4436" },
-    "name": "Schuh",
-    "slug": "schuh",
-    "about": "A charming café and restaurant in Interlaken, known for its pastries and traditional Swiss fare.",
-    "location": "Interlaken",
-    "image": "schuh.jpg"
+    "_id": { "$oid": "66bb899a3b76361b7f2d4422" },
+    "name": "Chitwan Kitchen",
+    "slug": "chitwan-kitchen",
+    "about": "A local favorite in Chitwan offering traditional Tharu dishes and a variety of Nepali food.",
+    "location": "Chitwan",
+    "image": "chitwan-kitchen.jpg",
+    "thumbnail": "chitwan-kitchen-thumbnail.jpg",
+    "menu": ["Tharu Dishes", "Nepali Cuisine"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2901.999303080087!2d84.4400!3d27.5295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sChitwan%20Kitchen!5e0!3m2!1sen!2snp!4v1604399545678!5m2!1sen!2snp"
   },
   {
-    "_id": { "$oid": "66bb899a3b76361b7f2d4437" },
-    "name": "Chez Vrony",
-    "slug": "chez-vrony",
-    "about": "An alpine restaurant in Zermatt, serving organic and fresh dishes with spectacular Matterhorn views.",
-    "location": "Zermatt",
-    "image": "chez-vrony.jpg"
+    "_id": { "$oid": "66bb899a3b76361b7f2d4423" },
+    "name": "Buddha's Bistro",
+    "slug": "buddhas-bistro",
+    "about": "Situated in Lumbini, this bistro offers Newari cuisine and local specialties with a focus on fresh, organic ingredients.",
+    "location": "Lumbini",
+    "image": "buddhas-bistro.jpg",
+    "thumbnail": "buddhas-bistro-thumbnail.jpg",
+    "menu": ["Newari Cuisine", "Local Specialties"],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.999303080087!2d83.2761!3d27.6796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sBuddha%27s%20Bistro!5e0!3m2!1sen!2snp!4v1604399556789!5m2!1sen!2snp"
   }
 ]

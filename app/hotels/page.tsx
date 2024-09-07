@@ -3,6 +3,7 @@ import { getHotel } from "@/controller/hotelsController";
 import React from "react";
 import { Metadata } from "next";
 import SmallPgeBanner from "@/components/banner/SmallPgeBanner";
+import { HotelItemType } from "@/types/types";
 export const metadata: Metadata = {
   title: `Hotels`,
 };
@@ -19,7 +20,7 @@ const Hotels = async () => {
       />
       <section className="py-10">
         <div className="container grid grid-cols-5 gap-4">
-          {hotels.map((hotel) => (
+          {hotels.map((hotel: HotelItemType) => (
             <HotelItem key={hotel.slug} hotel={hotel} />
           ))}
         </div>

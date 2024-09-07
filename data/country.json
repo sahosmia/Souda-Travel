@@ -20,40 +20,7 @@
         "$oid": "64bc1671e063176c465de673"
       },
       {
-        "$oid": "64bc1671e063176c465de674"
-      },
-      {
-        "$oid": "64bc1671e063176c465de675"
-      },
-      {
-        "$oid": "64bc1671e063176c465de676"
-      },
-      {
-        "$oid": "64bc1671e063176c465de677"
-      },
-      {
-        "$oid": "64bc1671e063176c465de678"
-      },
-      {
-        "$oid": "64bc1671e063176c465de679"
-      },
-      {
         "$oid": "64bc1671e063176c465de680"
-      },
-      {
-        "$oid": "64bc1671e063176c465de681"
-      },
-      {
-        "$oid": "64bc1671e063176c465de682"
-      },
-      {
-        "$oid": "64bc1671e063176c465de683"
-      },
-      {
-        "$oid": "64bc1671e063176c465de684"
-      },
-      {
-        "$oid": "64bc1671e063176c465de685"
       }
     ],
     "hotels": [
@@ -62,20 +29,19 @@
       { "$oid": "66bc1771e063176c465de682" },
       { "$oid": "66bc1771e063176c465de683" },
       { "$oid": "66bc1771e063176c465de684" },
-      { "$oid": "66bc1771e063176c465de685" },
-      { "$oid": "66bc1771e063176c465de686" },
-      { "$oid": "66bc1771e063176c465de687" },
-      { "$oid": "66bc1771e063176c465de688" },
-      { "$oid": "66bc1771e063176c465de689" },
-      { "$oid": "66bc1771e063176c465de68a" },
-      { "$oid": "66bc1771e063176c465de68b" },
-      { "$oid": "66bc1771e063176c465de68c" },
-      { "$oid": "66bc1771e063176c465de68d" }
+      { "$oid": "66bc1771e063176c465de685" }
+    ],
+    "restaurants": [
+      { "$oid": "66bb899a3b76361b7f2d4470" },
+      { "$oid": "66bb899a3b76361b7f2d4471" },
+      { "$oid": "66bb899a3b76361b7f2d4472" },
+      { "$oid": "66bb899a3b76361b7f2d4473" },
+      { "$oid": "66bb899a3b76361b7f2d4474" },
+      { "$oid": "66bb899a3b76361b7f2d4475" }
     ],
     "show": 2,
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.678402209539!2d90.3754885153465!3d23.777176793480274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c767c72f7b7d%3A0x222cabc9ec847d42!2sBangladesh!5e0!3m2!1sen!2sbd!4v1604399381463!5m2!1sen!2sbd"
   },
-
   {
     "_id": { "$oid": "66bb9a8d3b76361b7f2d4477" },
     "name": "China",
@@ -97,73 +63,14 @@
       { "$oid": "66bc1771e063176c465de694" }
     ],
     "restaurants": [
-      { "$oid": "66bb899a3b76361b7f2d4384" },
       { "$oid": "66bb899a3b76361b7f2d4385" },
-      { "$oid": "66bb899a3b76361b7f2d4386" }
+      { "$oid": "66bb899a3b76361b7f2d4386" },
+      { "$oid": "66bb899a3b76361b7f2d4387" },
+      { "$oid": "66bb899a3b76361b7f2d4388" },
+      { "$oid": "66bb899a3b76361b7f2d4389" }
     ]
   },
-  {
-    "_id": {
-      "$oid": "66bb9a8d3b76361b7f2d4478"
-    },
-    "name": "France",
-    "slug": "france",
-    "image": "france.jpg",
-    "destinations": [
-      { "$oid": "64bc1671e063176c465de720" },
-      { "$oid": "64bc1671e063176c465de721" },
-      { "$oid": "64bc1671e063176c465de722" },
-      { "$oid": "64bc1671e063176c465de723" },
-      { "$oid": "64bc1671e063176c465de724" }
-    ],
-    "hotels": [
-      { "$oid": "66bc1771e063176c465de720" },
-      { "$oid": "66bc1771e063176c465de721" },
-      { "$oid": "66bc1771e063176c465de722" },
-      { "$oid": "66bc1771e063176c465de723" },
-      { "$oid": "66bc1771e063176c465de724" }
-    ],
-    "restaurants": [
-      { "$oid": "66bb899a3b76361b7f2d4396" },
-      { "$oid": "66bb899a3b76361b7f2d4397" },
-      { "$oid": "66bb899a3b76361b7f2d4398" },
-      { "$oid": "66bb899a3b76361b7f2d4399" },
-      { "$oid": "66bb899a3b76361b7f2d4400" }
-    ],
-    "show": 2,
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2614.999303080087!2d2.3522219!3d48.856614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e291e1%3A0xdeadbeef12345678!2sFrance!5e0!3m2!1sen!2sfr!4v1604399411234!5m2!1sen!2sfr"
-  },
-  {
-    "_id": {
-      "$oid": "66bb9a8d3b76361b7f2d4479"
-    },
-    "name": "Germany",
-    "slug": "germany",
-    "image": "germany.jpg",
-    "destinations": [
-      { "$oid": "64bc1671e063176c465de730" },
-      { "$oid": "64bc1671e063176c465de731" },
-      { "$oid": "64bc1671e063176c465de732" },
-      { "$oid": "64bc1671e063176c465de733" },
-      { "$oid": "64bc1671e063176c465de734" }
-    ],
-    "hotels": [
-      { "$oid": "66bc1771e063176c465de730" },
-      { "$oid": "66bc1771e063176c465de731" },
-      { "$oid": "66bc1771e063176c465de732" },
-      { "$oid": "66bc1771e063176c465de733" },
-      { "$oid": "66bc1771e063176c465de734" }
-    ],
-    "restaurants": [
-      { "$oid": "66bb899a3b76361b7f2d4410" },
-      { "$oid": "66bb899a3b76361b7f2d4411" },
-      { "$oid": "66bb899a3b76361b7f2d4412" },
-      { "$oid": "66bb899a3b76361b7f2d4413" },
-      { "$oid": "66bb899a3b76361b7f2d4414" }
-    ],
-    "show": 2,
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26069089.999303080087!2d9.993682!3d50.737430!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0xdeadbeef12345678!2sGermany!5e0!3m2!1sen!2sde!4v1604399458901!5m2!1sen!2sde"
-  },
+
   {
     "_id": { "$oid": "66bb9a8d3b76361b7f2d447b" },
     "name": "India",
@@ -184,42 +91,45 @@
       { "$oid": "64bc1771e063176c465de704" }
     ],
     "show": 2,
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13411112.30217055!2d68.17664594845106!3d20.593684826288454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcd373bb4d1e2bb%3A0x79c9c927b5207e9e!2sIndia!5e0!3m2!1sen!2sin!4v1682834892896!5m2!1sen!2sin"
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13411112.30217055!2d68.17664594845106!3d20.593684826288454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcd373bb4d1e2bb%3A0x79c9c927b5207e9e!2sIndia!5e0!3m2!1sen!2sin!4v1682834892896!5m2!1sen!2sin",
+    "restaurants": [
+      { "$oid": "64bb899a3b76361b7f2d4380" },
+      { "$oid": "64bb899a3b76361b7f2d4381" },
+      { "$oid": "64bb899a3b76361b7f2d4382" },
+      { "$oid": "64bb899a3b76361b7f2d4383" },
+      { "$oid": "64bb899a3b76361b7f2d4384" }
+    ]
   },
-
   {
-    "_id": {
-      "$oid": "66bb9a8d3b76361b7f2d4481"
-    },
+    "_id": { "$oid": "66bb9a8d3b76361b7f2d4481" },
     "name": "Nepal",
     "slug": "nepal",
     "image": "nepal.jpg",
     "destinations": [
-      { "$oid": "64bc1671e063176c465de740" },
-      { "$oid": "64bc1671e063176c465de741" },
-      { "$oid": "64bc1671e063176c465de742" },
-      { "$oid": "64bc1671e063176c465de743" }
+        { "$oid": "64bc1671e063176c465de740" },
+        { "$oid": "64bc1671e063176c465de741" },
+        { "$oid": "64bc1671e063176c465de742" },
+        { "$oid": "64bc1671e063176c465de743" }
     ],
     "hotels": [
-      { "$oid": "66bc1771e063176c465de740" },
-      { "$oid": "66bc1771e063176c465de741" },
-      { "$oid": "66bc1771e063176c465de742" },
-      { "$oid": "66bc1771e063176c465de743" }
+        { "$oid": "66bc1771e063176c465de740" },
+        { "$oid": "66bc1771e063176c465de741" },
+        { "$oid": "66bc1771e063176c465de742" },
+        { "$oid": "66bc1771e063176c465de743" }
     ],
     "restaurants": [
-      { "$oid": "66bb899a3b76361b7f2d4420" },
-      { "$oid": "66bb899a3b76361b7f2d4421" },
-      { "$oid": "66bb899a3b76361b7f2d4422" },
-      { "$oid": "66bb899a3b76361b7f2d4423" }
+        { "$oid": "66bb899a3b76361b7f2d4420" },
+        { "$oid": "66bb899a3b76361b7f2d4421" },
+        { "$oid": "66bb899a3b76361b7f2d4422" },
+        { "$oid": "66bb899a3b76361b7f2d4423" }
     ],
     "show": 2,
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26365523.999303080087!2d83.994682!3d28.394857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0xdeadbeef12345678!2sNepal!5e0!3m2!1sen!2snp!4v1604399519121!5m2!1sen!2snp"
-  },
+},
+
 
   {
-    "_id": {
-      "$oid": "66bb9a8d3b76361b7f2d4488"
-    },
+    "_id": { "$oid": "66bb9a8d3b76361b7f2d4488" },
     "name": "Sri Lanka",
     "slug": "sri-lanka",
     "image": "sri-lanka.jpg",
@@ -247,40 +157,8 @@
     "show": 1,
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31851.65256474662!2d79.85722179220723!3d7.873054795384651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2599c1237a77b%3A0x8b5b7e6e4cbec7b5!2sSri%20Lanka!5e0!3m2!1sen!2sbd!4v1604399394655!5m2!1sen!2sbd"
   },
-
   {
-    "_id": {
-      "$oid": "66bb9a8d3b76361b7f2d4489"
-    },
-    "name": "Switzerland",
-    "slug": "switzerland",
-    "image": "switzerland.jpg",
-    "destinations": [
-      { "$oid": "64bc1671e063176c465de754" },
-      { "$oid": "64bc1671e063176c465de755" },
-      { "$oid": "64bc1671e063176c465de756" },
-      { "$oid": "64bc1671e063176c465de757" }
-    ],
-    "hotels": [
-      { "$oid": "66bc1771e063176c465de754" },
-      { "$oid": "66bc1771e063176c465de755" },
-      { "$oid": "66bc1771e063176c465de756" },
-      { "$oid": "66bc1771e063176c465de757" }
-    ],
-    "restaurants": [
-      { "$oid": "66bb899a3b76361b7f2d4434" },
-      { "$oid": "66bb899a3b76361b7f2d4435" },
-      { "$oid": "66bb899a3b76361b7f2d4436" },
-      { "$oid": "66bb899a3b76361b7f2d4437" }
-    ],
-    "show": 2,
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d265004.000303080087!2d8.2275!3d46.8182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0xdeadbeef12345678!2sSwitzerland!5e0!3m2!1sen!2sch!4v1604399698765!5m2!1sen!2sch"
-  },
-
-  {
-    "_id": {
-      "$oid": "66bb9a8d3b76361b7f2d448a"
-    },
+    "_id": { "$oid": "66bb9a8d3b76361b7f2d448a" },
     "name": "Thailand",
     "slug": "thailand",
     "image": "thailand.jpg",

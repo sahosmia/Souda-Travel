@@ -29,10 +29,12 @@ export const getCountryItem = async (slug: string) => {
     .populate({
       path: "destinations",
       model: Destination,
+      select: "name slug image",
     })
     .populate({
       path: "hotels",
       model: Hotel,
+      select: "name slug image",
     })
     .exec();
 

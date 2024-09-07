@@ -26,6 +26,14 @@
       {
         "$oid": "66bc1771e063176c465de681"
       }
+    ],
+    "restaurants": [
+      {
+        "$oid": "66bb899a3b76361b7f2d4470"
+      },
+      {
+        "$oid": "66bb899a3b76361b7f2d4471"
+      }
     ]
   },
   {
@@ -54,6 +62,11 @@
       },
       {
         "$oid": "66bc1771e063176c465de681"
+      }
+    ],
+    "restaurants": [
+      {
+        "$oid": "66bb899a3b76361b7f2d4472"
       }
     ]
   },
@@ -84,6 +97,11 @@
       {
         "$oid": "66bc1771e063176c465de681"
       }
+    ],
+    "restaurants": [
+      {
+        "$oid": "66bb899a3b76361b7f2d4473"
+      }
     ]
   },
   {
@@ -113,161 +131,10 @@
       {
         "$oid": "66bc1771e063176c465de682"
       }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de674"
-    },
-    "name": "Paharpur Buddhist Monastery",
-    "slug": "paharpur-buddhist-monastery",
-    "about": "Paharpur Buddhist Monastery, also known as Somapura Mahavihara, is a UNESCO World Heritage Site and one of the most important archaeological sites in South Asia.",
-    "location": "Naogaon",
-    "image": "paharpur-buddhist-monastery.jpg",
-    "thumbnail": "paharpur-buddhist-monastery-thumbnail.jpg",
-    "sliders": [
-      "paharpur-buddhist-monastery-slider-1.jpg",
-      "paharpur-buddhist-monastery-slider-2.jpg",
-      "paharpur-buddhist-monastery-slider-3.jpg"
     ],
-    "food": "Marma-style chicken, sticky rice, and various indigenous dishes including bamboo shoot curry.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.501472580814!2d88.97611491498311!3d25.03104718397633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fbd693dc196fd7%3A0xc0a3edc01672dce7!2sPaharpur%20Buddhist%20Monastery!5e0!3m2!1sen!2sbd!4v1692353413657!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
+    "restaurants": [
       {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de675"
-    },
-    "name": "Lalbagh Fort",
-    "slug": "lalbagh-fort",
-    "about": "Lalbagh Fort is an incomplete Mughal fort complex that stands as one of the most important monuments in Dhaka, Bangladesh.",
-    "location": "Dhaka",
-    "image": "lalbagh-fort.jpg",
-    "thumbnail": "lalbagh-fort-thumbnail.jpg",
-    "sliders": [
-      "lalbagh-fort-slider-1.jpg",
-      "lalbagh-fort-slider-2.jpg",
-      "lalbagh-fort-slider-3.jpg"
-    ],
-    "food": "Mughlai Paratha, Kacchi Biryani, and various traditional Bengali sweets.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.6771441519867!2d90.3982883149825!3d23.71973848460211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b90b7e4d9a87%3A0xd2c4f57af0a62bcb!2sLalbagh%20Fort!5e0!3m2!1sen!2sbd!4v1692353473988!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de676"
-    },
-    "name": "Mahasthangarh",
-    "slug": "mahasthangarh",
-    "about": "Mahasthangarh is one of the earliest urban archaeological sites in Bangladesh, located in the Bogra district.",
-    "location": "Bogra",
-    "image": "mahasthangarh.jpg",
-    "thumbnail": "mahasthangarh-thumbnail.jpg",
-    "sliders": [
-      "mahasthangarh-slider-1.jpg",
-      "mahasthangarh-slider-2.jpg",
-      "mahasthangarh-slider-3.jpg"
-    ],
-    "food": "Bogurar Doi (Bogra's famous yogurt), various pithas, and traditional Bengali rice and fish dishes.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14727.45661532168!2d89.3434357149825!3d24.9635104844145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fdab3e1243e2fb%3A0xd8da1221b618599b!2sMahasthangarh!5e0!3m2!1sen!2sbd!4v1692353553549!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de677"
-    },
-    "name": "Sonargaon",
-    "slug": "sonargaon",
-    "about": "Sonargaon was the capital of ancient Bengal and is now a historical and cultural hub, housing many remnants of its past glory.",
-    "location": "Narayanganj",
-    "image": "sonargaon.jpg",
-    "thumbnail": "sonargaon-thumbnail.jpg",
-    "sliders": [
-      "sonargaon-slider-1.jpg",
-      "sonargaon-slider-2.jpg",
-      "sonargaon-slider-3.jpg"
-    ],
-    "food": "Traditional Bengali rice and curry dishes, Panta Ilish (fermented rice with Hilsa fish), and various sweetmeats.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.5683014644686!2d90.60872571498259!3d23.722585684600783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755ad321340a89d%3A0x8777b0e77a176caf!2sSonargaon!5e0!3m2!1sen!2sbd!4v1692353613579!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de678"
-    },
-    "name": "Jatiyo Sangsad Bhaban",
-    "slug": "jatiyo-sangsad-bhaban",
-    "about": "The National Parliament House, Jatiyo Sangsad Bhaban, is a majestic architectural marvel designed by Louis I. Kahn.",
-    "location": "Dhaka",
-    "image": "jatiyo-sangsad-bhaban.jpg",
-    "thumbnail": "jatiyo-sangsad-bhaban-thumbnail.jpg",
-    "sliders": [
-      "jatiyo-sangsad-bhaban-slider-1.jpg",
-      "jatiyo-sangsad-bhaban-slider-2.jpg",
-      "jatiyo-sangsad-bhaban-slider-3.jpg"
-    ],
-    "food": "Traditional Bengali dishes including Bhuna Khichuri, Tehari, and various sweets like Roshogolla.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.4204668207897!2d90.3842460149825!3d23.726340884598265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b854b41b9d25%3A0xdfed3151d9168d9e!2sNational%20Parliament%20House!5e0!3m2!1sen!2sbd!4v1692353675442!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de679"
-    },
-    "name": "Ahsan Manzil",
-    "slug": "ahsan-manzil",
-    "about": "Ahsan Manzil was the official residential palace and seat of the Nawab of Dhaka.",
-    "location": "Dhaka",
-    "image": "ahsan-manzil.jpg",
-    "thumbnail": "ahsan-manzil-thumbnail.jpg",
-    "sliders": [
-      "ahsan-manzil-slider-1.jpg",
-      "ahsan-manzil-slider-2.jpg",
-      "ahsan-manzil-slider-3.jpg"
-    ],
-    "food": "Traditional Bengali dishes including Kacchi Biryani, various fish dishes, and traditional sweets.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.5547490589365!2d90.35777851498256!3d23.72552038460128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b83d09b6fc77%3A0x9f2c9b93e1e5da5!2sAhsan%20Manzil!5e0!3m2!1sen!2sbd!4v1692353748145!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
+        "$oid": "66bb899a3b76361b7f2d4474"
       }
     ]
   },
@@ -287,146 +154,25 @@
       "kuakata-slider-3.jpg"
     ],
     "food": "Fresh seafood, Panta Bhat (fermented rice), and various local Bengali dishes.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.0151358026607!2d90.23308961498258!3d21.537673583974504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ab4b9b3fc8bd17%3A0x4c9b7a2c7a56f85!2sKuakata!5e0!3m2!1sen!2sbd!4v1692353812178!5m2!1sen!2sbd",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.0151358026607!2d90.23308961498258!3d21.537673583974504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027c651c4f3eb5%3A0x8c8ed8fd1e9a8e84!2sKuakata%20Beach!5e0!3m2!1sen!2sbd!4v1692353450866!5m2!1sen!2sbd",
     "country": {
       "$oid": "66bb9a8d3b76361b7f2d4473"
     },
     "hotels": [
       {
         "$oid": "66bc1771e063176c465de680"
+      },
+      {
+        "$oid": "66bc1771e063176c465de681"
       }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de681"
-    },
-    "name": "Rangamati",
-    "slug": "rangamati",
-    "about": "Rangamati is renowned for its scenic beauty and its location around the Kaptai Lake.",
-    "location": "Rangamati",
-    "image": "rangamati.jpg",
-    "thumbnail": "rangamati-thumbnail.jpg",
-    "sliders": [
-      "rangamati-slider-1.jpg",
-      "rangamati-slider-2.jpg",
-      "rangamati-slider-3.jpg"
     ],
-    "food": "Bamboo Chicken, fish curry, and various indigenous dishes.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115930.57271005237!2d92.20668931498256!3d23.424654184371516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374e7e2b4f6a1b8b%3A0x74d7bfc91a7a4e8b!2sRangamati!5e0!3m2!1sen!2sbd!4v1692353876714!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
+    "restaurants": [
       {
-        "$oid": "66bc1771e063176c465de680"
+        "$oid": "66bb899a3b76361b7f2d4475"
       }
     ]
   },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de682"
-    },
-    "name": "Bandarban",
-    "slug": "bandarban",
-    "about": "Bandarban is a hilly district known for its beautiful landscapes and indigenous communities.",
-    "location": "Bandarban",
-    "image": "bandarban.jpg",
-    "thumbnail": "bandarban-thumbnail.jpg",
-    "sliders": [
-      "bandarban-slider-1.jpg",
-      "bandarban-slider-2.jpg",
-      "bandarban-slider-3.jpg"
-    ],
-    "food": "Bamboo Chicken, fish curry, and various traditional hill tract dishes.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115835.29454705872!2d92.26651231498257!3d23.21267628430845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374e4c918c11f4b5%3A0x4998a1aa1e0c5a4b!2sBandarban!5e0!3m2!1sen!2sbd!4v1692353942872!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de683"
-    },
-    "name": "Jaflong",
-    "slug": "jaflong",
-    "about": "Jaflong is a picturesque area known for its stone collection activities and beautiful landscapes.",
-    "location": "Sylhet",
-    "image": "jaflong.jpg",
-    "thumbnail": "jaflong-thumbnail.jpg",
-    "sliders": [
-      "jaflong-slider-1.jpg",
-      "jaflong-slider-2.jpg",
-      "jaflong-slider-3.jpg"
-    ],
-    "food": "Local dishes including fresh fish, bamboo shoots, and traditional Sylheti sweets.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d140673.47016910627!2d91.52164031498256!3d25.018932184088557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37595a678c6b4d5f%3A0x1234567890abcdef!2sJaflong!5e0!3m2!1sen!2sbd!4v1692354002610!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de684"
-    },
-    "name": "Sylhet",
-    "slug": "sylhet",
-    "about": "Sylhet is a popular hill district known for its tea gardens, natural beauty, and cultural heritage.",
-    "location": "Sylhet",
-    "image": "sylhet.jpg",
-    "thumbnail": "sylhet-thumbnail.jpg",
-    "sliders": [
-      "sylhet-slider-1.jpg",
-      "sylhet-slider-2.jpg",
-      "sylhet-slider-3.jpg"
-    ],
-    "food": "Tea-based dishes, traditional Sylheti food including Bhuna Khichuri and various rice dishes.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d365572.89206275465!2d91.7978210149825!3d24.88065748455457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37599a0b8b8e8f91%3A0x9f9f7f90823857ff!2sSylhet!5e0!3m2!1sen!2sbd!4v1692354079171!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "64bc1671e063176c465de685"
-    },
-    "name": "Srimangal",
-    "slug": "srimangal",
-    "about": "Srimangal is famous for its tea gardens and lush green landscapes.",
-    "location": "Moulvibazar",
-    "image": "srimangal.jpg",
-    "thumbnail": "srimangal-thumbnail.jpg",
-    "sliders": [
-      "srimangal-slider-1.jpg",
-      "srimangal-slider-2.jpg",
-      "srimangal-slider-3.jpg"
-    ],
-    "food": "Tea-based dishes and local Bengali snacks.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d137942.4189732141!2d91.7196651149826!3d24.313268684290355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37594f418ee0e905%3A0x1234567890abcdef!2sSrimangal!5e0!3m2!1sen!2sbd!4v1692354144737!5m2!1sen!2sbd",
-    "country": {
-      "$oid": "66bb9a8d3b76361b7f2d4473"
-    },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de680"
-      }
-    ]
-  },
+
   {
     "_id": { "$oid": "64bc1671e063176c465de690" },
     "name": "Beijing",
@@ -443,16 +189,8 @@
     "food": "Peking duck and other traditional Chinese dishes.",
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.900545844312!2d116.3973876!3d39.9041999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f0681d3e7f25e1%3A0x4de5c34fc9c8e7!2sBeijing!5e0!3m2!1sen!2sbd!4v1681547923432!5m2!1sen!2sbd",
     "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de690"
-      }
-    ],
-    "restaurants": [
-      {
-        "$oid": "66bb899a3b76361b7f2d4385"
-      }
-    ]
+    "hotels": [{ "$oid": "66bc1771e063176c465de690" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4385" }]
   },
   {
     "_id": { "$oid": "64bc1671e063176c465de691" },
@@ -470,16 +208,8 @@
     "food": "Shanghai dumplings and seafood.",
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.1345418919157!2d121.4737046!3d31.230416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b27c32b53916df%3A0xb7f9e2a1c5d0e6!2sShanghai!5e0!3m2!1sen!2sbd!4v1681548239632!5m2!1sen!2sbd",
     "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de691"
-      }
-    ],
-    "restaurants": [
-      {
-        "$oid": "66bb899a3b76361b7f2d4386"
-      }
-    ]
+    "hotels": [{ "$oid": "66bc1771e063176c465de691" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4386" }]
   },
   {
     "_id": { "$oid": "64bc1671e063176c465de692" },
@@ -497,16 +227,8 @@
     "food": "Cantonese cuisine, dim sum.",
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d146690.26517440602!2d113.2806376!3d23.12911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3402e1f8d2d223ff%3A0xf7f5be3e7748b9!2sGuangzhou!5e0!3m2!1sen!2sbd!4v1681548537547!5m2!1sen!2sbd",
     "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de692"
-      }
-    ],
-    "restaurants": [
-      {
-        "$oid": "66bb899a3b76361b7f2d4387"
-      }
-    ]
+    "hotels": [{ "$oid": "66bc1771e063176c465de692" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4387" }]
   },
   {
     "_id": { "$oid": "64bc1671e063176c465de693" },
@@ -524,16 +246,8 @@
     "food": "Sichuan hotpot and spicy dishes.",
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d148848.25403620736!2d104.0657354!3d30.6594629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36b1c3f6f6226b53%3A0x220084d6d04cbd!2sChengdu!5e0!3m2!1sen!2sbd!4v1681548887831!5m2!1sen!2sbd",
     "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de693"
-      }
-    ],
-    "restaurants": [
-      {
-        "$oid": "66bb899a3b76361b7f2d4388"
-      }
-    ]
+    "hotels": [{ "$oid": "66bc1771e063176c465de693" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4388" }]
   },
   {
     "_id": { "$oid": "64bc1671e063176c465de694" },
@@ -547,17 +261,10 @@
     "food": "Roujiamo (Chinese burger) and biangbiang noodles.",
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d146073.69734704527!2d108.9490132!3d34.3415685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366209bd43493b1d%3A0x6e50b7d9f9d2d0!2sXi%27an!5e0!3m2!1sen!2sbd!4v1681549129238!5m2!1sen!2sbd",
     "country": { "$oid": "66bb9a8d3b76361b7f2d4477" },
-    "hotels": [
-      {
-        "$oid": "66bc1771e063176c465de694"
-      }
-    ],
-    "restaurants": [
-      {
-        "$oid": "66bb899a3b76361b7f2d4389"
-      }
-    ]
+    "hotels": [{ "$oid": "66bc1771e063176c465de694" }],
+    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4389" }]
   },
+
   {
     "_id": { "$oid": "64bc1671e063176c465de700" },
     "name": "New Delhi",
@@ -649,6 +356,7 @@
     "hotels": [{ "$oid": "64bc1771e063176c465de704" }],
     "restaurants": [{ "$oid": "64bb899a3b76361b7f2d4384" }]
   },
+
   {
     "_id": { "$oid": "64bc1671e063176c465de710" },
     "name": "Colombo",
@@ -740,74 +448,7 @@
     "hotels": [{ "$oid": "66bc1771e063176c465de714" }],
     "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4395" }]
   },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de720" },
-    "name": "Paris",
-    "slug": "paris",
-    "about": "Known for iconic landmarks like the Eiffel Tower, Louvre Museum, and its rich art and history.",
-    "location": "Île-de-France",
-    "image": "paris.jpg",
-    "thumbnail": "paris-thumbnail.jpg",
-    "sliders": [
-      "paris-slider-1.jpg",
-      "paris-slider-2.jpg",
-      "paris-slider-3.jpg"
-    ],
-    "food": "French pastries, baguettes, and gourmet cuisine.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999303080087!2d2.3522219!3d48.856614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e291e1%3A0xdeadbeef12345678!2sParis!5e0!3m2!1sen!2sfr!4v1604399421234!5m2!1sen!2sfr",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de720" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4396" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de721" },
-    "name": "Nice",
-    "slug": "nice",
-    "about": "A stunning city on the French Riviera known for its beaches and Promenade des Anglais.",
-    "location": "Provence-Alpes-Côte d'Azur",
-    "image": "nice.jpg",
-    "thumbnail": "nice-thumbnail.jpg",
-    "sliders": ["nice-slider-1.jpg", "nice-slider-2.jpg", "nice-slider-3.jpg"],
-    "food": "Niçoise salad and Mediterranean cuisine.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.1445664878554!2d7.268391!3d43.710172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1234567890abcdef%3A0xdeadbeef12345678!2sNice!5e0!3m2!1sen!2sfr!4v1604399432345!5m2!1sen!2sfr",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de721" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4397" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de722" },
-    "name": "Lyon",
-    "slug": "lyon",
-    "about": "A historic city known for its cuisine, Renaissance architecture, and Roman amphitheaters.",
-    "location": "Auvergne-Rhône-Alpes",
-    "image": "lyon.jpg",
-    "thumbnail": "lyon-thumbnail.jpg",
-    "sliders": ["lyon-slider-1.jpg", "lyon-slider-2.jpg", "lyon-slider-3.jpg"],
-    "food": "Traditional Lyonnais bouchons and French cuisine.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2903.455634948534!2d4.835659!3d45.764043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1234567890abcdef%3A0xdeadbeef12345678!2sLyon!5e0!3m2!1sen!2sfr!4v1604399443456!5m2!1sen!2sfr",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de722" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4398" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de723" },
-    "name": "Marseille",
-    "slug": "marseille",
-    "about": "A port city known for its maritime heritage and multicultural atmosphere.",
-    "location": "Provence-Alpes-Côte d'Azur",
-    "image": "marseille.jpg",
-    "thumbnail": "marseille-thumbnail.jpg",
-    "sliders": [
-      "marseille-slider-1.jpg",
-      "marseille-slider-2.jpg",
-      "marseille-slider-3.jpg"
-    ],
-    "food": "Bouillabaisse and Provençal dishes.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.1445664878554!2d5.3764!3d43.296482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1234567890abcdef%3A0xdeadbeef12345678!2sMarseille!5e0!3m2!1sen!2sfr!4v1604399454567!5m2!1sen!2sfr",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4478" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de723" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4399" }]
-  },
+
   {
     "_id": { "$oid": "64bc1671e063176c465de724" },
     "name": "Bordeaux",
@@ -827,177 +468,83 @@
     "hotels": [{ "$oid": "66bc1771e063176c465de724" }],
     "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4400" }]
   },
+
   {
-    "_id": { "$oid": "64bc1671e063176c465de730" },
-    "name": "Berlin",
-    "slug": "berlin",
-    "about": "The capital of Germany, known for its history, culture, and vibrant arts scene.",
-    "location": "Berlin",
-    "image": "berlin.jpg",
-    "thumbnail": "berlin-thumbnail.jpg",
-    "sliders": [
-      "berlin-slider-1.jpg",
-      "berlin-slider-2.jpg",
-      "berlin-slider-3.jpg"
-    ],
-    "food": "Currywurst, kebabs, and traditional German dishes.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999303080087!2d13.4050!3d52.5200!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sBerlin!5e0!3m2!1sen!2sde!4v1604399476789!5m2!1sen!2sde",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de730" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4410" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de731" },
-    "name": "Munich",
-    "slug": "munich",
-    "about": "Home to Oktoberfest and a mix of modern and traditional Bavarian culture.",
-    "location": "Bavaria",
-    "image": "munich.jpg",
-    "thumbnail": "munich-thumbnail.jpg",
-    "sliders": [
-      "munich-slider-1.jpg",
-      "munich-slider-2.jpg",
-      "munich-slider-3.jpg"
-    ],
-    "food": "Weisswurst, pretzels, and Bavarian beer.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2904.999303080087!2d11.5819!3d48.1351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sMunich!5e0!3m2!1sen!2sde!4v1604399487890!5m2!1sen!2sde",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de731" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4411" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de732" },
-    "name": "Frankfurt",
-    "slug": "frankfurt",
-    "about": "Germany’s financial hub, known for its modern skyline and historical sites.",
-    "location": "Hesse",
-    "image": "frankfurt.jpg",
-    "thumbnail": "frankfurt-thumbnail.jpg",
-    "sliders": [
-      "frankfurt-slider-1.jpg",
-      "frankfurt-slider-2.jpg",
-      "frankfurt-slider-3.jpg"
-    ],
-    "food": "Frankfurter sausages and apple wine.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2901.999303080087!2d8.6821!3d50.1109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sFrankfurt!5e0!3m2!1sen!2sde!4v1604399498901!5m2!1sen!2sde",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de732" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4412" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de733" },
-    "name": "Hamburg",
-    "slug": "hamburg",
-    "about": "A major port city with a maritime history and vibrant nightlife.",
-    "location": "Hamburg",
-    "image": "hamburg.jpg",
-    "thumbnail": "hamburg-thumbnail.jpg",
-    "sliders": [
-      "hamburg-slider-1.jpg",
-      "hamburg-slider-2.jpg",
-      "hamburg-slider-3.jpg"
-    ],
-    "food": "Fischbrötchen and North German cuisine.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.999303080087!2d9.9937!3d53.5511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sHamburg!5e0!3m2!1sen!2sde!4v1604399509012!5m2!1sen!2sde",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de733" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4413" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de734" },
-    "name": "Cologne",
-    "slug": "cologne",
-    "about": "Famous for its Gothic cathedral and vibrant arts scene.",
-    "location": "North Rhine-Westphalia",
-    "image": "cologne.jpg",
-    "thumbnail": "cologne-thumbnail.jpg",
-    "sliders": [
-      "cologne-slider-1.jpg",
-      "cologne-slider-2.jpg",
-      "cologne-slider-3.jpg"
-    ],
-    "food": "Kölsch beer and Rhenish cuisine.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2903.999303080087!2d6.9603!3d50.9375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sCologne!5e0!3m2!1sen!2sde!4v1604399519013!5m2!1sen!2sde",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4479" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de734" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4414" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de740" },
-    "name": "Kathmandu",
-    "slug": "kathmandu",
-    "about": "The capital city of Nepal, known for its temples, historical sites, and vibrant culture.",
-    "location": "Kathmandu Valley",
-    "image": "kathmandu.jpg",
-    "thumbnail": "kathmandu-thumbnail.jpg",
-    "sliders": [
-      "kathmandu-slider-1.jpg",
-      "kathmandu-slider-2.jpg",
-      "kathmandu-slider-3.jpg"
-    ],
-    "food": "Momo, dal bhat, and Newari cuisine.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.999303080087!2d85.3240!3d27.7172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sKathmandu!5e0!3m2!1sen!2snp!4v1604399476789!5m2!1sen!2snp",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de740" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4420" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de741" },
-    "name": "Pokhara",
-    "slug": "pokhara",
-    "about": "Known for its beautiful lakes, panoramic views of the Himalayas, and adventure tourism.",
-    "location": "Gandaki Province",
-    "image": "pokhara.jpg",
-    "thumbnail": "pokhara-thumbnail.jpg",
-    "sliders": [
-      "pokhara-slider-1.jpg",
-      "pokhara-slider-2.jpg",
-      "pokhara-slider-3.jpg"
-    ],
-    "food": "Thakali cuisine, momos, and fish from the lakes.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999303080087!2d83.9810!3d28.2096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sPokhara!5e0!3m2!1sen!2snp!4v1604399487890!5m2!1sen!2snp",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de741" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4421" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de742" },
-    "name": "Chitwan",
-    "slug": "chitwan",
-    "about": "Home to Chitwan National Park, a UNESCO World Heritage site known for its wildlife.",
-    "location": "Chitwan District",
-    "image": "chitwan.jpg",
-    "thumbnail": "chitwan-thumbnail.jpg",
-    "sliders": [
-      "chitwan-slider-1.jpg",
-      "chitwan-slider-2.jpg",
-      "chitwan-slider-3.jpg"
-    ],
-    "food": "Traditional Tharu dishes and Nepali cuisine.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2901.999303080087!2d84.4401!3d27.5294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sChitwan!5e0!3m2!1sen!2snp!4v1604399498901!5m2!1sen!2snp",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de742" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4422" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de743" },
-    "name": "Lumbini",
-    "slug": "lumbini",
-    "about": "The birthplace of Buddha, a UNESCO World Heritage site and pilgrimage destination.",
-    "location": "Rupandehi District",
-    "image": "lumbini.jpg",
-    "thumbnail": "lumbini-thumbnail.jpg",
-    "sliders": [
-      "lumbini-slider-1.jpg",
-      "lumbini-slider-2.jpg",
-      "lumbini-slider-3.jpg"
-    ],
-    "food": "Newari cuisine and local specialties.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.999303080087!2d83.2762!3d27.6795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sLumbini!5e0!3m2!1sen!2snp!4v1604399509012!5m2!1sen!2snp",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de743" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4423" }]
-  },
+        "_id": { "$oid": "64bc1671e063176c465de740" },
+        "name": "Kathmandu",
+        "slug": "kathmandu",
+        "about": "The capital city of Nepal, known for its temples, historical sites, and vibrant culture.",
+        "location": "Kathmandu Valley",
+        "image": "kathmandu.jpg",
+        "thumbnail": "kathmandu-thumbnail.jpg",
+        "sliders": [
+            "kathmandu-slider-1.jpg",
+            "kathmandu-slider-2.jpg",
+            "kathmandu-slider-3.jpg"
+        ],
+        "food": "Momo, dal bhat, and Newari cuisine.",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.999303080087!2d85.3240!3d27.7172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sKathmandu!5e0!3m2!1sen!2snp!4v1604399476789!5m2!1sen!2snp",
+        "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+        "hotels": [{ "$oid": "66bc1771e063176c465de740" }],
+        "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4420" }]
+    },
+    {
+        "_id": { "$oid": "64bc1671e063176c465de741" },
+        "name": "Pokhara",
+        "slug": "pokhara",
+        "about": "Known for its beautiful lakes, panoramic views of the Himalayas, and adventure tourism.",
+        "location": "Gandaki Province",
+        "image": "pokhara.jpg",
+        "thumbnail": "pokhara-thumbnail.jpg",
+        "sliders": [
+            "pokhara-slider-1.jpg",
+            "pokhara-slider-2.jpg",
+            "pokhara-slider-3.jpg"
+        ],
+        "food": "Thakali cuisine, momos, and fish from the lakes.",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.999303080087!2d83.9810!3d28.2096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sPokhara!5e0!3m2!1sen!2snp!4v1604399487890!5m2!1sen!2snp",
+        "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+        "hotels": [{ "$oid": "66bc1771e063176c465de741" }],
+        "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4421" }]
+    },
+    {
+        "_id": { "$oid": "64bc1671e063176c465de742" },
+        "name": "Chitwan",
+        "slug": "chitwan",
+        "about": "Home to Chitwan National Park, a UNESCO World Heritage site known for its wildlife.",
+        "location": "Chitwan District",
+        "image": "chitwan.jpg",
+        "thumbnail": "chitwan-thumbnail.jpg",
+        "sliders": [
+            "chitwan-slider-1.jpg",
+            "chitwan-slider-2.jpg",
+            "chitwan-slider-3.jpg"
+        ],
+        "food": "Traditional Tharu dishes and Nepali cuisine.",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2901.999303080087!2d84.4401!3d27.5294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sChitwan!5e0!3m2!1sen!2snp!4v1604399498901!5m2!1sen!2snp",
+        "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+        "hotels": [{ "$oid": "66bc1771e063176c465de742" }],
+        "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4422" }]
+    },
+    {
+        "_id": { "$oid": "64bc1671e063176c465de743" },
+        "name": "Lumbini",
+        "slug": "lumbini",
+        "about": "The birthplace of Buddha, a UNESCO World Heritage site and pilgrimage destination.",
+        "location": "Rupandehi District",
+        "image": "lumbini.jpg",
+        "thumbnail": "lumbini-thumbnail.jpg",
+        "sliders": [
+            "lumbini-slider-1.jpg",
+            "lumbini-slider-2.jpg",
+            "lumbini-slider-3.jpg"
+        ],
+        "food": "Newari cuisine and local specialties.",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.999303080087!2d83.2762!3d27.6795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sLumbini!5e0!3m2!1sen!2snp!4v1604399509012!5m2!1sen!2snp",
+        "country": { "$oid": "66bb9a8d3b76361b7f2d4481" },
+        "hotels": [{ "$oid": "66bc1771e063176c465de743" }],
+        "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4423" }]
+    },
   {
     "_id": { "$oid": "64bc1671e063176c465de750" },
     "name": "Bangkok",
@@ -1073,81 +620,5 @@
     "country": { "$oid": "66bb9a8d3b76361b7f2d448a" },
     "hotels": [{ "$oid": "66bc1771e063176c465de753" }],
     "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4433" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de754" },
-    "name": "Zurich",
-    "slug": "zurich",
-    "about": "Switzerland’s largest city, known for its financial district, shopping, and vibrant cultural scene.",
-    "location": "Central Switzerland",
-    "image": "zurich.jpg",
-    "thumbnail": "zurich-thumbnail.jpg",
-    "sliders": [
-      "zurich-slider-1.jpg",
-      "zurich-slider-2.jpg",
-      "zurich-slider-3.jpg"
-    ],
-    "food": "Zürcher Geschnetzeltes, Fondue, and Rösti.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2648.000203080087!2d8.5417!3d47.3769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sZurich!5e0!3m2!1sen!2sch!4v1604399623456!5m2!1sen!2sch",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de754" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4434" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de755" },
-    "name": "Geneva",
-    "slug": "geneva",
-    "about": "Known for its Red Cross headquarters, United Nations office, and a wealth of luxury shopping and dining.",
-    "location": "Western Switzerland",
-    "image": "geneva.jpg",
-    "thumbnail": "geneva-thumbnail.jpg",
-    "sliders": [
-      "geneva-slider-1.jpg",
-      "geneva-slider-2.jpg",
-      "geneva-slider-3.jpg"
-    ],
-    "food": "Filets de Perche, Longeole, and Papet Vaudois.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2652.999303080087!2d6.1432!3d46.2044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sGeneva!5e0!3m2!1sen!2sch!4v1604399645678!5m2!1sen!2sch",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de755" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4435" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de756" },
-    "name": "Interlaken",
-    "slug": "interlaken",
-    "about": "A scenic resort town, nestled between two lakes and known for its adventure sports and alpine scenery.",
-    "location": "Bernese Oberland",
-    "image": "interlaken.jpg",
-    "thumbnail": "interlaken-thumbnail.jpg",
-    "sliders": [
-      "interlaken-slider-1.jpg",
-      "interlaken-slider-2.jpg",
-      "interlaken-slider-3.jpg"
-    ],
-    "food": "Alpine cheese fondue, Raclette, and Birchermüesli.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2651.000303080087!2d7.8501!3d46.6885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sInterlaken!5e0!3m2!1sen!2sch!4v1604399654321!5m2!1sen!2sch",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de756" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4436" }]
-  },
-  {
-    "_id": { "$oid": "64bc1671e063176c465de757" },
-    "name": "Zermatt",
-    "slug": "zermatt",
-    "about": "A car-free town, famous for skiing and the Matterhorn mountain, offering a year-round alpine experience.",
-    "location": "Southern Switzerland",
-    "image": "zermatt.jpg",
-    "thumbnail": "zermatt-thumbnail.jpg",
-    "sliders": [
-      "zermatt-slider-1.jpg",
-      "zermatt-slider-2.jpg",
-      "zermatt-slider-3.jpg"
-    ],
-    "food": "Raclette, Älplermagronen, and Rösti.",
-    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.999303080087!2d7.7489!3d46.0207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851ebe52c161d%3A0x1234567890abcdef!2sZermatt!5e0!3m2!1sen!2sch!4v1604399667890!5m2!1sen!2sch",
-    "country": { "$oid": "66bb9a8d3b76361b7f2d4489" },
-    "hotels": [{ "$oid": "66bc1771e063176c465de757" }],
-    "restaurants": [{ "$oid": "66bb899a3b76361b7f2d4437" }]
   }
 ]

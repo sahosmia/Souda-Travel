@@ -5,6 +5,7 @@ import React from "react";
 
 const HotelItem = ({ hotel }: { hotel: HotelItemType }) => {
   const { name, slug, image } = hotel;
+  // console.log(hotel);
 
   return (
     <Link href={`/hotels/${slug}`}>

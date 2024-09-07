@@ -4,6 +4,8 @@ import NoDataMessage from "../core/NoDataMessage";
 import HotelCarousel from "../carousel/HotelCarousel";
 
 const HotelListSection = ({ hotels }: { hotels: HotelItemType[] }) => {
+  // console.log(hotels);
+  
   return (
     <div className="container py-8">
       <SectionHeading title="Hotels" />
